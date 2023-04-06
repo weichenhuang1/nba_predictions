@@ -1,0 +1,640 @@
+date,winner,loser,winner_score,loser_score
+"['1985', '01', '01']",Philadelphia,Portland,111,106
+"['1985', '01', '01']",Indiana,Utah,119,117
+"['1985', '01', '02']",Atlanta,Chicago,121,107
+"['1985', '01', '02']",Houston,Denver,113,111
+"['1985', '01', '02']",Detroit,Cleveland,108,100
+"['1985', '01', '02']",Phoenix,Kansas City,115,107
+"['1985', '01', '02']",Boston,New Jersey,110,95
+"['1985', '01', '02']",Philadelphia,Seattle,118,109
+"['1985', '01', '03']",Cleveland,Washington,100,93
+"['1985', '01', '03']",Indiana,Golden State,112,96
+"['1985', '01', '03']",Milwaukee,LA Clippers,111,87
+"['1985', '01', '03']",Portland,Seattle,123,89
+"['1985', '01', '03']",San Antonio,Dallas,116,115
+"['1985', '01', '04']",Boston,New York,105,94
+"['1985', '01', '04']",Chicago,Milwaukee,106,101
+"['1985', '01', '04']",Detroit,Atlanta,134,111
+"['1985', '01', '04']",Kansas City,LA Clippers,132,112
+"['1985', '01', '04']",LA Lakers,Portland,120,95
+"['1985', '01', '04']",New Jersey,Phoenix,105,98
+"['1985', '01', '04']",Utah,Denver,118,108
+"['1985', '01', '05']",Atlanta,New Jersey,124,114
+"['1985', '01', '05']",Cleveland,Phoenix,111,106
+"['1985', '01', '05']",Dallas,Kansas City,135,107
+"['1985', '01', '05']",LA Clippers,Denver,127,115
+"['1985', '01', '05']",Houston,Golden State,103,94
+"['1985', '01', '05']",Philadelphia,Milwaukee,110,106
+"['1985', '01', '05']",New York,Chicago,119,113
+"['1985', '01', '05']",Seattle,Indiana,104,97
+"['1985', '01', '05']",Detroit,Washington,121,113
+"['1985', '01', '06']",LA Lakers,San Antonio,99,98
+"['1985', '01', '06']",Portland,Indiana,118,101
+"['1985', '01', '06']",Utah,Houston,121,92
+"['1985', '01', '07']",Kansas City,Golden State,110,101
+"['1985', '01', '07']",LA Clippers,Utah,116,106
+"['1985', '01', '07']",Boston,New York,108,97
+"['1985', '01', '07']",Philadelphia,Phoenix,100,99
+"['1985', '01', '07']",Dallas,Seattle,102,84
+"['1985', '01', '08']",Cleveland,New Jersey,107,101
+"['1985', '01', '08']",Houston,Kansas City,112,110
+"['1985', '01', '08']",Denver,LA Lakers,126,124
+"['1985', '01', '08']",Washington,Milwaukee,99,95
+"['1985', '01', '08']",Dallas,Portland,108,102
+"['1985', '01', '08']",San Antonio,Golden State,139,94
+"['1985', '01', '09']",Boston,Chicago,111,108
+"['1985', '01', '09']",Denver,New York,100,95
+"['1985', '01', '09']",Milwaukee,Indiana,106,105
+"['1985', '01', '09']",Philadelphia,Detroit,126,122
+"['1985', '01', '09']",Phoenix,Seattle,94,88
+"['1985', '01', '10']",Seattle,Golden State,89,86
+"['1985', '01', '10']",Dallas,Kansas City,117,110
+"['1985', '01', '10']",LA Lakers,Utah,120,112
+"['1985', '01', '11']",Boston,Washington,103,101
+"['1985', '01', '11']",Chicago,New York,113,97
+"['1985', '01', '11']",LA Lakers,Dallas,121,102
+"['1985', '01', '11']",Denver,Kansas City,143,121
+"['1985', '01', '11']",Detroit,Indiana,120,109
+"['1985', '01', '11']",Milwaukee,Cleveland,130,117
+"['1985', '01', '11']",New Jersey,Atlanta,122,103
+"['1985', '01', '11']",Philadelphia,Houston,115,108
+"['1985', '01', '11']",LA Clippers,Phoenix,98,84
+"['1985', '01', '11']",Portland,San Antonio,123,103
+"['1985', '01', '12']",Boston,Atlanta,119,111
+"['1985', '01', '12']",Cleveland,Chicago,101,98
+"['1985', '01', '12']",LA Clippers,Golden State,104,102
+"['1985', '01', '12']",Indiana,New York,100,95
+"['1985', '01', '12']",Phoenix,Utah,109,94
+"['1985', '01', '13']",Dallas,Portland,124,101
+"['1985', '01', '13']",Detroit,LA Lakers,121,98
+"['1985', '01', '13']",Milwaukee,Denver,140,116
+"['1985', '01', '13']",New Jersey,Houston,100,99
+"['1985', '01', '13']",Seattle,Kansas City,119,114
+"['1985', '01', '13']",Philadelphia,Washington,115,104
+"['1985', '01', '14']",Chicago,Denver,122,113
+"['1985', '01', '14']",Washington,Cleveland,101,91
+"['1985', '01', '15']",Dallas,Golden State,149,104
+"['1985', '01', '15']",Atlanta,Indiana,120,113
+"['1985', '01', '15']",Cleveland,Kansas City,116,112
+"['1985', '01', '15']",Milwaukee,LA Lakers,115,105
+"['1985', '01', '15']",Philadelphia,New York,93,82
+"['1985', '01', '15']",Portland,Houston,121,117
+"['1985', '01', '15']",San Antonio,Utah,121,101
+"['1985', '01', '15']",Seattle,LA Clippers,101,83
+"['1985', '01', '16']",Boston,LA Lakers,104,102
+"['1985', '01', '16']",Denver,Golden State,115,107
+"['1985', '01', '16']",LA Clippers,Houston,98,88
+"['1985', '01', '16']",New Jersey,Chicago,100,94
+"['1985', '01', '16']",Philadelphia,Atlanta,122,99
+"['1985', '01', '16']",Phoenix,Dallas,98,95
+"['1985', '01', '16']",Washington,Utah,103,101
+"['1985', '01', '17']",Chicago,Cleveland,98,93
+"['1985', '01', '17']",San Antonio,Kansas City,141,130
+"['1985', '01', '17']",Detroit,New York,105,89
+"['1985', '01', '18']",Atlanta,Seattle,104,90
+"['1985', '01', '18']",Denver,Washington,108,106
+"['1985', '01', '18']",Indiana,Boston,91,86
+"['1985', '01', '18']",LA Lakers,Dallas,110,92
+"['1985', '01', '18']",Milwaukee,New Jersey,102,93
+"['1985', '01', '18']",Houston,Phoenix,112,101
+"['1985', '01', '18']",Utah,Portland,127,122
+"['1985', '01', '19']",Seattle,Cleveland,106,105
+"['1985', '01', '19']",LA Lakers,Golden State,139,109
+"['1985', '01', '19']",Houston,Utah,120,95
+"['1985', '01', '19']",Indiana,Chicago,110,107
+"['1985', '01', '19']",Kansas City,Washington,103,98
+"['1985', '01', '19']",Dallas,LA Clippers,101,100
+"['1985', '01', '19']",Detroit,New Jersey,109,107
+"['1985', '01', '19']",New York,Atlanta,88,86
+"['1985', '01', '19']",Denver,Portland,123,120
+"['1985', '01', '19']",San Antonio,Phoenix,106,100
+"['1985', '01', '20']",Boston,Philadelphia,113,97
+"['1985', '01', '21']",Indiana,Golden State,129,127
+"['1985', '01', '21']",Washington,Cleveland,128,115
+"['1985', '01', '22']",Detroit,Atlanta,130,113
+"['1985', '01', '22']",Chicago,Portland,123,115
+"['1985', '01', '22']",Philadelphia,Cleveland,101,100
+"['1985', '01', '22']",Houston,Phoenix,101,97
+"['1985', '01', '22']",LA Lakers,LA Clippers,123,114
+"['1985', '01', '22']",New York,Seattle,92,90
+"['1985', '01', '22']",San Antonio,Kansas City,117,113
+"['1985', '01', '22']",Utah,New Jersey,102,99
+"['1985', '01', '22']",Washington,Golden State,109,104
+"['1985', '01', '23']",Atlanta,Phoenix,101,100
+"['1985', '01', '23']",Seattle,Boston,107,97
+"['1985', '01', '23']",Dallas,San Antonio,122,110
+"['1985', '01', '23']",Portland,Indiana,136,104
+"['1985', '01', '24']",Denver,New Jersey,119,110
+"['1985', '01', '24']",Detroit,Golden State,137,118
+"['1985', '01', '24']",Milwaukee,Kansas City,120,119
+"['1985', '01', '24']",Cleveland,Utah,110,109
+"['1985', '01', '24']",Washington,Dallas,93,92
+"['1985', '01', '25']",Boston,Indiana,125,94
+"['1985', '01', '25']",Chicago,Seattle,93,76
+"['1985', '01', '25']",San Antonio,Houston,122,107
+"['1985', '01', '25']",LA Lakers,Philadelphia,109,104
+"['1985', '01', '26']",Chicago,Atlanta,117,104
+"['1985', '01', '26']",New Jersey,Dallas,103,93
+"['1985', '01', '26']",Denver,Cleveland,144,127
+"['1985', '01', '26']",Detroit,Seattle,132,113
+"['1985', '01', '26']",Milwaukee,Houston,105,102
+"['1985', '01', '26']",Kansas City,Golden State,120,111
+"['1985', '01', '26']",Philadelphia,LA Clippers,120,113
+"['1985', '01', '26']",New York,Indiana,109,106
+"['1985', '01', '26']",Utah,LA Lakers,96,83
+"['1985', '01', '26']",Washington,Phoenix,110,105
+"['1985', '01', '27']",Boston,Portland,128,127
+"['1985', '01', '27']",Detroit,Washington,115,105
+"['1985', '01', '27']",Milwaukee,San Antonio,106,93
+"['1985', '01', '28']",Dallas,Philadelphia,111,109
+"['1985', '01', '28']",Houston,New Jersey,97,93
+"['1985', '01', '28']",New York,LA Clippers,117,91
+"['1985', '01', '28']",Denver,Utah,104,100
+"['1985', '01', '29']",Atlanta,Indiana,115,106
+"['1985', '01', '29']",Boston,Detroit,131,130
+"['1985', '01', '29']",Chicago,Kansas City,103,97
+"['1985', '01', '29']",Cleveland,LA Clippers,110,94
+"['1985', '01', '29']",Denver,Phoenix,128,100
+"['1985', '01', '29']",Milwaukee,Golden State,108,101
+"['1985', '01', '29']",LA Lakers,Portland,122,106
+"['1985', '01', '29']",San Antonio,New Jersey,130,127
+"['1985', '01', '30']",Detroit,Kansas City,120,116
+"['1985', '01', '30']",Indiana,Cleveland,120,115
+"['1985', '01', '30']",Houston,LA Lakers,116,113
+"['1985', '01', '30']",Philadelphia,Boston,122,104
+"['1985', '01', '30']",Phoenix,New York,110,93
+"['1985', '01', '30']",Washington,Chicago,106,95
+"['1985', '01', '31']",Denver,Dallas,121,110
+"['1985', '01', '31']",Portland,Golden State,129,109
+"['1985', '01', '31']",New Jersey,LA Clippers,122,99
+"['1985', '01', '31']",Seattle,San Antonio,96,94
+"['1985', '02', '01']",Atlanta,Cleveland,126,108
+"['1985', '02', '01']",Boston,Kansas City,142,123
+"['1985', '02', '01']",Utah,Dallas,121,109
+"['1985', '02', '01']",Indiana,Washington,102,95
+"['1985', '02', '01']",LA Lakers,New York,105,104
+"['1985', '02', '01']",Philadelphia,Chicago,121,110
+"['1985', '02', '01']",San Antonio,Portland,104,93
+"['1985', '02', '01']",Milwaukee,Seattle,109,91
+"['1985', '02', '02']",Cleveland,Kansas City,124,106
+"['1985', '02', '02']",Detroit,Atlanta,110,102
+"['1985', '02', '02']",Golden State,New York,114,98
+"['1985', '02', '02']",Houston,Denver,131,128
+"['1985', '02', '02']",LA Lakers,LA Clippers,105,96
+"['1985', '02', '02']",New Jersey,Philadelphia,101,96
+"['1985', '02', '02']",Milwaukee,Portland,105,95
+"['1985', '02', '02']",Utah,San Antonio,105,104
+"['1985', '02', '02']",Boston,Washington,97,91
+"['1985', '02', '03']",Dallas,Denver,114,106
+"['1985', '02', '03']",LA Lakers,Indiana,122,100
+"['1985', '02', '03']",Phoenix,Seattle,120,109
+"['1985', '02', '04']",LA Clippers,Indiana,115,96
+"['1985', '02', '04']",Detroit,Milwaukee,113,111
+"['1985', '02', '04']",Philadelphia,Atlanta,106,92
+"['1985', '02', '04']",San Antonio,Golden State,114,109
+"['1985', '02', '04']",Cleveland,Washington,121,112
+"['1985', '02', '05']",Dallas,Atlanta,112,103
+"['1985', '02', '05']",Boston,Chicago,110,106
+"['1985', '02', '05']",New Jersey,Detroit,119,117
+"['1985', '02', '05']",LA Lakers,Houston,113,104
+"['1985', '02', '05']",Kansas City,San Antonio,135,116
+"['1985', '02', '05']",Phoenix,Denver,108,103
+"['1985', '02', '05']",Portland,Utah,126,106
+"['1985', '02', '05']",New York,Seattle,110,108
+"['1985', '02', '06']",Boston,Cleveland,113,108
+"['1985', '02', '06']",Dallas,Golden State,129,103
+"['1985', '02', '06']",Denver,Seattle,120,101
+"['1985', '02', '06']",New Jersey,Milwaukee,106,93
+"['1985', '02', '06']",Philadelphia,Washington,116,111
+"['1985', '02', '07']",Cleveland,Chicago,108,99
+"['1985', '02', '07']",Houston,Golden State,112,105
+"['1985', '02', '07']",Utah,Kansas City,114,96
+"['1985', '02', '07']",Atlanta,Milwaukee,94,91
+"['1985', '02', '07']",Phoenix,Indiana,105,97
+"['1985', '02', '07']",Portland,New York,133,122
+"['1985', '02', '07']",San Antonio,LA Clippers,120,108
+"['1985', '02', '07']",Washington,Detroit,128,126
+"['1985', '02', '12']",Chicago,Detroit,139,126
+"['1985', '02', '12']",Dallas,Cleveland,131,112
+"['1985', '02', '12']",Denver,Atlanta,131,107
+"['1985', '02', '12']",Utah,Golden State,122,110
+"['1985', '02', '12']",Houston,Phoenix,126,114
+"['1985', '02', '12']",Philadelphia,Indiana,124,116
+"['1985', '02', '12']",LA Lakers,LA Clippers,121,110
+"['1985', '02', '12']",Milwaukee,New Jersey,111,103
+"['1985', '02', '12']",Portland,Boston,111,103
+"['1985', '02', '12']",San Antonio,Kansas City,127,109
+"['1985', '02', '12']",Seattle,Washington,109,94
+"['1985', '02', '13']",Detroit,Dallas,124,119
+"['1985', '02', '13']",LA Clippers,Golden State,108,105
+"['1985', '02', '13']",New Jersey,Cleveland,112,105
+"['1985', '02', '13']",Philadelphia,New York,131,129
+"['1985', '02', '13']",Atlanta,Utah,94,88
+"['1985', '02', '14']",Milwaukee,Indiana,132,128
+"['1985', '02', '14']",Denver,Kansas City,138,123
+"['1985', '02', '14']",Houston,New York,113,105
+"['1985', '02', '14']",San Antonio,Phoenix,131,102
+"['1985', '02', '14']",Boston,Seattle,110,94
+"['1985', '02', '15']",Indiana,Chicago,114,96
+"['1985', '02', '15']",Phoenix,Dallas,126,103
+"['1985', '02', '15']",Denver,San Antonio,129,119
+"['1985', '02', '15']",Boston,Golden State,107,100
+"['1985', '02', '15']",LA Lakers,Atlanta,120,111
+"['1985', '02', '15']",New Jersey,Detroit,124,123
+"['1985', '02', '15']",Cleveland,Philadelphia,112,107
+"['1985', '02', '15']",Portland,Washington,93,89
+"['1985', '02', '15']",Utah,LA Clippers,109,100
+"['1985', '02', '16']",Houston,Cleveland,122,115
+"['1985', '02', '16']",Philadelphia,Detroit,125,114
+"['1985', '02', '16']",New Jersey,New York,126,117
+"['1985', '02', '16']",Kansas City,Seattle,111,106
+"['1985', '02', '17']",Golden State,Washington,125,121
+"['1985', '02', '17']",Phoenix,Indiana,115,97
+"['1985', '02', '17']",Atlanta,LA Clippers,91,90
+"['1985', '02', '17']",LA Lakers,Boston,117,111
+"['1985', '02', '17']",Milwaukee,Chicago,125,105
+"['1985', '02', '17']",Portland,Kansas City,115,96
+"['1985', '02', '18']",Cleveland,Philadelphia,120,113
+"['1985', '02', '18']",Detroit,Phoenix,122,103
+"['1985', '02', '18']",LA Clippers,San Antonio,125,121
+"['1985', '02', '18']",Boston,Utah,110,94
+"['1985', '02', '19']",Atlanta,Golden State,107,104
+"['1985', '02', '19']",LA Lakers,Chicago,127,117
+"['1985', '02', '19']",Dallas,Houston,124,115
+"['1985', '02', '19']",Kansas City,Portland,116,96
+"['1985', '02', '19']",Milwaukee,New York,129,118
+"['1985', '02', '20']",Dallas,Portland,104,98
+"['1985', '02', '20']",Denver,Boston,132,129
+"['1985', '02', '20']",Milwaukee,Detroit,113,112
+"['1985', '02', '20']",Cleveland,Indiana,102,92
+"['1985', '02', '20']",Seattle,LA Clippers,118,105
+"['1985', '02', '20']",Utah,New Jersey,110,104
+"['1985', '02', '20']",Philadelphia,Golden State,137,116
+"['1985', '02', '20']",Houston,Phoenix,126,122
+"['1985', '02', '20']",Washington,San Antonio,105,104
+"['1985', '02', '21']",LA Lakers,Kansas City,123,117
+"['1985', '02', '22']",New York,Atlanta,113,105
+"['1985', '02', '22']",Boston,Chicago,115,105
+"['1985', '02', '22']",Utah,Cleveland,102,98
+"['1985', '02', '22']",Dallas,Washington,110,101
+"['1985', '02', '22']",Houston,Portland,117,103
+"['1985', '02', '22']",Indiana,LA Lakers,122,113
+"['1985', '02', '22']",Golden State,New Jersey,131,127
+"['1985', '02', '22']",Philadelphia,Detroit,110,99
+"['1985', '02', '22']",San Antonio,Phoenix,118,111
+"['1985', '02', '22']",Seattle,Denver,133,123
+"['1985', '02', '23']",Chicago,Golden State,140,125
+"['1985', '02', '23']",Cleveland,Milwaukee,128,106
+"['1985', '02', '23']",New Jersey,Detroit,111,103
+"['1985', '02', '23']",Washington,Houston,123,115
+"['1985', '02', '23']",Dallas,Kansas City,121,98
+"['1985', '02', '24']",Denver,Phoenix,117,107
+"['1985', '02', '24']",Boston,Indiana,113,100
+"['1985', '02', '24']",LA Lakers,New York,119,114
+"['1985', '02', '24']",Philadelphia,Utah,117,108
+"['1985', '02', '24']",Portland,San Antonio,137,121
+"['1985', '02', '24']",Seattle,LA Clippers,108,102
+"['1985', '02', '26']",Denver,Atlanta,106,94
+"['1985', '02', '26']",Cleveland,Chicago,123,118
+"['1985', '02', '26']",Utah,Dallas,103,96
+"['1985', '02', '26']",Golden State,Seattle,128,119
+"['1985', '02', '26']",Kansas City,Phoenix,110,103
+"['1985', '02', '26']",LA Lakers,Houston,100,94
+"['1985', '02', '26']",Milwaukee,Philadelphia,116,97
+"['1985', '02', '26']",New York,San Antonio,129,122
+"['1985', '02', '26']",Portland,LA Clippers,110,99
+"['1985', '02', '27']",Boston,San Antonio,111,102
+"['1985', '02', '27']",Detroit,Chicago,108,99
+"['1985', '02', '27']",Indiana,New York,108,106
+"['1985', '02', '27']",Houston,LA Clippers,117,109
+"['1985', '02', '27']",New Jersey,Atlanta,114,91
+"['1985', '02', '27']",Milwaukee,Utah,119,100
+"['1985', '02', '27']",Denver,Washington,124,111
+"['1985', '02', '28']",Golden State,Portland,124,120
+"['1985', '02', '28']",Philadelphia,Kansas City,127,119
+"['1985', '02', '28']",Phoenix,LA Lakers,117,105
+"['1985', '02', '28']",Cleveland,Seattle,120,95
+"['1985', '03', '01']",Atlanta,Boston,114,105
+"['1985', '03', '01']",Chicago,New York,109,104
+"['1985', '03', '01']",Denver,Dallas,141,140
+"['1985', '03', '01']",San Antonio,Detroit,108,98
+"['1985', '03', '01']",Cleveland,Portland,111,103
+"['1985', '03', '01']",Houston,Utah,119,115
+"['1985', '03', '01']",New Jersey,Washington,100,98
+"['1985', '03', '02']",San Antonio,Atlanta,105,92
+"['1985', '03', '02']",LA Lakers,Dallas,125,106
+"['1985', '03', '02']",Denver,Milwaukee,123,122
+"['1985', '03', '02']",Golden State,LA Clippers,108,102
+"['1985', '03', '02']",Seattle,Indiana,106,92
+"['1985', '03', '02']",Washington,New York,109,97
+"['1985', '03', '02']",Phoenix,Kansas City,114,111
+"['1985', '03', '03']",Boston,Detroit,138,129
+"['1985', '03', '03']",New Jersey,Chicago,117,113
+"['1985', '03', '03']",Houston,Philadelphia,99,90
+"['1985', '03', '03']",Kansas City,LA Clippers,126,122
+"['1985', '03', '03']",Portland,Utah,121,93
+"['1985', '03', '04']",Cleveland,Golden State,108,104
+"['1985', '03', '04']",Dallas,Phoenix,107,99
+"['1985', '03', '04']",San Antonio,Philadelphia,109,103
+"['1985', '03', '05']",Portland,Atlanta,100,91
+"['1985', '03', '05']",Chicago,Washington,104,99
+"['1985', '03', '05']",Dallas,Indiana,108,102
+"['1985', '03', '05']",Denver,Houston,133,131
+"['1985', '03', '05']",Kansas City,New Jersey,134,113
+"['1985', '03', '05']",Milwaukee,Seattle,102,87
+"['1985', '03', '05']",Boston,New York,110,102
+"['1985', '03', '06']",Chicago,Boston,107,104
+"['1985', '03', '06']",Detroit,New York,114,90
+"['1985', '03', '06']",Utah,Houston,94,90
+"['1985', '03', '06']",Cleveland,LA Clippers,114,112
+"['1985', '03', '06']",LA Lakers,Golden State,145,119
+"['1985', '03', '06']",New Jersey,Seattle,129,108
+"['1985', '03', '06']",Philadelphia,Atlanta,96,86
+"['1985', '03', '06']",San Antonio,Indiana,108,102
+"['1985', '03', '06']",Washington,Portland,127,121
+"['1985', '03', '07']",Utah,Detroit,122,114
+"['1985', '03', '07']",Kansas City,Denver,142,140
+"['1985', '03', '07']",Phoenix,San Antonio,119,117
+"['1985', '03', '08']",Boston,Dallas,133,122
+"['1985', '03', '08']",Chicago,LA Clippers,117,101
+"['1985', '03', '08']",Houston,Indiana,125,105
+"['1985', '03', '08']",Milwaukee,Kansas City,127,114
+"['1985', '03', '08']",Portland,New Jersey,128,110
+"['1985', '03', '08']",Philadelphia,Seattle,128,114
+"['1985', '03', '09']",Detroit,Atlanta,115,113
+"['1985', '03', '09']",Utah,Chicago,111,105
+"['1985', '03', '09']",Denver,Indiana,126,116
+"['1985', '03', '09']",LA Lakers,Cleveland,133,106
+"['1985', '03', '09']",New York,Philadelphia,131,129
+"['1985', '03', '09']",Golden State,Phoenix,118,115
+"['1985', '03', '09']",Houston,San Antonio,123,117
+"['1985', '03', '09']",Seattle,Washington,93,92
+"['1985', '03', '10']",Kansas City,LA Clippers,129,111
+"['1985', '03', '10']",Milwaukee,Portland,110,94
+"['1985', '03', '10']",Dallas,New Jersey,126,113
+"['1985', '03', '11']",Milwaukee,Atlanta,121,115
+"['1985', '03', '11']",Cleveland,Indiana,122,110
+"['1985', '03', '11']",Dallas,Seattle,103,100
+"['1985', '03', '11']",Detroit,LA Clippers,121,114
+"['1985', '03', '11']",Washington,Chicago,119,112
+"['1985', '03', '12']",Boston,Atlanta,126,115
+"['1985', '03', '12']",Chicago,Detroit,111,110
+"['1985', '03', '12']",Golden State,San Antonio,145,122
+"['1985', '03', '12']",Houston,Denver,131,129
+"['1985', '03', '12']",Indiana,New Jersey,109,108
+"['1985', '03', '12']",Kansas City,Portland,120,114
+"['1985', '03', '12']",LA Lakers,Utah,123,108
+"['1985', '03', '12']",Phoenix,New York,123,119
+"['1985', '03', '13']",Boston,Phoenix,123,106
+"['1985', '03', '13']",Dallas,Kansas City,118,100
+"['1985', '03', '13']",Milwaukee,Cleveland,128,93
+"['1985', '03', '13']",New Jersey,Washington,114,109
+"['1985', '03', '13']",Philadelphia,LA Clippers,121,103
+"['1985', '03', '13']",LA Lakers,Utah,120,105
+"['1985', '03', '14']",Atlanta,Golden State,120,112
+"['1985', '03', '14']",LA Clippers,Indiana,113,112
+"['1985', '03', '14']",New York,Chicago,106,97
+"['1985', '03', '14']",San Antonio,Seattle,100,93
+"['1985', '03', '15']",Chicago,Phoenix,103,97
+"['1985', '03', '15']",Boston,Cleveland,119,96
+"['1985', '03', '15']",Dallas,Denver,127,108
+"['1985', '03', '15']",LA Lakers,San Antonio,115,114
+"['1985', '03', '15']",Philadelphia,New York,119,110
+"['1985', '03', '15']",Portland,Golden State,126,101
+"['1985', '03', '15']",Utah,Kansas City,115,112
+"['1985', '03', '15']",Washington,Houston,120,114
+"['1985', '03', '16']",Cleveland,Dallas,135,128
+"['1985', '03', '16']",LA Lakers,LA Clippers,123,112
+"['1985', '03', '16']",Milwaukee,Phoenix,125,96
+"['1985', '03', '16']",New York,Indiana,116,114
+"['1985', '03', '16']",Philadelphia,New Jersey,127,107
+"['1985', '03', '16']",Seattle,Atlanta,108,99
+"['1985', '03', '17']",Boston,Houston,134,120
+"['1985', '03', '17']",Chicago,Milwaukee,119,117
+"['1985', '03', '17']",Kansas City,Utah,107,101
+"['1985', '03', '17']",Golden State,LA Clippers,109,100
+"['1985', '03', '17']",New Jersey,Indiana,129,105
+"['1985', '03', '17']",Portland,Atlanta,114,101
+"['1985', '03', '17']",San Antonio,Denver,124,119
+"['1985', '03', '17']",Seattle,Detroit,106,98
+"['1985', '03', '18']",Denver,Dallas,113,111
+"['1985', '03', '18']",LA Clippers,Detroit,136,116
+"['1985', '03', '18']",Utah,Golden State,136,125
+"['1985', '03', '19']",Atlanta,Washington,103,97
+"['1985', '03', '19']",Cleveland,Philadelphia,116,89
+"['1985', '03', '19']",Dallas,San Antonio,96,89
+"['1985', '03', '19']",Houston,Chicago,106,100
+"['1985', '03', '19']",Milwaukee,New Jersey,130,111
+"['1985', '03', '19']",LA Lakers,Phoenix,130,112
+"['1985', '03', '19']",Portland,Detroit,143,123
+"['1985', '03', '20']",Boston,Milwaukee,107,105
+"['1985', '03', '20']",Denver,Indiana,123,119
+"['1985', '03', '20']",LA Clippers,Utah,121,110
+"['1985', '03', '20']",New Jersey,Cleveland,128,108
+"['1985', '03', '20']",Kansas City,Philadelphia,118,117
+"['1985', '03', '20']",San Antonio,Chicago,106,98
+"['1985', '03', '20']",Seattle,Golden State,123,109
+"['1985', '03', '20']",Washington,New York,105,102
+"['1985', '03', '21']",Detroit,Golden State,122,113
+"['1985', '03', '21']",Phoenix,Portland,114,104
+"['1985', '03', '22']",Kansas City,Atlanta,121,102
+"['1985', '03', '22']",Boston,Cleveland,129,117
+"['1985', '03', '22']",LA Lakers,Houston,130,107
+"['1985', '03', '22']",New York,Indiana,118,113
+"['1985', '03', '22']",Denver,New Jersey,123,111
+"['1985', '03', '22']",Milwaukee,Philadelphia,131,112
+"['1985', '03', '22']",Dallas,San Antonio,123,114
+"['1985', '03', '22']",Utah,Seattle,110,85
+"['1985', '03', '23']",Atlanta,Cleveland,91,86
+"['1985', '03', '23']",Chicago,Dallas,107,97
+"['1985', '03', '23']",Golden State,Phoenix,123,109
+"['1985', '03', '23']",Kansas City,New York,113,105
+"['1985', '03', '23']",Milwaukee,Indiana,140,129
+"['1985', '03', '23']",Portland,LA Clippers,126,123
+"['1985', '03', '23']",Boston,Washington,104,98
+"['1985', '03', '24']",LA Lakers,Detroit,148,130
+"['1985', '03', '24']",Philadelphia,Denver,124,103
+"['1985', '03', '24']",San Antonio,Seattle,104,99
+"['1985', '03', '24']",Utah,Chicago,110,92
+"['1985', '03', '25']",Kansas City,Seattle,121,106
+"['1985', '03', '25']",Portland,LA Clippers,120,99
+"['1985', '03', '25']",Milwaukee,New York,126,106
+"['1985', '03', '26']",New Jersey,Atlanta,109,108
+"['1985', '03', '26']",Chicago,Indiana,120,119
+"['1985', '03', '26']",Cleveland,New York,112,98
+"['1985', '03', '26']",Dallas,Golden State,134,107
+"['1985', '03', '26']",Denver,Utah,104,89
+"['1985', '03', '26']",Houston,Kansas City,115,93
+"['1985', '03', '26']",Detroit,Phoenix,119,93
+"['1985', '03', '26']",Portland,LA Lakers,116,113
+"['1985', '03', '26']",Milwaukee,Washington,107,96
+"['1985', '03', '27']",Detroit,Houston,127,110
+"['1985', '03', '27']",Atlanta,Indiana,125,99
+"['1985', '03', '27']",Boston,New Jersey,105,95
+"['1985', '03', '27']",Philadelphia,Washington,115,97
+"['1985', '03', '27']",San Antonio,Golden State,121,120
+"['1985', '03', '27']",LA Lakers,Seattle,122,97
+"['1985', '03', '27']",Utah,Dallas,116,101
+"['1985', '03', '28']",Cleveland,Chicago,122,114
+"['1985', '03', '28']",Denver,Kansas City,133,115
+"['1985', '03', '28']",LA Clippers,Phoenix,116,110
+"['1985', '03', '28']",Milwaukee,New York,121,116
+"['1985', '03', '29']",Boston,Philadelphia,112,108
+"['1985', '03', '29']",Houston,Golden State,121,116
+"['1985', '03', '29']",LA Lakers,Dallas,120,115
+"['1985', '03', '29']",Portland,Seattle,125,99
+"['1985', '03', '29']",Utah,San Antonio,114,109
+"['1985', '03', '29']",Washington,New Jersey,122,98
+"['1985', '03', '30']",Philadelphia,Chicago,122,117
+"['1985', '03', '30']",Cleveland,Indiana,117,94
+"['1985', '03', '30']",Denver,Portland,129,117
+"['1985', '03', '30']",Houston,Utah,106,96
+"['1985', '03', '30']",Kansas City,Golden State,137,121
+"['1985', '03', '30']",Milwaukee,Atlanta,106,95
+"['1985', '03', '30']",New Jersey,New York,123,114
+"['1985', '03', '30']",LA Clippers,Phoenix,123,114
+"['1985', '03', '31']",Detroit,Boston,113,105
+"['1985', '03', '31']",Washington,Indiana,111,105
+"['1985', '03', '31']",San Antonio,LA Clippers,126,115
+"['1985', '03', '31']",LA Lakers,Phoenix,123,98
+"['1985', '04', '01']",Atlanta,Detroit,114,100
+"['1985', '04', '01']",Houston,Seattle,127,116
+"['1985', '04', '02']",Philadelphia,Atlanta,102,91
+"['1985', '04', '02']",Chicago,New Jersey,108,94
+"['1985', '04', '02']",Cleveland,Washington,122,107
+"['1985', '04', '02']",LA Lakers,Denver,118,104
+"['1985', '04', '02']",Dallas,Golden State,127,121
+"['1985', '04', '02']",Detroit,Indiana,124,121
+"['1985', '04', '02']",Milwaukee,Boston,109,103
+"['1985', '04', '02']",Phoenix,Seattle,119,109
+"['1985', '04', '02']",Portland,Houston,127,113
+"['1985', '04', '03']",Boston,Indiana,119,103
+"['1985', '04', '03']",LA Clippers,Kansas City,124,122
+"['1985', '04', '03']",New Jersey,New York,113,100
+"['1985', '04', '03']",Cleveland,Philadelphia,113,110
+"['1985', '04', '03']",San Antonio,LA Lakers,122,108
+"['1985', '04', '03']",Chicago,Washington,100,91
+"['1985', '04', '04']",Golden State,Houston,113,108
+"['1985', '04', '04']",Milwaukee,Detroit,130,121
+"['1985', '04', '04']",Atlanta,New York,100,79
+"['1985', '04', '04']",Denver,Phoenix,110,103
+"['1985', '04', '04']",Seattle,Utah,119,118
+"['1985', '04', '05']",Boston,Washington,115,104
+"['1985', '04', '05']",LA Clippers,Dallas,126,122
+"['1985', '04', '05']",Denver,San Antonio,118,109
+"['1985', '04', '05']",Cleveland,Detroit,119,118
+"['1985', '04', '05']",LA Lakers,Kansas City,132,125
+"['1985', '04', '05']",Philadelphia,Chicago,116,113
+"['1985', '04', '05']",Portland,Seattle,145,120
+"['1985', '04', '06']",Chicago,Atlanta,117,114
+"['1985', '04', '06']",Houston,Dallas,139,127
+"['1985', '04', '06']",Golden State,Kansas City,141,125
+"['1985', '04', '06']",Indiana,Philadelphia,121,117
+"['1985', '04', '06']",New Jersey,Milwaukee,108,104
+"['1985', '04', '06']",Utah,Phoenix,105,94
+"['1985', '04', '06']",Washington,Cleveland,109,101
+"['1985', '04', '07']",Boston,New York,114,102
+"['1985', '04', '07']",Denver,Golden State,130,125
+"['1985', '04', '07']",Detroit,Milwaukee,113,91
+"['1985', '04', '07']",LA Lakers,Portland,135,133
+"['1985', '04', '07']",San Antonio,Houston,126,105
+"['1985', '04', '07']",Phoenix,Seattle,125,110
+"['1985', '04', '08']",Indiana,Chicago,107,103
+"['1985', '04', '09']",Cleveland,New Jersey,114,100
+"['1985', '04', '09']",Houston,San Antonio,124,103
+"['1985', '04', '09']",Kansas City,Dallas,117,105
+"['1985', '04', '09']",LA Lakers,Denver,148,119
+"['1985', '04', '09']",Detroit,New York,107,97
+"['1985', '04', '09']",Philadelphia,Boston,113,104
+"['1985', '04', '09']",Portland,Phoenix,116,100
+"['1985', '04', '09']",Utah,LA Clippers,123,104
+"['1985', '04', '09']",Washington,Atlanta,130,110
+"['1985', '04', '10']",Atlanta,New York,98,94
+"['1985', '04', '10']",Detroit,Indiana,116,114
+"['1985', '04', '10']",LA Clippers,Denver,129,127
+"['1985', '04', '10']",Milwaukee,Washington,106,97
+"['1985', '04', '10']",New Jersey,Philadelphia,125,100
+"['1985', '04', '11']",Boston,Cleveland,121,115
+"['1985', '04', '11']",LA Lakers,Golden State,137,130
+"['1985', '04', '11']",Houston,Kansas City,125,123
+"['1985', '04', '11']",Dallas,Seattle,124,80
+"['1985', '04', '11']",Utah,Portland,145,107
+"['1985', '04', '12']",Milwaukee,Boston,115,113
+"['1985', '04', '12']",Atlanta,Chicago,119,108
+"['1985', '04', '12']",Detroit,Washington,102,96
+"['1985', '04', '12']",LA Clippers,Houston,115,110
+"['1985', '04', '12']",LA Lakers,Seattle,145,131
+"['1985', '04', '12']",Cleveland,New York,109,108
+"['1985', '04', '12']",Philadelphia,Indiana,111,105
+"['1985', '04', '12']",Phoenix,Utah,96,92
+"['1985', '04', '12']",Portland,Dallas,131,111
+"['1985', '04', '12']",San Antonio,Kansas City,117,112
+"['1985', '04', '13']",Atlanta,Indiana,122,117
+"['1985', '04', '13']",Denver,Golden State,127,120
+"['1985', '04', '13']",Milwaukee,New York,88,84
+"['1985', '04', '13']",New Jersey,Chicago,123,111
+"['1985', '04', '13']",Washington,Philadelphia,118,106
+"['1985', '04', '14']",New Jersey,Boston,129,118
+"['1985', '04', '14']",Detroit,Cleveland,116,113
+"['1985', '04', '14']",Houston,Seattle,121,98
+"['1985', '04', '14']",LA Lakers,Kansas City,122,116
+"['1985', '04', '14']",Dallas,LA Clippers,96,92
+"['1985', '04', '14']",Phoenix,Golden State,124,111
+"['1985', '04', '14']",Portland,Denver,117,112
+"['1985', '04', '14']",Utah,San Antonio,104,102
+"['1985', '04', '17']",Philadelphia,Washington,104,97
+"['1985', '04', '18']",Boston,Cleveland,126,123
+"['1985', '04', '18']",Dallas,Portland,139,131
+"['1985', '04', '18']",Denver,San Antonio,141,111
+"['1985', '04', '18']",Detroit,New Jersey,125,105
+"['1985', '04', '18']",LA Lakers,Phoenix,142,114
+"['1985', '04', '19']",Utah,Houston,115,101
+"['1985', '04', '19']",Milwaukee,Chicago,109,100
+"['1985', '04', '20']",Boston,Cleveland,108,106
+"['1985', '04', '20']",Portland,Dallas,124,121
+"['1985', '04', '20']",San Antonio,Denver,113,111
+"['1985', '04', '20']",LA Lakers,Phoenix,147,130
+"['1985', '04', '21']",Detroit,New Jersey,121,111
+"['1985', '04', '21']",Houston,Utah,122,96
+"['1985', '04', '21']",Milwaukee,Chicago,122,115
+"['1985', '04', '21']",Philadelphia,Washington,113,94
+"['1985', '04', '23']",Cleveland,Boston,105,98
+"['1985', '04', '23']",LA Lakers,Phoenix,119,103
+"['1985', '04', '23']",Portland,Dallas,122,109
+"['1985', '04', '23']",Denver,San Antonio,115,112
+"['1985', '04', '24']",Chicago,Milwaukee,109,107
+"['1985', '04', '24']",Detroit,New Jersey,116,115
+"['1985', '04', '24']",Utah,Houston,112,104
+"['1985', '04', '24']",Washington,Philadelphia,118,100
+"['1985', '04', '25']",Boston,Cleveland,117,115
+"['1985', '04', '25']",Portland,Dallas,115,113
+"['1985', '04', '26']",Milwaukee,Chicago,105,97
+"['1985', '04', '26']",San Antonio,Denver,116,111
+"['1985', '04', '26']",Houston,Utah,96,94
+"['1985', '04', '26']",Philadelphia,Washington,106,98
+"['1985', '04', '27']",LA Lakers,Portland,125,101
+"['1985', '04', '28']",Boston,Detroit,133,99
+"['1985', '04', '28']",Denver,San Antonio,126,99
+"['1985', '04', '28']",Utah,Houston,104,97
+"['1985', '04', '28']",Philadelphia,Milwaukee,127,105
+"['1985', '04', '30']",Boston,Detroit,121,114
+"['1985', '04', '30']",Denver,Utah,130,113
+"['1985', '04', '30']",LA Lakers,Portland,134,118
+"['1985', '04', '30']",Philadelphia,Milwaukee,112,108
+"['1985', '05', '02']",Denver,Utah,131,123
+"['1985', '05', '02']",Detroit,Boston,125,117
+"['1985', '05', '03']",Philadelphia,Milwaukee,109,104
+"['1985', '05', '03']",LA Lakers,Portland,130,126
+"['1985', '05', '04']",Utah,Denver,131,123
+"['1985', '05', '05']",Detroit,Boston,102,99
+"['1985', '05', '05']",Philadelphia,Milwaukee,121,112
+"['1985', '05', '05']",Portland,LA Lakers,115,107
+"['1985', '05', '05']",Denver,Utah,125,118
+"['1985', '05', '07']",Denver,Utah,116,104
+"['1985', '05', '07']",LA Lakers,Portland,139,120
+"['1985', '05', '08']",Boston,Detroit,130,123
+"['1985', '05', '10']",Boston,Detroit,123,113
+"['1985', '05', '11']",LA Lakers,Denver,139,122
+"['1985', '05', '12']",Boston,Philadelphia,108,93
+"['1985', '05', '14']",Boston,Philadelphia,106,98
+"['1985', '05', '14']",Denver,LA Lakers,136,114

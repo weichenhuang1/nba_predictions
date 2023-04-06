@@ -1,0 +1,1268 @@
+date,winner,loser,winner_score,loser_score
+"['2019', '01', '01']",Denver,New York,115,108
+"['2019', '01', '01']",Philadelphia,LA Clippers,119,113
+"['2019', '01', '01']",Milwaukee,Detroit,121,98
+"['2019', '01', '01']",Portland,Sacramento,113,108
+"['2019', '01', '01']",Toronto,Utah,122,116
+"['2019', '01', '02']",Boston,Minnesota,115,102
+"['2019', '01', '02']",Brooklyn,New Orleans,126,121
+"['2019', '01', '02']",Orlando,Chicago,112,84
+"['2019', '01', '02']",Dallas,Charlotte,122,84
+"['2019', '01', '02']",Miami,Cleveland,117,92
+"['2019', '01', '02']",Oklahoma City,LA Lakers,107,100
+"['2019', '01', '02']",Detroit,Memphis,101,94
+"['2019', '01', '02']",Philadelphia,Phoenix,132,127
+"['2019', '01', '02']",Washington,Atlanta,114,98
+"['2019', '01', '03']",Houston,Golden State,135,134
+"['2019', '01', '03']",Denver,Sacramento,117,113
+"['2019', '01', '03']",San Antonio,Toronto,125,107
+"['2019', '01', '04']",Boston,Dallas,114,93
+"['2019', '01', '04']",Indiana,Chicago,119,116
+"['2019', '01', '04']",Utah,Cleveland,117,91
+"['2019', '01', '04']",New York,LA Lakers,119,112
+"['2019', '01', '04']",Brooklyn,Memphis,109,100
+"['2019', '01', '04']",Miami,Washington,115,109
+"['2019', '01', '04']",Milwaukee,Atlanta,144,112
+"['2019', '01', '04']",Minnesota,Orlando,120,103
+"['2019', '01', '04']",LA Clippers,Phoenix,121,111
+"['2019', '01', '04']",Oklahoma City,Portland,111,109
+"['2019', '01', '05']",New Orleans,Cleveland,133,98
+"['2019', '01', '05']",Denver,Charlotte,123,110
+"['2019', '01', '05']",Utah,Detroit,110,105
+"['2019', '01', '05']",Toronto,Milwaukee,123,116
+"['2019', '01', '05']",Philadelphia,Dallas,106,100
+"['2019', '01', '05']",Portland,Houston,110,101
+"['2019', '01', '05']",Golden State,Sacramento,127,123
+"['2019', '01', '05']",San Antonio,Memphis,108,88
+"['2019', '01', '06']",Atlanta,Miami,106,82
+"['2019', '01', '06']",Brooklyn,Chicago,117,100
+"['2019', '01', '06']",LA Clippers,Orlando,106,96
+"['2019', '01', '06']",Minnesota,LA Lakers,108,86
+"['2019', '01', '06']",Washington,Oklahoma City,116,98
+"['2019', '01', '06']",Charlotte,Phoenix,119,113
+"['2019', '01', '06']",Toronto,Indiana,121,105
+"['2019', '01', '07']",Boston,Brooklyn,116,95
+"['2019', '01', '07']",LA Lakers,Dallas,107,97
+"['2019', '01', '07']",San Antonio,Detroit,119,107
+"['2019', '01', '07']",Houston,Denver,125,113
+"['2019', '01', '07']",Milwaukee,Utah,114,102
+"['2019', '01', '07']",New Orleans,Memphis,114,95
+"['2019', '01', '07']",Portland,New York,111,101
+"['2019', '01', '07']",Sacramento,Orlando,111,95
+"['2019', '01', '08']",Indiana,Cleveland,123,115
+"['2019', '01', '08']",Golden State,New York,122,95
+"['2019', '01', '08']",LA Clippers,Charlotte,128,109
+"['2019', '01', '08']",Denver,Miami,103,99
+"['2019', '01', '08']",Minnesota,Oklahoma City,119,117
+"['2019', '01', '08']",Philadelphia,Washington,132,115
+"['2019', '01', '08']",Phoenix,Sacramento,115,111
+"['2019', '01', '08']",Toronto,Atlanta,104,101
+"['2019', '01', '09']",Boston,Indiana,135,108
+"['2019', '01', '09']",Brooklyn,Atlanta,116,100
+"['2019', '01', '09']",Dallas,Phoenix,104,94
+"['2019', '01', '09']",Milwaukee,Houston,116,109
+"['2019', '01', '09']",LA Lakers,Detroit,113,100
+"['2019', '01', '09']",Memphis,San Antonio,96,86
+"['2019', '01', '09']",New Orleans,Cleveland,140,124
+"['2019', '01', '09']",Portland,Chicago,124,112
+"['2019', '01', '09']",Utah,Orlando,106,93
+"['2019', '01', '09']",Washington,Philadelphia,123,106
+"['2019', '01', '10']",Denver,LA Clippers,121,100
+"['2019', '01', '10']",Miami,Boston,115,99
+"['2019', '01', '10']",Sacramento,Detroit,112,102
+"['2019', '01', '10']",San Antonio,Oklahoma City,154,147
+"['2019', '01', '11']",Golden State,Chicago,146,109
+"['2019', '01', '11']",Houston,Cleveland,141,113
+"['2019', '01', '11']",Dallas,Minnesota,119,115
+"['2019', '01', '11']",Indiana,New York,121,106
+"['2019', '01', '11']",Atlanta,Philadelphia,123,121
+"['2019', '01', '11']",Portland,Charlotte,127,96
+"['2019', '01', '11']",Toronto,Brooklyn,122,105
+"['2019', '01', '11']",Utah,LA Lakers,113,95
+"['2019', '01', '11']",Washington,Milwaukee,113,106
+"['2019', '01', '12']",Detroit,LA Clippers,109,104
+"['2019', '01', '12']",Miami,Memphis,112,108
+"['2019', '01', '12']",Minnesota,New Orleans,110,106
+"['2019', '01', '12']",Oklahoma City,San Antonio,122,112
+"['2019', '01', '12']",Orlando,Boston,105,103
+"['2019', '01', '12']",Phoenix,Denver,102,93
+"['2019', '01', '12']",Sacramento,Charlotte,104,97
+"['2019', '01', '12']",Utah,Chicago,110,102
+"['2019', '01', '13']",Milwaukee,Atlanta,133,114
+"['2019', '01', '13']",Golden State,Dallas,119,114
+"['2019', '01', '13']",Denver,Portland,116,113
+"['2019', '01', '13']",Cleveland,LA Lakers,101,95
+"['2019', '01', '13']",Philadelphia,New York,108,105
+"['2019', '01', '13']",Orlando,Houston,116,109
+"['2019', '01', '13']",Toronto,Washington,140,138
+"['2019', '01', '14']",Brooklyn,Boston,109,102
+"['2019', '01', '14']",Houston,Memphis,112,94
+"['2019', '01', '14']",New Orleans,LA Clippers,121,117
+"['2019', '01', '14']",Sacramento,Portland,115,107
+"['2019', '01', '14']",Charlotte,San Antonio,108,93
+"['2019', '01', '14']",Utah,Detroit,100,94
+"['2019', '01', '15']",Atlanta,Oklahoma City,142,126
+"['2019', '01', '15']",Golden State,Denver,142,111
+"['2019', '01', '15']",Indiana,Phoenix,131,97
+"['2019', '01', '15']",LA Lakers,Chicago,107,100
+"['2019', '01', '15']",Milwaukee,Miami,124,86
+"['2019', '01', '15']",Philadelphia,Minnesota,149,107
+"['2019', '01', '16']",Boston,Toronto,117,108
+"['2019', '01', '16']",San Antonio,Dallas,105,101
+"['2019', '01', '16']",Detroit,Orlando,120,115
+"['2019', '01', '16']",Golden State,New Orleans,147,140
+"['2019', '01', '16']",Brooklyn,Houston,145,142
+"['2019', '01', '16']",Utah,LA Clippers,129,109
+"['2019', '01', '16']",Milwaukee,Memphis,111,101
+"['2019', '01', '16']",Portland,Cleveland,129,112
+"['2019', '01', '17']",Charlotte,Sacramento,114,95
+"['2019', '01', '17']",Denver,Chicago,135,105
+"['2019', '01', '17']",Philadelphia,Indiana,120,96
+"['2019', '01', '17']",LA Lakers,Oklahoma City,138,128
+"['2019', '01', '17']",Toronto,Phoenix,111,109
+"['2019', '01', '17']",Washington,New York,101,100
+"['2019', '01', '18']",Boston,Memphis,122,116
+"['2019', '01', '18']",Detroit,Miami,98,93
+"['2019', '01', '18']",Golden State,LA Clippers,112,94
+"['2019', '01', '18']",San Antonio,Minnesota,116,113
+"['2019', '01', '18']",Brooklyn,Orlando,117,115
+"['2019', '01', '18']",Portland,New Orleans,128,112
+"['2019', '01', '18']",Utah,Cleveland,115,99
+"['2019', '01', '19']",Boston,Atlanta,113,105
+"['2019', '01', '19']",Miami,Chicago,117,103
+"['2019', '01', '19']",Charlotte,Phoenix,135,115
+"['2019', '01', '19']",Denver,Cleveland,124,102
+"['2019', '01', '19']",Sacramento,Detroit,103,101
+"['2019', '01', '19']",Houston,LA Lakers,138,134
+"['2019', '01', '19']",Indiana,Dallas,111,99
+"['2019', '01', '19']",Milwaukee,Orlando,118,108
+"['2019', '01', '19']",Oklahoma City,Philadelphia,117,115
+"['2019', '01', '19']",Toronto,Memphis,119,90
+"['2019', '01', '20']",Indiana,Charlotte,120,95
+"['2019', '01', '20']",Minnesota,Phoenix,116,114
+"['2019', '01', '20']",LA Clippers,San Antonio,103,95
+"['2019', '01', '21']",Orlando,Atlanta,122,103
+"['2019', '01', '21']",Boston,Miami,107,99
+"['2019', '01', '21']",Brooklyn,Sacramento,123,94
+"['2019', '01', '21']",Chicago,Cleveland,104,88
+"['2019', '01', '21']",Golden State,LA Lakers,130,111
+"['2019', '01', '21']",New Orleans,Memphis,105,85
+"['2019', '01', '21']",Milwaukee,Dallas,116,106
+"['2019', '01', '21']",Oklahoma City,New York,127,109
+"['2019', '01', '21']",Philadelphia,Houston,121,93
+"['2019', '01', '21']",Portland,Utah,109,104
+"['2019', '01', '21']",Washington,Detroit,101,87
+"['2019', '01', '22']",Dallas,LA Clippers,106,98
+"['2019', '01', '22']",Oklahoma City,Portland,123,114
+"['2019', '01', '22']",Minnesota,Phoenix,118,91
+"['2019', '01', '22']",Toronto,Sacramento,120,105
+"['2019', '01', '23']",Boston,Cleveland,123,103
+"['2019', '01', '23']",Brooklyn,Orlando,114,110
+"['2019', '01', '23']",Atlanta,Chicago,121,101
+"['2019', '01', '23']",Indiana,Toronto,110,106
+"['2019', '01', '23']",Charlotte,Memphis,118,107
+"['2019', '01', '23']",LA Clippers,Miami,111,99
+"['2019', '01', '23']",Detroit,New Orleans,98,94
+"['2019', '01', '23']",Houston,New York,114,110
+"['2019', '01', '23']",Philadelphia,San Antonio,122,120
+"['2019', '01', '23']",Utah,Denver,114,108
+"['2019', '01', '24']",Minnesota,LA Lakers,120,105
+"['2019', '01', '24']",Oklahoma City,New Orleans,122,116
+"['2019', '01', '24']",Portland,Phoenix,120,106
+"['2019', '01', '24']",Golden State,Washington,126,118
+"['2019', '01', '25']",Brooklyn,New York,109,99
+"['2019', '01', '25']",LA Clippers,Chicago,106,101
+"['2019', '01', '25']",Miami,Cleveland,100,94
+"['2019', '01', '25']",Dallas,Detroit,106,101
+"['2019', '01', '25']",Denver,Phoenix,132,95
+"['2019', '01', '25']",Houston,Toronto,121,119
+"['2019', '01', '25']",Sacramento,Memphis,99,96
+"['2019', '01', '25']",Milwaukee,Charlotte,108,99
+"['2019', '01', '25']",Washington,Orlando,95,91
+"['2019', '01', '25']",Utah,Minnesota,106,102
+"['2019', '01', '26']",Golden State,Boston,115,111
+"['2019', '01', '26']",Denver,Philadelphia,126,110
+"['2019', '01', '26']",Memphis,Indiana,106,103
+"['2019', '01', '26']",San Antonio,New Orleans,126,114
+"['2019', '01', '26']",Portland,Atlanta,120,111
+"['2019', '01', '27']",Cleveland,Chicago,104,101
+"['2019', '01', '27']",Toronto,Dallas,123,120
+"['2019', '01', '27']",Houston,Orlando,103,98
+"['2019', '01', '27']",LA Clippers,Sacramento,122,108
+"['2019', '01', '27']",LA Lakers,Phoenix,116,102
+"['2019', '01', '27']",Utah,Minnesota,125,111
+"['2019', '01', '27']",Miami,New York,106,97
+"['2019', '01', '27']",Oklahoma City,Milwaukee,118,112
+"['2019', '01', '27']",San Antonio,Washington,132,119
+"['2019', '01', '28']",Boston,Brooklyn,112,104
+"['2019', '01', '28']",Charlotte,New York,101,92
+"['2019', '01', '28']",Golden State,Indiana,132,100
+"['2019', '01', '28']",Atlanta,LA Clippers,123,118
+"['2019', '01', '28']",Denver,Memphis,95,92
+"['2019', '01', '29']",Brooklyn,Chicago,122,117
+"['2019', '01', '29']",Cleveland,Washington,116,113
+"['2019', '01', '29']",Milwaukee,Detroit,115,105
+"['2019', '01', '29']",New Orleans,Houston,121,116
+"['2019', '01', '29']",Philadelphia,LA Lakers,121,105
+"['2019', '01', '29']",Oklahoma City,Orlando,126,117
+"['2019', '01', '29']",San Antonio,Phoenix,126,124
+"['2019', '01', '30']",Boston,Charlotte,126,94
+"['2019', '01', '30']",Chicago,Miami,105,89
+"['2019', '01', '30']",Minnesota,Memphis,99,97
+"['2019', '01', '30']",Denver,New Orleans,105,99
+"['2019', '01', '30']",Dallas,New York,114,90
+"['2019', '01', '30']",Portland,Utah,132,105
+"['2019', '01', '30']",Sacramento,Atlanta,135,113
+"['2019', '01', '30']",Washington,Indiana,107,89
+"['2019', '01', '31']",Detroit,Dallas,93,89
+"['2019', '01', '31']",Philadelphia,Golden State,113,104
+"['2019', '01', '31']",LA Lakers,LA Clippers,123,120
+"['2019', '01', '31']",Orlando,Indiana,107,100
+"['2019', '01', '31']",San Antonio,Brooklyn,117,114
+"['2019', '01', '31']",Milwaukee,Toronto,105,92
+"['2019', '02', '01']",Charlotte,Memphis,100,92
+"['2019', '02', '01']",Denver,Houston,136,122
+"['2019', '02', '01']",Oklahoma City,Miami,118,102
+"['2019', '02', '01']",Boston,New York,113,99
+"['2019', '02', '01']",Utah,Atlanta,128,112
+"['2019', '02', '02']",Charlotte,Chicago,125,118
+"['2019', '02', '02']",Dallas,Cleveland,111,98
+"['2019', '02', '02']",LA Clippers,Detroit,111,101
+"['2019', '02', '02']",Golden State,LA Lakers,115,101
+"['2019', '02', '02']",Indiana,Miami,95,88
+"['2019', '02', '02']",Denver,Minnesota,107,106
+"['2019', '02', '02']",Orlando,Brooklyn,102,89
+"['2019', '02', '02']",Atlanta,Phoenix,118,112
+"['2019', '02', '02']",Sacramento,Philadelphia,115,108
+"['2019', '02', '02']",San Antonio,New Orleans,113,108
+"['2019', '02', '02']",Houston,Utah,125,98
+"['2019', '02', '02']",Milwaukee,Washington,131,115
+"['2019', '02', '03']",Boston,Oklahoma City,134,129
+"['2019', '02', '03']",Memphis,New York,96,84
+"['2019', '02', '03']",Toronto,LA Clippers,121,103
+"['2019', '02', '04']",Milwaukee,Brooklyn,113,94
+"['2019', '02', '04']",Detroit,Denver,129,103
+"['2019', '02', '04']",Indiana,New Orleans,109,107
+"['2019', '02', '04']",Houston,Phoenix,118,110
+"['2019', '02', '04']",Sacramento,San Antonio,127,112
+"['2019', '02', '04']",Atlanta,Washington,137,129
+"['2019', '02', '05']",LA Clippers,Charlotte,117,115
+"['2019', '02', '05']",Boston,Cleveland,103,96
+"['2019', '02', '05']",Indiana,LA Lakers,136,94
+"['2019', '02', '05']",Memphis,Minnesota,108,106
+"['2019', '02', '05']",Detroit,New York,105,92
+"['2019', '02', '05']",Oklahoma City,Orlando,132,122
+"['2019', '02', '05']",Toronto,Philadelphia,119,107
+"['2019', '02', '05']",Miami,Portland,118,108
+"['2019', '02', '06']",Brooklyn,Denver,135,130
+"['2019', '02', '06']",New Orleans,Chicago,125,120
+"['2019', '02', '06']",Dallas,Charlotte,99,93
+"['2019', '02', '06']",Golden State,San Antonio,141,102
+"['2019', '02', '06']",Milwaukee,Washington,148,129
+"['2019', '02', '06']",Houston,Sacramento,127,101
+"['2019', '02', '06']",Utah,Phoenix,116,88
+"['2019', '02', '07']",Toronto,Atlanta,119,101
+"['2019', '02', '07']",LA Lakers,Boston,129,128
+"['2019', '02', '07']",Indiana,LA Clippers,116,92
+"['2019', '02', '07']",Oklahoma City,Memphis,117,95
+"['2019', '02', '07']",Orlando,Minnesota,122,112
+"['2019', '02', '07']",Portland,San Antonio,127,118
+"['2019', '02', '08']",Chicago,Brooklyn,125,106
+"['2019', '02', '08']",Milwaukee,Dallas,122,107
+"['2019', '02', '08']",Detroit,New York,120,103
+"['2019', '02', '08']",New Orleans,Minnesota,122,117
+"['2019', '02', '08']",Philadelphia,Denver,117,110
+"['2019', '02', '08']",Golden State,Phoenix,117,107
+"['2019', '02', '08']",Sacramento,Miami,102,96
+"['2019', '02', '08']",Washington,Cleveland,119,106
+"['2019', '02', '09']",Charlotte,Atlanta,129,120
+"['2019', '02', '09']",LA Clippers,Boston,123,112
+"['2019', '02', '09']",Washington,Chicago,134,125
+"['2019', '02', '09']",Oklahoma City,Houston,117,112
+"['2019', '02', '09']",Indiana,Cleveland,105,90
+"['2019', '02', '09']",Memphis,New Orleans,99,90
+"['2019', '02', '09']",Orlando,Milwaukee,103,83
+"['2019', '02', '09']",Toronto,New York,104,99
+"['2019', '02', '09']",Utah,San Antonio,125,105
+"['2019', '02', '10']",Orlando,Atlanta,124,108
+"['2019', '02', '10']",Dallas,Portland,102,101
+"['2019', '02', '10']",Golden State,Miami,120,118
+"['2019', '02', '10']",Philadelphia,LA Lakers,143,120
+"['2019', '02', '10']",Sacramento,Phoenix,117,104
+"['2019', '02', '11']",Milwaukee,Chicago,112,99
+"['2019', '02', '11']",Cleveland,New York,107,104
+"['2019', '02', '11']",Denver,Miami,103,87
+"['2019', '02', '11']",Detroit,Washington,121,112
+"['2019', '02', '11']",Houston,Dallas,120,104
+"['2019', '02', '11']",Indiana,Charlotte,99,90
+"['2019', '02', '11']",Minnesota,LA Clippers,130,120
+"['2019', '02', '11']",Oklahoma City,Portland,120,111
+"['2019', '02', '11']",Toronto,Brooklyn,127,125
+"['2019', '02', '12']",Atlanta,LA Lakers,117,113
+"['2019', '02', '12']",Golden State,Utah,115,108
+"['2019', '02', '12']",San Antonio,Memphis,108,107
+"['2019', '02', '12']",Orlando,New Orleans,118,88
+"['2019', '02', '12']",Boston,Philadelphia,112,109
+"['2019', '02', '13']",Boston,Detroit,118,110
+"['2019', '02', '13']",Chicago,Memphis,122,110
+"['2019', '02', '13']",Brooklyn,Cleveland,148,139
+"['2019', '02', '13']",Miami,Dallas,112,101
+"['2019', '02', '13']",Denver,Sacramento,120,118
+"['2019', '02', '13']",Milwaukee,Indiana,106,97
+"['2019', '02', '13']",LA Clippers,Phoenix,134,107
+"['2019', '02', '13']",Minnesota,Houston,121,111
+"['2019', '02', '13']",Philadelphia,New York,126,111
+"['2019', '02', '13']",Portland,Golden State,129,107
+"['2019', '02', '13']",Toronto,Washington,129,120
+"['2019', '02', '14']",New York,Atlanta,106,91
+"['2019', '02', '14']",New Orleans,Oklahoma City,131,122
+"['2019', '02', '14']",Orlando,Charlotte,127,89
+"['2019', '02', '21']",Portland,Brooklyn,113,99
+"['2019', '02', '21']",Cleveland,Phoenix,111,98
+"['2019', '02', '21']",Golden State,Sacramento,125,123
+"['2019', '02', '21']",LA Lakers,Houston,111,106
+"['2019', '02', '21']",Milwaukee,Boston,98,97
+"['2019', '02', '21']",Philadelphia,Miami,106,102
+"['2019', '02', '22']",Detroit,Atlanta,125,122
+"['2019', '02', '22']",Charlotte,Washington,123,110
+"['2019', '02', '22']",Denver,Dallas,114,104
+"['2019', '02', '22']",Indiana,New Orleans,126,111
+"['2019', '02', '22']",LA Clippers,Memphis,112,106
+"['2019', '02', '22']",Minnesota,New York,115,104
+"['2019', '02', '22']",Oklahoma City,Utah,148,147
+"['2019', '02', '22']",Chicago,Orlando,110,109
+"['2019', '02', '22']",Toronto,San Antonio,120,117
+"['2019', '02', '23']",Atlanta,Phoenix,120,112
+"['2019', '02', '23']",Chicago,Boston,126,116
+"['2019', '02', '23']",Brooklyn,Charlotte,117,115
+"['2019', '02', '23']",Cleveland,Memphis,112,107
+"['2019', '02', '23']",Houston,Golden State,118,112
+"['2019', '02', '23']",Detroit,Miami,119,96
+"['2019', '02', '23']",Milwaukee,Minnesota,140,128
+"['2019', '02', '23']",New Orleans,LA Lakers,128,115
+"['2019', '02', '23']",Sacramento,Oklahoma City,119,116
+"['2019', '02', '23']",Portland,Philadelphia,130,115
+"['2019', '02', '23']",Utah,Dallas,125,109
+"['2019', '02', '23']",Indiana,Washington,119,112
+"['2019', '02', '24']",Denver,LA Clippers,123,96
+"['2019', '02', '24']",New York,San Antonio,130,118
+"['2019', '02', '24']",Orlando,Toronto,113,98
+"['2019', '02', '25']",Brooklyn,San Antonio,101,85
+"['2019', '02', '25']",Milwaukee,Chicago,117,106
+"['2019', '02', '25']",Golden State,Charlotte,121,110
+"['2019', '02', '25']",Portland,Cleveland,123,110
+"['2019', '02', '25']",Detroit,Indiana,113,109
+"['2019', '02', '25']",Houston,Atlanta,119,111
+"['2019', '02', '25']",LA Clippers,Dallas,121,112
+"['2019', '02', '25']",Memphis,LA Lakers,110,105
+"['2019', '02', '25']",Phoenix,Miami,124,121
+"['2019', '02', '25']",Minnesota,Sacramento,112,105
+"['2019', '02', '25']",Philadelphia,New Orleans,111,110
+"['2019', '02', '26']",Denver,Oklahoma City,121,112
+"['2019', '02', '26']",New York,Orlando,108,103
+"['2019', '02', '26']",Toronto,Boston,118,95
+"['2019', '02', '27']",Atlanta,Minnesota,131,123
+"['2019', '02', '27']",Portland,Boston,97,92
+"['2019', '02', '27']",Washington,Brooklyn,125,116
+"['2019', '02', '27']",Houston,Charlotte,118,113
+"['2019', '02', '27']",Dallas,Indiana,110,101
+"['2019', '02', '27']",LA Lakers,New Orleans,125,119
+"['2019', '02', '27']",Chicago,Memphis,109,107
+"['2019', '02', '27']",Miami,Golden State,126,125
+"['2019', '02', '27']",Milwaukee,Sacramento,141,140
+"['2019', '02', '27']",San Antonio,Detroit,105,93
+"['2019', '02', '27']",Utah,LA Clippers,111,105
+"['2019', '02', '28']",Utah,Denver,111,104
+"['2019', '02', '28']",Houston,Miami,121,118
+"['2019', '02', '28']",Indiana,Minnesota,122,115
+"['2019', '02', '28']",Cleveland,New York,125,118
+"['2019', '02', '28']",Philadelphia,Oklahoma City,108,104
+"['2019', '02', '28']",Orlando,Golden State,103,96
+"['2019', '03', '01']",Chicago,Atlanta,168,161
+"['2019', '03', '01']",Boston,Washington,107,96
+"['2019', '03', '01']",Charlotte,Brooklyn,123,112
+"['2019', '03', '01']",Milwaukee,LA Lakers,131,120
+"['2019', '03', '01']",New Orleans,Phoenix,130,116
+"['2019', '03', '01']",LA Clippers,Sacramento,116,109
+"['2019', '03', '01']",Toronto,Portland,119,117
+"['2019', '03', '02']",Detroit,Cleveland,129,93
+"['2019', '03', '02']",Memphis,Dallas,111,81
+"['2019', '03', '02']",New Orleans,Denver,120,112
+"['2019', '03', '02']",Orlando,Indiana,117,112
+"['2019', '03', '02']",Miami,Brooklyn,117,88
+"['2019', '03', '02']",Golden State,Philadelphia,120,117
+"['2019', '03', '02']",Phoenix,LA Lakers,118,109
+"['2019', '03', '02']",San Antonio,Oklahoma City,116,102
+"['2019', '03', '02']",Utah,Milwaukee,115,111
+"['2019', '03', '03']",Houston,Boston,115,104
+"['2019', '03', '03']",Atlanta,Chicago,123,118
+"['2019', '03', '03']",Portland,Charlotte,118,108
+"['2019', '03', '03']",Cleveland,Orlando,107,93
+"['2019', '03', '03']",Detroit,Toronto,112,107
+"['2019', '03', '03']",LA Clippers,New York,128,107
+"['2019', '03', '03']",Oklahoma City,Memphis,99,95
+"['2019', '03', '03']",Washington,Minnesota,135,121
+"['2019', '03', '04']",Brooklyn,Dallas,127,88
+"['2019', '03', '04']",LA Clippers,LA Lakers,113,105
+"['2019', '03', '04']",Miami,Atlanta,114,113
+"['2019', '03', '04']",Phoenix,Milwaukee,114,105
+"['2019', '03', '04']",Sacramento,New York,115,108
+"['2019', '03', '04']",San Antonio,Denver,104,103
+"['2019', '03', '04']",New Orleans,Utah,115,112
+"['2019', '03', '05']",Boston,Golden State,128,95
+"['2019', '03', '05']",Indiana,Chicago,105,96
+"['2019', '03', '05']",Memphis,Portland,120,111
+"['2019', '03', '05']",Minnesota,Oklahoma City,131,120
+"['2019', '03', '05']",Philadelphia,Orlando,114,106
+"['2019', '03', '05']",Houston,Toronto,107,95
+"['2019', '03', '06']",San Antonio,Atlanta,111,104
+"['2019', '03', '06']",Brooklyn,Cleveland,113,107
+"['2019', '03', '06']",Chicago,Philadelphia,108,107
+"['2019', '03', '06']",Miami,Charlotte,91,84
+"['2019', '03', '06']",Detroit,Minnesota,131,114
+"['2019', '03', '06']",Denver,LA Lakers,115,99
+"['2019', '03', '06']",Utah,New Orleans,114,104
+"['2019', '03', '06']",Phoenix,New York,107,96
+"['2019', '03', '06']",Boston,Sacramento,111,109
+"['2019', '03', '06']",Washington,Dallas,132,123
+"['2019', '03', '07']",Milwaukee,Indiana,117,98
+"['2019', '03', '07']",Oklahoma City,Portland,129,121
+"['2019', '03', '08']",Detroit,Chicago,112,104
+"['2019', '03', '08']",Charlotte,Washington,112,111
+"['2019', '03', '08']",Golden State,Denver,122,105
+"['2019', '03', '08']",Houston,Philadelphia,107,91
+"['2019', '03', '08']",LA Clippers,Oklahoma City,118,110
+"['2019', '03', '08']",Memphis,Utah,114,104
+"['2019', '03', '08']",Miami,Cleveland,126,110
+"['2019', '03', '08']",Toronto,New Orleans,127,104
+"['2019', '03', '08']",Orlando,Dallas,111,106
+"['2019', '03', '09']",Brooklyn,Atlanta,114,112
+"['2019', '03', '09']",Boston,LA Lakers,120,107
+"['2019', '03', '09']",Milwaukee,Charlotte,131,114
+"['2019', '03', '09']",Minnesota,Washington,135,130
+"['2019', '03', '09']",Sacramento,New York,102,94
+"['2019', '03', '09']",Portland,Phoenix,127,120
+"['2019', '03', '10']",Atlanta,New Orleans,128,116
+"['2019', '03', '10']",Houston,Dallas,94,93
+"['2019', '03', '10']",Detroit,Chicago,131,108
+"['2019', '03', '10']",Phoenix,Golden State,115,111
+"['2019', '03', '10']",Memphis,Orlando,105,97
+"['2019', '03', '10']",Toronto,Miami,125,104
+"['2019', '03', '10']",Minnesota,New York,103,92
+"['2019', '03', '10']",Philadelphia,Indiana,106,89
+"['2019', '03', '10']",San Antonio,Milwaukee,121,114
+"['2019', '03', '11']",Brooklyn,Detroit,103,75
+"['2019', '03', '11']",Cleveland,Toronto,126,101
+"['2019', '03', '11']",Houston,Charlotte,118,106
+"['2019', '03', '11']",LA Clippers,Boston,140,115
+"['2019', '03', '11']",Oklahoma City,Utah,98,89
+"['2019', '03', '11']",Washington,Sacramento,121,115
+"['2019', '03', '12']",LA Lakers,Chicago,123,107
+"['2019', '03', '12']",San Antonio,Dallas,112,105
+"['2019', '03', '12']",Denver,Minnesota,133,107
+"['2019', '03', '12']",Indiana,New York,103,98
+"['2019', '03', '12']",Portland,LA Clippers,125,104
+"['2019', '03', '12']",Milwaukee,New Orleans,130,113
+"['2019', '03', '12']",Philadelphia,Cleveland,106,99
+"['2019', '03', '13']",Atlanta,Memphis,132,111
+"['2019', '03', '13']",Golden State,Houston,106,104
+"['2019', '03', '13']",Miami,Detroit,108,74
+"['2019', '03', '13']",Oklahoma City,Brooklyn,108,96
+"['2019', '03', '13']",Utah,Phoenix,114,97
+"['2019', '03', '13']",Washington,Orlando,100,90
+"['2019', '03', '14']",Boston,Sacramento,126,120
+"['2019', '03', '14']",Denver,Dallas,100,99
+"['2019', '03', '14']",Indiana,Oklahoma City,108,106
+"['2019', '03', '14']",Orlando,Cleveland,120,91
+"['2019', '03', '14']",Toronto,LA Lakers,111,98
+"['2019', '03', '14']",Utah,Minnesota,120,100
+"['2019', '03', '15']",Detroit,LA Lakers,111,97
+"['2019', '03', '15']",Houston,Phoenix,108,102
+"['2019', '03', '15']",LA Clippers,Chicago,128,121
+"['2019', '03', '15']",Milwaukee,Miami,113,98
+"['2019', '03', '15']",Portland,New Orleans,122,110
+"['2019', '03', '15']",Philadelphia,Sacramento,123,114
+"['2019', '03', '15']",San Antonio,New York,109,83
+"['2019', '03', '15']",Charlotte,Washington,116,110
+"['2019', '03', '16']",Boston,Atlanta,129,120
+"['2019', '03', '16']",Dallas,Cleveland,121,116
+"['2019', '03', '16']",Denver,Indiana,102,100
+"['2019', '03', '16']",Phoenix,New Orleans,138,136
+"['2019', '03', '16']",Golden State,Oklahoma City,110,88
+"['2019', '03', '16']",San Antonio,Portland,108,103
+"['2019', '03', '16']",Utah,Brooklyn,114,98
+"['2019', '03', '16']",Washington,Memphis,135,128
+"['2019', '03', '17']",Detroit,Toronto,110,107
+"['2019', '03', '17']",Houston,Minnesota,117,102
+"['2019', '03', '17']",LA Clippers,Brooklyn,119,116
+"['2019', '03', '17']",Miami,Charlotte,93,75
+"['2019', '03', '17']",Philadelphia,Milwaukee,130,125
+"['2019', '03', '17']",New York,LA Lakers,124,123
+"['2019', '03', '17']",Orlando,Atlanta,101,91
+"['2019', '03', '17']",Sacramento,Chicago,129,102
+"['2019', '03', '18']",Denver,Boston,114,105
+"['2019', '03', '18']",Cleveland,Detroit,126,119
+"['2019', '03', '18']",New Orleans,Dallas,129,125
+"['2019', '03', '18']",Miami,Oklahoma City,116,107
+"['2019', '03', '18']",Chicago,Phoenix,116,101
+"['2019', '03', '18']",Portland,Indiana,106,98
+"['2019', '03', '18']",San Antonio,Golden State,111,105
+"['2019', '03', '18']",Toronto,New York,128,92
+"['2019', '03', '18']",Utah,Washington,116,95
+"['2019', '03', '19']",Houston,Atlanta,121,105
+"['2019', '03', '19']",Philadelphia,Charlotte,118,114
+"['2019', '03', '19']",LA Clippers,Indiana,115,109
+"['2019', '03', '19']",Milwaukee,LA Lakers,115,101
+"['2019', '03', '19']",Golden State,Minnesota,117,107
+"['2019', '03', '19']",Brooklyn,Sacramento,123,121
+"['2019', '03', '20']",Chicago,Washington,126,120
+"['2019', '03', '20']",Cleveland,Milwaukee,107,102
+"['2019', '03', '20']",Memphis,Houston,126,125
+"['2019', '03', '20']",Utah,New York,137,116
+"['2019', '03', '20']",Toronto,Oklahoma City,123,114
+"['2019', '03', '20']",Orlando,New Orleans,119,96
+"['2019', '03', '20']",Philadelphia,Boston,118,115
+"['2019', '03', '20']",Portland,Dallas,126,118
+"['2019', '03', '20']",Miami,San Antonio,110,105
+"['2019', '03', '21']",Atlanta,Utah,117,114
+"['2019', '03', '21']",Charlotte,Minnesota,113,106
+"['2019', '03', '21']",Golden State,Indiana,112,89
+"['2019', '03', '21']",Detroit,Phoenix,118,98
+"['2019', '03', '21']",Sacramento,Dallas,116,100
+"['2019', '03', '21']",Denver,Washington,113,108
+"['2019', '03', '22']",LA Clippers,Cleveland,110,108
+"['2019', '03', '22']",Houston,San Antonio,111,105
+"['2019', '03', '22']",Brooklyn,LA Lakers,111,106
+"['2019', '03', '22']",Milwaukee,Miami,116,87
+"['2019', '03', '22']",Denver,New York,111,93
+"['2019', '03', '22']",Orlando,Memphis,123,119
+"['2019', '03', '22']",Oklahoma City,Toronto,116,109
+"['2019', '03', '23']",Atlanta,Philadelphia,129,127
+"['2019', '03', '23']",Utah,Chicago,114,83
+"['2019', '03', '23']",Charlotte,Boston,124,117
+"['2019', '03', '23']",Dallas,Golden State,126,91
+"['2019', '03', '23']",Minnesota,Memphis,112,99
+"['2019', '03', '23']",Portland,Detroit,117,112
+"['2019', '03', '23']",Sacramento,Phoenix,112,103
+"['2019', '03', '23']",Miami,Washington,113,108
+"['2019', '03', '24']",San Antonio,Boston,115,96
+"['2019', '03', '24']",Golden State,Detroit,121,114
+"['2019', '03', '24']",Indiana,Denver,124,88
+"['2019', '03', '24']",LA Lakers,Sacramento,111,106
+"['2019', '03', '24']",Milwaukee,Cleveland,127,105
+"['2019', '03', '24']",Houston,New Orleans,113,90
+"['2019', '03', '24']",LA Clippers,New York,124,113
+"['2019', '03', '24']",Charlotte,Toronto,115,114
+"['2019', '03', '25']",Memphis,Oklahoma City,115,103
+"['2019', '03', '25']",Orlando,Philadelphia,119,98
+"['2019', '03', '25']",Portland,Brooklyn,148,144
+"['2019', '03', '25']",Utah,Phoenix,125,92
+"['2019', '03', '26']",Charlotte,San Antonio,125,116
+"['2019', '03', '26']",Boston,Cleveland,116,106
+"['2019', '03', '26']",Sacramento,Dallas,125,121
+"['2019', '03', '26']",Denver,Detroit,95,92
+"['2019', '03', '26']",LA Lakers,Washington,124,106
+"['2019', '03', '26']",Orlando,Miami,104,99
+"['2019', '03', '26']",Milwaukee,Houston,108,94
+"['2019', '03', '26']",LA Clippers,Minnesota,122,111
+"['2019', '03', '26']",Atlanta,New Orleans,130,120
+"['2019', '03', '26']",Toronto,Chicago,112,103
+"['2019', '03', '27']",Portland,Chicago,118,98
+"['2019', '03', '27']",Golden State,Memphis,118,103
+"['2019', '03', '27']",Oklahoma City,Indiana,107,99
+"['2019', '03', '27']",Washington,Phoenix,124,121
+"['2019', '03', '27']",Utah,LA Lakers,115,100
+"['2019', '03', '28']",Detroit,Orlando,115,98
+"['2019', '03', '28']",Houston,Denver,112,85
+"['2019', '03', '28']",Miami,Dallas,105,99
+"['2019', '03', '28']",Milwaukee,LA Clippers,128,118
+"['2019', '03', '28']",New Orleans,Sacramento,121,118
+"['2019', '03', '28']",Toronto,New York,117,92
+"['2019', '03', '28']",Philadelphia,Brooklyn,123,110
+"['2019', '03', '28']",San Antonio,Cleveland,116,110
+"['2019', '03', '29']",Portland,Atlanta,118,98
+"['2019', '03', '29']",Boston,Indiana,114,112
+"['2019', '03', '29']",LA Lakers,Charlotte,129,115
+"['2019', '03', '29']",Minnesota,Golden State,131,130
+"['2019', '03', '29']",Denver,Oklahoma City,115,105
+"['2019', '03', '29']",Utah,Washington,128,124
+"['2019', '03', '30']",Brooklyn,Boston,110,96
+"['2019', '03', '30']",Toronto,Chicago,124,101
+"['2019', '03', '30']",Detroit,Portland,99,90
+"['2019', '03', '30']",Houston,Sacramento,119,108
+"['2019', '03', '30']",Orlando,Indiana,121,116
+"['2019', '03', '30']",LA Clippers,Cleveland,132,108
+"['2019', '03', '30']",Philadelphia,Minnesota,118,109
+"['2019', '03', '30']",Miami,New York,100,92
+"['2019', '03', '30']",Memphis,Phoenix,120,115
+"['2019', '03', '31']",Atlanta,Milwaukee,136,135
+"['2019', '03', '31']",Washington,Denver,95,90
+"['2019', '03', '31']",Golden State,Charlotte,137,90
+"['2019', '03', '31']",LA Clippers,Memphis,113,96
+"['2019', '03', '31']",LA Lakers,New Orleans,130,102
+"['2019', '03', '31']",Dallas,Oklahoma City,106,103
+"['2019', '03', '31']",Sacramento,San Antonio,113,106
+"['2019', '04', '01']",Boston,Miami,110,105
+"['2019', '04', '01']",Milwaukee,Brooklyn,131,121
+"['2019', '04', '01']",Dallas,Philadelphia,122,102
+"['2019', '04', '01']",Indiana,Detroit,111,102
+"['2019', '04', '01']",Portland,Minnesota,132,122
+"['2019', '04', '01']",New York,Chicago,113,105
+"['2019', '04', '01']",Phoenix,Cleveland,122,113
+"['2019', '04', '01']",Toronto,Orlando,121,109
+"['2019', '04', '01']",Utah,Charlotte,111,102
+"['2019', '04', '02']",Golden State,Denver,116,102
+"['2019', '04', '02']",Oklahoma City,LA Lakers,119,103
+"['2019', '04', '02']",Houston,Sacramento,130,105
+"['2019', '04', '02']",San Antonio,Atlanta,117,111
+"['2019', '04', '03']",Atlanta,Philadelphia,130,122
+"['2019', '04', '03']",Toronto,Brooklyn,115,105
+"['2019', '04', '03']",Minnesota,Dallas,110,108
+"['2019', '04', '03']",Denver,San Antonio,113,85
+"['2019', '04', '03']",Indiana,Detroit,108,89
+"['2019', '04', '03']",Houston,LA Clippers,135,103
+"['2019', '04', '03']",Boston,Miami,112,102
+"['2019', '04', '03']",Charlotte,New Orleans,115,109
+"['2019', '04', '03']",Orlando,New York,114,100
+"['2019', '04', '03']",Utah,Phoenix,118,97
+"['2019', '04', '03']",Portland,Memphis,116,89
+"['2019', '04', '03']",Chicago,Washington,115,114
+"['2019', '04', '04']",Golden State,LA Lakers,108,90
+"['2019', '04', '04']",Milwaukee,Philadelphia,128,122
+"['2019', '04', '04']",Sacramento,Cleveland,117,104
+"['2019', '04', '05']",Charlotte,Toronto,113,111
+"['2019', '04', '05']",Memphis,Dallas,122,112
+"['2019', '04', '05']",Denver,Portland,119,110
+"['2019', '04', '05']",Golden State,Cleveland,120,114
+"['2019', '04', '05']",Houston,New York,120,96
+"['2019', '04', '05']",Boston,Indiana,117,97
+"['2019', '04', '05']",LA Lakers,LA Clippers,122,117
+"['2019', '04', '05']",Minnesota,Miami,111,109
+"['2019', '04', '05']",Oklahoma City,Detroit,123,110
+"['2019', '04', '05']",Orlando,Atlanta,149,113
+"['2019', '04', '05']",Phoenix,New Orleans,133,126
+"['2019', '04', '05']",Utah,Sacramento,119,98
+"['2019', '04', '05']",San Antonio,Washington,129,112
+"['2019', '04', '06']",Philadelphia,Chicago,116,96
+"['2019', '04', '06']",Brooklyn,Milwaukee,133,128
+"['2019', '04', '07']",Orlando,Boston,116,108
+"['2019', '04', '07']",San Antonio,Cleveland,112,90
+"['2019', '04', '07']",Charlotte,Detroit,104,91
+"['2019', '04', '07']",Golden State,LA Clippers,131,104
+"['2019', '04', '07']",Houston,Phoenix,149,113
+"['2019', '04', '07']",Brooklyn,Indiana,108,96
+"['2019', '04', '07']",LA Lakers,Utah,113,109
+"['2019', '04', '07']",Dallas,Memphis,129,127
+"['2019', '04', '07']",Milwaukee,Atlanta,115,107
+"['2019', '04', '07']",Oklahoma City,Minnesota,132,126
+"['2019', '04', '07']",New York,Washington,113,110
+"['2019', '04', '07']",Portland,Denver,115,108
+"['2019', '04', '07']",New Orleans,Sacramento,133,129
+"['2019', '04', '07']",Toronto,Miami,117,109
+"['2019', '04', '09']",New York,Chicago,96,86
+"['2019', '04', '09']",Charlotte,Cleveland,124,97
+"['2019', '04', '09']",Dallas,Phoenix,120,109
+"['2019', '04', '09']",Detroit,Memphis,100,93
+"['2019', '04', '09']",Portland,LA Lakers,104,101
+"['2019', '04', '09']",Miami,Philadelphia,122,99
+"['2019', '04', '09']",Toronto,Minnesota,120,100
+"['2019', '04', '09']",Golden State,New Orleans,112,103
+"['2019', '04', '09']",Oklahoma City,Houston,112,111
+"['2019', '04', '09']",Utah,Denver,118,108
+"['2019', '04', '09']",Boston,Washington,116,110
+"['2019', '04', '10']",Indiana,Atlanta,135,134
+"['2019', '04', '10']",Brooklyn,Miami,113,94
+"['2019', '04', '10']",Orlando,Charlotte,122,114
+"['2019', '04', '10']",Denver,Minnesota,99,95
+"['2019', '04', '10']",LA Clippers,Utah,143,137
+"['2019', '04', '10']",Memphis,Golden State,132,117
+"['2019', '04', '10']",Oklahoma City,Milwaukee,127,116
+"['2019', '04', '10']",Detroit,New York,115,89
+"['2019', '04', '10']",Philadelphia,Chicago,125,109
+"['2019', '04', '10']",Portland,Sacramento,136,131
+"['2019', '04', '10']",San Antonio,Dallas,105,94
+"['2019', '04', '13']",San Antonio,Denver,101,96
+"['2019', '04', '13']",Golden State,LA Clippers,121,104
+"['2019', '04', '13']",Brooklyn,Philadelphia,111,102
+"['2019', '04', '13']",Orlando,Toronto,104,101
+"['2019', '04', '14']",Boston,Indiana,84,74
+"['2019', '04', '14']",Houston,Utah,122,90
+"['2019', '04', '14']",Milwaukee,Detroit,121,86
+"['2019', '04', '14']",Portland,Oklahoma City,104,99
+"['2019', '04', '15']",LA Clippers,Golden State,135,131
+"['2019', '04', '15']",Philadelphia,Brooklyn,145,123
+"['2019', '04', '16']",Denver,San Antonio,114,105
+"['2019', '04', '16']",Portland,Oklahoma City,114,94
+"['2019', '04', '16']",Toronto,Orlando,111,82
+"['2019', '04', '17']",Boston,Indiana,99,91
+"['2019', '04', '17']",Houston,Utah,118,98
+"['2019', '04', '17']",Milwaukee,Detroit,120,99
+"['2019', '04', '18']",Philadelphia,Brooklyn,131,115
+"['2019', '04', '18']",Golden State,LA Clippers,132,105
+"['2019', '04', '18']",San Antonio,Denver,118,108
+"['2019', '04', '19']",Boston,Indiana,104,96
+"['2019', '04', '19']",Oklahoma City,Portland,120,108
+"['2019', '04', '19']",Toronto,Orlando,98,93
+"['2019', '04', '20']",Philadelphia,Brooklyn,112,108
+"['2019', '04', '20']",Milwaukee,Detroit,119,103
+"['2019', '04', '20']",Denver,San Antonio,117,103
+"['2019', '04', '20']",Houston,Utah,104,101
+"['2019', '04', '21']",Boston,Indiana,110,106
+"['2019', '04', '21']",Golden State,LA Clippers,113,105
+"['2019', '04', '21']",Portland,Oklahoma City,111,98
+"['2019', '04', '21']",Toronto,Orlando,107,85
+"['2019', '04', '22']",Milwaukee,Detroit,127,104
+"['2019', '04', '22']",Utah,Houston,107,91
+"['2019', '04', '23']",Denver,San Antonio,108,90
+"['2019', '04', '23']",Philadelphia,Brooklyn,122,100
+"['2019', '04', '23']",Portland,Oklahoma City,118,115
+"['2019', '04', '23']",Toronto,Orlando,115,96
+"['2019', '04', '24']",LA Clippers,Golden State,129,121
+"['2019', '04', '24']",Houston,Utah,100,93
+"['2019', '04', '25']",San Antonio,Denver,120,103
+"['2019', '04', '26']",Golden State,LA Clippers,129,110
+"['2019', '04', '27']",Denver,San Antonio,90,86
+"['2019', '04', '27']",Toronto,Philadelphia,108,95
+"['2019', '04', '28']",Golden State,Houston,104,100
+"['2019', '04', '28']",Boston,Milwaukee,112,90
+"['2019', '04', '29']",Denver,Portland,121,113
+"['2019', '04', '29']",Philadelphia,Toronto,94,89
+"['2019', '04', '30']",Golden State,Houston,115,109
+"['2019', '04', '30']",Milwaukee,Boston,123,102
+"['2019', '05', '01']",Portland,Denver,97,90
+"['2019', '05', '02']",Philadelphia,Toronto,116,95
+"['2019', '05', '03']",Milwaukee,Boston,123,116
+"['2019', '05', '03']",Portland,Denver,140,137
+"['2019', '05', '04']",Houston,Golden State,126,121
+"['2019', '05', '05']",Toronto,Philadelphia,101,96
+"['2019', '05', '05']",Denver,Portland,116,112
+"['2019', '05', '06']",Milwaukee,Boston,113,101
+"['2019', '05', '06']",Houston,Golden State,112,108
+"['2019', '05', '07']",Denver,Portland,124,98
+"['2019', '05', '07']",Toronto,Philadelphia,125,89
+"['2019', '05', '08']",Golden State,Houston,104,99
+"['2019', '05', '08']",Milwaukee,Boston,116,91
+"['2019', '05', '09']",Philadelphia,Toronto,112,101
+"['2019', '05', '09']",Portland,Denver,119,108
+"['2019', '05', '10']",Golden State,Houston,118,113
+"['2019', '05', '12']",Portland,Denver,100,96
+"['2019', '05', '12']",Toronto,Philadelphia,92,90
+"['2019', '05', '14']",Golden State,Portland,116,94
+"['2019', '05', '15']",Milwaukee,Toronto,108,100
+"['2019', '05', '16']",Golden State,Portland,114,111
+"['2019', '05', '17']",Milwaukee,Toronto,125,103
+"['2019', '05', '18']",Golden State,Portland,110,99
+"['2019', '05', '19']",Toronto,Milwaukee,118,112
+"['2019', '05', '20']",Golden State,Portland,119,117
+"['2019', '05', '21']",Toronto,Milwaukee,120,102
+"['2019', '05', '23']",Toronto,Milwaukee,105,99
+"['2019', '05', '25']",Toronto,Milwaukee,100,94
+"['2019', '05', '30']",Toronto,Golden State,118,109
+"['2019', '06', '02']",Golden State,Toronto,109,104
+"['2019', '06', '05']",Toronto,Golden State,123,109
+"['2019', '06', '07']",Toronto,Golden State,105,92
+"['2019', '06', '10']",Golden State,Toronto,106,105
+"['2019', '06', '13']",Toronto,Golden State,114,110
+"['2019', '10', '22']",LA Clippers,LA Lakers,112,102
+"['2019', '10', '22']",Toronto,New Orleans,130,122
+"['2019', '10', '23']",Minnesota,Brooklyn,127,126
+"['2019', '10', '23']",Charlotte,Chicago,126,125
+"['2019', '10', '23']",Dallas,Washington,108,100
+"['2019', '10', '23']",Detroit,Indiana,119,110
+"['2019', '10', '23']",Miami,Memphis,120,101
+"['2019', '10', '23']",Orlando,Cleveland,94,85
+"['2019', '10', '23']",Philadelphia,Boston,107,93
+"['2019', '10', '23']",Phoenix,Sacramento,124,95
+"['2019', '10', '23']",Denver,Portland,108,100
+"['2019', '10', '23']",San Antonio,New York,120,111
+"['2019', '10', '23']",Utah,Oklahoma City,100,95
+"['2019', '10', '24']",Atlanta,Detroit,117,100
+"['2019', '10', '24']",LA Clippers,Golden State,141,122
+"['2019', '10', '24']",Milwaukee,Houston,117,111
+"['2019', '10', '25']",Boston,Toronto,112,106
+"['2019', '10', '25']",Brooklyn,New York,113,109
+"['2019', '10', '25']",Minnesota,Charlotte,121,99
+"['2019', '10', '25']",Denver,Phoenix,108,107
+"['2019', '10', '25']",LA Lakers,Utah,95,86
+"['2019', '10', '25']",Chicago,Memphis,110,102
+"['2019', '10', '25']",Dallas,New Orleans,123,116
+"['2019', '10', '25']",Washington,Oklahoma City,97,85
+"['2019', '10', '25']",Portland,Sacramento,122,112
+"['2019', '10', '26']",Atlanta,Orlando,103,99
+"['2019', '10', '26']",Toronto,Chicago,108,84
+"['2019', '10', '26']",Cleveland,Indiana,110,99
+"['2019', '10', '26']",Philadelphia,Detroit,117,111
+"['2019', '10', '26']",Houston,New Orleans,126,123
+"['2019', '10', '26']",Miami,Milwaukee,131,126
+"['2019', '10', '26']",Boston,New York,118,95
+"['2019', '10', '26']",Phoenix,LA Clippers,130,122
+"['2019', '10', '26']",San Antonio,Washington,124,122
+"['2019', '10', '26']",Utah,Sacramento,113,81
+"['2019', '10', '27']",Portland,Dallas,121,119
+"['2019', '10', '27']",LA Lakers,Charlotte,120,101
+"['2019', '10', '27']",Memphis,Brooklyn,134,133
+"['2019', '10', '27']",Minnesota,Miami,116,109
+"['2019', '10', '27']",Oklahoma City,Golden State,120,92
+"['2019', '10', '28']",Philadelphia,Atlanta,105,103
+"['2019', '10', '28']",Detroit,Indiana,96,94
+"['2019', '10', '28']",Houston,Oklahoma City,116,112
+"['2019', '10', '28']",LA Clippers,Charlotte,111,96
+"['2019', '10', '28']",Milwaukee,Cleveland,129,112
+"['2019', '10', '28']",Golden State,New Orleans,134,123
+"['2019', '10', '28']",New York,Chicago,105,98
+"['2019', '10', '28']",Utah,Phoenix,96,95
+"['2019', '10', '28']",Denver,Sacramento,101,94
+"['2019', '10', '28']",San Antonio,Portland,113,110
+"['2019', '10', '28']",Toronto,Orlando,104,95
+"['2019', '10', '29']",Dallas,Denver,109,106
+"['2019', '10', '29']",LA Lakers,Memphis,120,91
+"['2019', '10', '29']",Miami,Atlanta,112,97
+"['2019', '10', '30']",Boston,Milwaukee,116,105
+"['2019', '10', '30']",Indiana,Brooklyn,118,108
+"['2019', '10', '30']",Cleveland,Chicago,117,111
+"['2019', '10', '30']",Phoenix,Golden State,121,110
+"['2019', '10', '30']",Portland,Oklahoma City,102,99
+"['2019', '10', '30']",Orlando,New York,95,83
+"['2019', '10', '30']",Philadelphia,Minnesota,117,95
+"['2019', '10', '30']",Charlotte,Sacramento,118,111
+"['2019', '10', '30']",Toronto,Detroit,125,113
+"['2019', '10', '30']",Utah,LA Clippers,110,96
+"['2019', '10', '30']",Houston,Washington,159,158
+"['2019', '10', '31']",Miami,Atlanta,106,97
+"['2019', '10', '31']",LA Clippers,San Antonio,103,97
+"['2019', '10', '31']",New Orleans,Denver,122,107
+"['2019', '11', '01']",Boston,New York,104,102
+"['2019', '11', '01']",Brooklyn,Houston,123,116
+"['2019', '11', '01']",Chicago,Detroit,112,106
+"['2019', '11', '01']",LA Lakers,Dallas,119,110
+"['2019', '11', '01']",San Antonio,Golden State,127,110
+"['2019', '11', '01']",Indiana,Cleveland,102,95
+"['2019', '11', '01']",Milwaukee,Orlando,123,91
+"['2019', '11', '01']",Sacramento,Utah,102,101
+"['2019', '11', '02']",Detroit,Brooklyn,113,109
+"['2019', '11', '02']",Charlotte,Golden State,93,87
+"['2019', '11', '02']",Phoenix,Memphis,114,105
+"['2019', '11', '02']",Milwaukee,Toronto,115,105
+"['2019', '11', '02']",Oklahoma City,New Orleans,115,104
+"['2019', '11', '02']",Denver,Orlando,91,87
+"['2019', '11', '02']",Philadelphia,Portland,129,128
+"['2019', '11', '02']",Minnesota,Washington,131,109
+"['2019', '11', '03']",Dallas,Cleveland,131,111
+"['2019', '11', '03']",Indiana,Chicago,108,95
+"['2019', '11', '03']",LA Clippers,Utah,105,94
+"['2019', '11', '03']",Miami,Houston,129,100
+"['2019', '11', '03']",Sacramento,New York,113,92
+"['2019', '11', '03']",LA Lakers,San Antonio,103,96
+"['2019', '11', '04']",Brooklyn,New Orleans,135,125
+"['2019', '11', '04']",Golden State,Portland,127,118
+"['2019', '11', '04']",Houston,Memphis,107,100
+"['2019', '11', '04']",Milwaukee,Minnesota,134,106
+"['2019', '11', '04']",Phoenix,Philadelphia,114,109
+"['2019', '11', '04']",Washington,Detroit,115,99
+"['2019', '11', '05']",Atlanta,San Antonio,108,100
+"['2019', '11', '05']",LA Lakers,Chicago,118,112
+"['2019', '11', '05']",Charlotte,Indiana,122,120
+"['2019', '11', '05']",Boston,Cleveland,119,113
+"['2019', '11', '05']",Denver,Miami,109,89
+"['2019', '11', '05']",Oklahoma City,Orlando,102,94
+"['2019', '11', '06']",Chicago,Atlanta,113,93
+"['2019', '11', '06']",Dallas,Orlando,107,106
+"['2019', '11', '06']",Detroit,New York,122,102
+"['2019', '11', '06']",Houston,Golden State,129,112
+"['2019', '11', '06']",Indiana,Washington,121,106
+"['2019', '11', '06']",Milwaukee,LA Clippers,129,124
+"['2019', '11', '06']",Memphis,Minnesota,137,121
+"['2019', '11', '06']",Toronto,Sacramento,124,120
+"['2019', '11', '06']",Utah,Philadelphia,106,104
+"['2019', '11', '07']",Boston,Charlotte,108,87
+"['2019', '11', '07']",LA Clippers,Portland,107,101
+"['2019', '11', '07']",Miami,Phoenix,124,108
+"['2019', '11', '07']",San Antonio,Oklahoma City,121,112
+"['2019', '11', '08']",Sacramento,Atlanta,121,109
+"['2019', '11', '08']",New York,Dallas,106,102
+"['2019', '11', '08']",Denver,Philadelphia,100,97
+"['2019', '11', '08']",Indiana,Detroit,112,106
+"['2019', '11', '08']",LA Lakers,Miami,95,80
+"['2019', '11', '08']",Minnesota,Golden State,125,119
+"['2019', '11', '08']",Toronto,New Orleans,122,104
+"['2019', '11', '08']",Orlando,Memphis,118,86
+"['2019', '11', '08']",Brooklyn,Portland,119,115
+"['2019', '11', '08']",Utah,Milwaukee,103,100
+"['2019', '11', '08']",Cleveland,Washington,113,100
+"['2019', '11', '09']",Houston,Chicago,117,94
+"['2019', '11', '09']",New Orleans,Charlotte,115,110
+"['2019', '11', '09']",Dallas,Memphis,138,122
+"['2019', '11', '09']",Oklahoma City,Golden State,114,108
+"['2019', '11', '09']",Boston,San Antonio,135,115
+"['2019', '11', '10']",Toronto,LA Lakers,113,104
+"['2019', '11', '10']",Denver,Minnesota,100,98
+"['2019', '11', '10']",Cleveland,New York,108,87
+"['2019', '11', '10']",Milwaukee,Oklahoma City,121,119
+"['2019', '11', '10']",Indiana,Orlando,109,102
+"['2019', '11', '10']",Philadelphia,Charlotte,114,106
+"['2019', '11', '10']",Phoenix,Brooklyn,138,112
+"['2019', '11', '10']",Portland,Atlanta,124,113
+"['2019', '11', '11']",Boston,Dallas,116,106
+"['2019', '11', '11']",Minnesota,Detroit,120,114
+"['2019', '11', '11']",Utah,Golden State,122,108
+"['2019', '11', '11']",LA Clippers,Toronto,98,88
+"['2019', '11', '11']",Houston,New Orleans,122,116
+"['2019', '11', '11']",Memphis,San Antonio,113,109
+"['2019', '11', '12']",Chicago,New York,120,102
+"['2019', '11', '12']",Atlanta,Denver,125,121
+"['2019', '11', '12']",Indiana,Oklahoma City,111,85
+"['2019', '11', '12']",Miami,Detroit,117,108
+"['2019', '11', '12']",Philadelphia,Cleveland,98,97
+"['2019', '11', '12']",LA Lakers,Phoenix,123,115
+"['2019', '11', '12']",Sacramento,Portland,107,99
+"['2019', '11', '12']",Utah,Brooklyn,119,114
+"['2019', '11', '13']",Boston,Washington,140,133
+"['2019', '11', '13']",Memphis,Charlotte,119,117
+"['2019', '11', '13']",Houston,LA Clippers,102,93
+"['2019', '11', '13']",LA Lakers,Golden State,120,94
+"['2019', '11', '13']",Minnesota,San Antonio,129,114
+"['2019', '11', '13']",Orlando,Philadelphia,112,97
+"['2019', '11', '13']",Toronto,Portland,114,106
+"['2019', '11', '14']",Miami,Cleveland,108,97
+"['2019', '11', '14']",Denver,Brooklyn,101,93
+"['2019', '11', '14']",Milwaukee,Chicago,124,115
+"['2019', '11', '14']",New Orleans,LA Clippers,132,127
+"['2019', '11', '14']",New York,Dallas,106,103
+"['2019', '11', '14']",Phoenix,Atlanta,128,112
+"['2019', '11', '15']",Charlotte,Detroit,109,106
+"['2019', '11', '15']",Boston,Golden State,105,100
+"['2019', '11', '15']",Houston,Indiana,111,102
+"['2019', '11', '15']",LA Lakers,Sacramento,99,97
+"['2019', '11', '15']",Memphis,Utah,107,106
+"['2019', '11', '15']",Washington,Minnesota,137,116
+"['2019', '11', '15']",Oklahoma City,Philadelphia,127,119
+"['2019', '11', '15']",Orlando,San Antonio,111,109
+"['2019', '11', '16']",Brooklyn,Chicago,117,111
+"['2019', '11', '16']",Dallas,Toronto,110,102
+"['2019', '11', '16']",Milwaukee,Indiana,102,83
+"['2019', '11', '16']",LA Clippers,Atlanta,150,101
+"['2019', '11', '16']",Miami,New Orleans,109,94
+"['2019', '11', '16']",Houston,Minnesota,125,105
+"['2019', '11', '16']",Charlotte,New York,103,102
+"['2019', '11', '16']",Portland,San Antonio,121,116
+"['2019', '11', '17']",Philadelphia,Cleveland,114,95
+"['2019', '11', '17']",LA Lakers,Atlanta,122,101
+"['2019', '11', '17']",Denver,Memphis,131,114
+"['2019', '11', '17']",New Orleans,Golden State,108,100
+"['2019', '11', '17']",Orlando,Washington,125,121
+"['2019', '11', '17']",Sacramento,Boston,100,99
+"['2019', '11', '18']",Indiana,Brooklyn,115,86
+"['2019', '11', '18']",Milwaukee,Chicago,115,101
+"['2019', '11', '18']",Dallas,San Antonio,117,110
+"['2019', '11', '18']",Houston,Portland,132,108
+"['2019', '11', '18']",LA Clippers,Oklahoma City,90,88
+"['2019', '11', '18']",New York,Cleveland,123,105
+"['2019', '11', '18']",Boston,Phoenix,99,85
+"['2019', '11', '18']",Toronto,Charlotte,132,96
+"['2019', '11', '18']",Minnesota,Utah,112,102
+"['2019', '11', '19']",LA Lakers,Oklahoma City,112,107
+"['2019', '11', '19']",Golden State,Memphis,114,95
+"['2019', '11', '19']",New Orleans,Portland,115,104
+"['2019', '11', '19']",Sacramento,Phoenix,120,116
+"['2019', '11', '20']",Milwaukee,Atlanta,135,127
+"['2019', '11', '20']",Brooklyn,Charlotte,101,91
+"['2019', '11', '20']",Chicago,Detroit,109,89
+"['2019', '11', '20']",Dallas,Golden State,142,94
+"['2019', '11', '20']",Denver,Houston,105,95
+"['2019', '11', '20']",LA Clippers,Boston,107,104
+"['2019', '11', '20']",Miami,Cleveland,124,100
+"['2019', '11', '20']",Utah,Minnesota,103,95
+"['2019', '11', '20']",Philadelphia,New York,109,104
+"['2019', '11', '20']",Toronto,Orlando,113,97
+"['2019', '11', '20']",Washington,San Antonio,138,132
+"['2019', '11', '21']",Milwaukee,Portland,137,129
+"['2019', '11', '21']",New Orleans,Phoenix,124,121
+"['2019', '11', '22']",Brooklyn,Sacramento,116,97
+"['2019', '11', '22']",Miami,Chicago,116,108
+"['2019', '11', '22']",Dallas,Cleveland,143,101
+"['2019', '11', '22']",Denver,Boston,96,92
+"['2019', '11', '22']",Detroit,Atlanta,128,103
+"['2019', '11', '22']",LA Clippers,Houston,122,119
+"['2019', '11', '22']",LA Lakers,Oklahoma City,130,127
+"['2019', '11', '22']",Philadelphia,San Antonio,115,104
+"['2019', '11', '22']",Utah,Golden State,113,109
+"['2019', '11', '22']",Washington,Charlotte,125,118
+"['2019', '11', '23']",Toronto,Atlanta,119,116
+"['2019', '11', '23']",Chicago,Charlotte,116,115
+"['2019', '11', '23']",Cleveland,Portland,110,104
+"['2019', '11', '23']",Indiana,Orlando,111,106
+"['2019', '11', '23']",LA Lakers,Memphis,109,108
+"['2019', '11', '23']",Milwaukee,Detroit,104,90
+"['2019', '11', '23']",Phoenix,Minnesota,100,98
+"['2019', '11', '23']",San Antonio,New York,111,104
+"['2019', '11', '23']",Philadelphia,Miami,113,86
+"['2019', '11', '23']",Utah,New Orleans,128,120
+"['2019', '11', '24']",Denver,Phoenix,116,104
+"['2019', '11', '24']",Dallas,Houston,137,123
+"['2019', '11', '24']",LA Clippers,New Orleans,134,109
+"['2019', '11', '24']",Brooklyn,New York,103,101
+"['2019', '11', '24']",Sacramento,Washington,113,106
+"['2019', '11', '25']",Minnesota,Atlanta,125,113
+"['2019', '11', '25']",Boston,Sacramento,103,102
+"['2019', '11', '25']",Portland,Chicago,117,94
+"['2019', '11', '25']",Brooklyn,Cleveland,108,106
+"['2019', '11', '25']",Detroit,Orlando,103,88
+"['2019', '11', '25']",Oklahoma City,Golden State,100,97
+"['2019', '11', '25']",Indiana,Memphis,126,114
+"['2019', '11', '25']",Miami,Charlotte,117,100
+"['2019', '11', '25']",Milwaukee,Utah,122,118
+"['2019', '11', '25']",LA Lakers,San Antonio,114,104
+"['2019', '11', '25']",Toronto,Philadelphia,101,96
+"['2019', '11', '26']",LA Clippers,Dallas,114,99
+"['2019', '11', '26']",Denver,Washington,117,104
+"['2019', '11', '27']",Boston,Brooklyn,121,110
+"['2019', '11', '27']",Charlotte,Detroit,102,101
+"['2019', '11', '27']",Orlando,Cleveland,116,104
+"['2019', '11', '27']",Golden State,Chicago,104,90
+"['2019', '11', '27']",Houston,Miami,117,108
+"['2019', '11', '27']",Indiana,Utah,121,102
+"['2019', '11', '27']",LA Clippers,Memphis,121,119
+"['2019', '11', '27']",Milwaukee,Atlanta,111,102
+"['2019', '11', '27']",LA Lakers,New Orleans,114,110
+"['2019', '11', '27']",Philadelphia,Sacramento,97,91
+"['2019', '11', '27']",Washington,Phoenix,140,132
+"['2019', '11', '27']",Portland,Oklahoma City,136,119
+"['2019', '11', '27']",Minnesota,San Antonio,113,101
+"['2019', '11', '27']",Toronto,New York,126,98
+"['2019', '11', '29']",Brooklyn,Boston,112,107
+"['2019', '11', '29']",Milwaukee,Cleveland,119,110
+"['2019', '11', '29']",Charlotte,Detroit,110,107
+"['2019', '11', '29']",Indiana,Atlanta,105,104
+"['2019', '11', '29']",LA Lakers,Washington,125,103
+"['2019', '11', '29']",Utah,Memphis,103,94
+"['2019', '11', '29']",Miami,Golden State,122,105
+"['2019', '11', '29']",Philadelphia,New York,101,95
+"['2019', '11', '29']",Oklahoma City,New Orleans,109,104
+"['2019', '11', '29']",Toronto,Orlando,90,83
+"['2019', '11', '29']",Dallas,Phoenix,120,113
+"['2019', '11', '29']",Portland,Chicago,107,103
+"['2019', '11', '29']",San Antonio,LA Clippers,107,97
+"['2019', '11', '30']",Houston,Atlanta,158,111
+"['2019', '11', '30']",Milwaukee,Charlotte,137,96
+"['2019', '11', '30']",Philadelphia,Indiana,119,116
+"['2019', '11', '30']",Sacramento,Denver,100,97
+"['2019', '12', '01']",Miami,Brooklyn,109,106
+"['2019', '12', '01']",Detroit,San Antonio,132,98
+"['2019', '12', '01']",LA Clippers,Washington,150,125
+"['2019', '12', '01']",Dallas,LA Lakers,114,100
+"['2019', '12', '01']",Memphis,Minnesota,115,107
+"['2019', '12', '01']",Oklahoma City,New Orleans,107,104
+"['2019', '12', '01']",Boston,New York,113,104
+"['2019', '12', '01']",Orlando,Golden State,100,96
+"['2019', '12', '01']",Toronto,Utah,130,110
+"['2019', '12', '02']",Atlanta,Golden State,104,79
+"['2019', '12', '02']",Phoenix,Charlotte,109,104
+"['2019', '12', '02']",Indiana,Memphis,117,104
+"['2019', '12', '02']",Milwaukee,New York,132,88
+"['2019', '12', '02']",Philadelphia,Utah,103,94
+"['2019', '12', '02']",Chicago,Sacramento,113,106
+"['2019', '12', '03']",Detroit,Cleveland,127,94
+"['2019', '12', '03']",LA Lakers,Denver,105,96
+"['2019', '12', '03']",LA Clippers,Portland,117,97
+"['2019', '12', '03']",Dallas,New Orleans,118,97
+"['2019', '12', '03']",San Antonio,Houston,135,133
+"['2019', '12', '03']",Miami,Toronto,121,110
+"['2019', '12', '03']",Orlando,Washington,127,120
+"['2019', '12', '04']",Brooklyn,Atlanta,130,118
+"['2019', '12', '04']",Boston,Miami,112,93
+"['2019', '12', '04']",Chicago,Memphis,106,99
+"['2019', '12', '04']",Charlotte,Golden State,106,91
+"['2019', '12', '04']",Dallas,Minnesota,121,114
+"['2019', '12', '04']",Milwaukee,Detroit,127,103
+"['2019', '12', '04']",Indiana,Oklahoma City,107,100
+"['2019', '12', '04']",Orlando,Phoenix,128,114
+"['2019', '12', '04']",Portland,Sacramento,127,116
+"['2019', '12', '04']",LA Lakers,Utah,121,96
+"['2019', '12', '05']",Phoenix,New Orleans,139,132
+"['2019', '12', '05']",Denver,New York,129,92
+"['2019', '12', '05']",Houston,Toronto,119,109
+"['2019', '12', '05']",Washington,Philadelphia,119,113
+"['2019', '12', '06']",Boston,Denver,108,95
+"['2019', '12', '06']",Golden State,Chicago,100,98
+"['2019', '12', '06']",Brooklyn,Charlotte,111,104
+"['2019', '12', '06']",Orlando,Cleveland,93,87
+"['2019', '12', '06']",Detroit,Indiana,108,101
+"['2019', '12', '06']",Miami,Washington,112,103
+"['2019', '12', '06']",Milwaukee,LA Clippers,119,91
+"['2019', '12', '06']",Oklahoma City,Minnesota,139,127
+"['2019', '12', '06']",LA Lakers,Portland,136,113
+"['2019', '12', '06']",San Antonio,Sacramento,105,104
+"['2019', '12', '07']",Dallas,New Orleans,130,84
+"['2019', '12', '07']",Houston,Phoenix,115,109
+"['2019', '12', '07']",Indiana,New York,104,103
+"['2019', '12', '07']",Philadelphia,Cleveland,141,94
+"['2019', '12', '07']",Utah,Memphis,126,112
+"['2019', '12', '08']",Brooklyn,Denver,105,102
+"['2019', '12', '08']",Atlanta,Charlotte,122,107
+"['2019', '12', '08']",Sacramento,Dallas,110,106
+"['2019', '12', '08']",LA Lakers,Minnesota,142,125
+"['2019', '12', '08']",Miami,Chicago,110,105
+"['2019', '12', '08']",Philadelphia,Toronto,110,104
+"['2019', '12', '08']",Oklahoma City,Portland,108,96
+"['2019', '12', '08']",LA Clippers,Washington,135,119
+"['2019', '12', '09']",Boston,Cleveland,110,88
+"['2019', '12', '09']",Toronto,Chicago,93,92
+"['2019', '12', '09']",Memphis,Golden State,110,102
+"['2019', '12', '09']",Sacramento,Houston,119,118
+"['2019', '12', '09']",LA Clippers,Indiana,110,99
+"['2019', '12', '09']",Milwaukee,Orlando,110,101
+"['2019', '12', '09']",Detroit,New Orleans,105,103
+"['2019', '12', '09']",Phoenix,Minnesota,125,109
+"['2019', '12', '09']",Oklahoma City,Utah,104,90
+"['2019', '12', '10']",Charlotte,Washington,114,107
+"['2019', '12', '10']",Miami,Atlanta,135,121
+"['2019', '12', '10']",Philadelphia,Denver,97,92
+"['2019', '12', '10']",Portland,New York,115,87
+"['2019', '12', '11']",Charlotte,Brooklyn,113,108
+"['2019', '12', '11']",Chicago,Atlanta,136,102
+"['2019', '12', '11']",Houston,Cleveland,116,110
+"['2019', '12', '11']",New York,Golden State,124,122
+"['2019', '12', '11']",Indiana,Boston,122,117
+"['2019', '12', '11']",Milwaukee,New Orleans,127,112
+"['2019', '12', '11']",Utah,Minnesota,127,116
+"['2019', '12', '11']",LA Lakers,Orlando,96,87
+"['2019', '12', '11']",Memphis,Phoenix,115,108
+"['2019', '12', '11']",Sacramento,Oklahoma City,94,93
+"['2019', '12', '11']",LA Clippers,Toronto,112,92
+"['2019', '12', '12']",Philadelphia,Boston,115,109
+"['2019', '12', '12']",Denver,Portland,114,99
+"['2019', '12', '12']",Dallas,Detroit,122,111
+"['2019', '12', '12']",Cleveland,San Antonio,117,109
+"['2019', '12', '13']",Indiana,Atlanta,110,100
+"['2019', '12', '13']",Charlotte,Chicago,83,73
+"['2019', '12', '13']",Milwaukee,Memphis,127,114
+"['2019', '12', '13']",LA Lakers,Miami,113,110
+"['2019', '12', '13']",LA Clippers,Minnesota,124,117
+"['2019', '12', '13']",Houston,Orlando,130,107
+"['2019', '12', '13']",Philadelphia,New Orleans,116,109
+"['2019', '12', '13']",New York,Sacramento,103,101
+"['2019', '12', '13']",Utah,Golden State,114,106
+"['2019', '12', '14']",Chicago,LA Clippers,109,106
+"['2019', '12', '14']",Miami,Dallas,122,118
+"['2019', '12', '14']",Denver,Oklahoma City,110,102
+"['2019', '12', '14']",Detroit,Houston,115,107
+"['2019', '12', '14']",Memphis,Washington,128,111
+"['2019', '12', '14']",Milwaukee,Cleveland,125,108
+"['2019', '12', '14']",San Antonio,Phoenix,121,119
+"['2019', '12', '14']",Toronto,Brooklyn,110,102
+"['2019', '12', '15']",LA Lakers,Atlanta,101,96
+"['2019', '12', '15']",Brooklyn,Philadelphia,109,89
+"['2019', '12', '15']",Denver,New York,111,105
+"['2019', '12', '15']",Sacramento,Golden State,100,79
+"['2019', '12', '15']",Indiana,Charlotte,107,85
+"['2019', '12', '15']",Orlando,New Orleans,130,119
+"['2019', '12', '16']",Washington,Detroit,133,119
+"['2019', '12', '16']",Houston,San Antonio,109,107
+"['2019', '12', '16']",Memphis,Miami,118,111
+"['2019', '12', '16']",Dallas,Milwaukee,120,116
+"['2019', '12', '16']",Oklahoma City,Chicago,109,106
+"['2019', '12', '16']",Portland,Phoenix,111,110
+"['2019', '12', '16']",Toronto,Cleveland,133,113
+"['2019', '12', '17']",Charlotte,Sacramento,110,102
+"['2019', '12', '17']",Indiana,LA Lakers,105,102
+"['2019', '12', '17']",LA Clippers,Phoenix,120,99
+"['2019', '12', '17']",Brooklyn,New Orleans,108,101
+"['2019', '12', '17']",New York,Atlanta,143,120
+"['2019', '12', '17']",Utah,Orlando,109,102
+"['2019', '12', '18']",Cleveland,Charlotte,100,98
+"['2019', '12', '18']",Boston,Dallas,109,103
+"['2019', '12', '18']",Denver,Orlando,113,104
+"['2019', '12', '18']",Toronto,Detroit,112,99
+"['2019', '12', '18']",New Orleans,Minnesota,107,99
+"['2019', '12', '18']",Oklahoma City,Memphis,126,122
+"['2019', '12', '18']",Miami,Philadelphia,108,104
+"['2019', '12', '18']",Portland,Golden State,122,112
+"['2019', '12', '18']",Chicago,Washington,110,109
+"['2019', '12', '19']",Utah,Atlanta,111,106
+"['2019', '12', '19']",Houston,LA Clippers,122,117
+"['2019', '12', '19']",Milwaukee,LA Lakers,111,104
+"['2019', '12', '19']",San Antonio,Brooklyn,118,105
+"['2019', '12', '20']",Boston,Detroit,114,93
+"['2019', '12', '20']",Cleveland,Memphis,114,107
+"['2019', '12', '20']",Denver,Minnesota,109,100
+"['2019', '12', '20']",Golden State,New Orleans,106,102
+"['2019', '12', '20']",Indiana,Sacramento,119,105
+"['2019', '12', '20']",Miami,New York,129,114
+"['2019', '12', '20']",Oklahoma City,Phoenix,126,108
+"['2019', '12', '20']",Dallas,Philadelphia,117,98
+"['2019', '12', '20']",Portland,Orlando,118,103
+"['2019', '12', '20']",Toronto,Washington,122,118
+"['2019', '12', '21']",Brooklyn,Atlanta,122,112
+"['2019', '12', '21']",Utah,Charlotte,114,107
+"['2019', '12', '21']",Chicago,Detroit,119,107
+"['2019', '12', '21']",Memphis,Sacramento,119,115
+"['2019', '12', '21']",Milwaukee,New York,123,102
+"['2019', '12', '21']",Philadelphia,Washington,125,108
+"['2019', '12', '21']",Houston,Phoenix,139,125
+"['2019', '12', '21']",Portland,Minnesota,113,106
+"['2019', '12', '21']",LA Clippers,San Antonio,134,109
+"['2019', '12', '22']",Boston,Charlotte,119,93
+"['2019', '12', '22']",Denver,LA Lakers,128,104
+"['2019', '12', '22']",Milwaukee,Indiana,117,89
+"['2019', '12', '22']",Oklahoma City,LA Clippers,118,112
+"['2019', '12', '22']",Toronto,Dallas,110,107
+"['2019', '12', '23']",Cleveland,Atlanta,121,118
+"['2019', '12', '23']",Philadelphia,Detroit,125,109
+"['2019', '12', '23']",Golden State,Minnesota,113,104
+"['2019', '12', '23']",Indiana,Toronto,120,115
+"['2019', '12', '23']",San Antonio,Memphis,145,115
+"['2019', '12', '23']",Miami,Utah,107,104
+"['2019', '12', '23']",Washington,New York,121,115
+"['2019', '12', '23']",Orlando,Chicago,103,95
+"['2019', '12', '23']",Denver,Phoenix,113,111
+"['2019', '12', '23']",New Orleans,Portland,102,94
+"['2019', '12', '23']",Houston,Sacramento,113,104
+"['2019', '12', '25']",New Orleans,Denver,112,100
+"['2019', '12', '25']",Golden State,Houston,116,104
+"['2019', '12', '25']",LA Clippers,LA Lakers,111,106
+"['2019', '12', '25']",Philadelphia,Milwaukee,121,109
+"['2019', '12', '25']",Boston,Toronto,118,102
+"['2019', '12', '26']",New York,Brooklyn,94,82
+"['2019', '12', '26']",Dallas,San Antonio,102,98
+"['2019', '12', '26']",Detroit,Washington,132,102
+"['2019', '12', '26']",Memphis,Oklahoma City,110,97
+"['2019', '12', '26']",Minnesota,Sacramento,105,104
+"['2019', '12', '26']",Utah,Portland,121,115
+"['2019', '12', '27']",Milwaukee,Atlanta,112,86
+"['2019', '12', '27']",Boston,Cleveland,129,117
+"['2019', '12', '27']",Oklahoma City,Charlotte,104,102
+"['2019', '12', '27']",Golden State,Phoenix,105,96
+"['2019', '12', '27']",Miami,Indiana,113,112
+"['2019', '12', '27']",Orlando,Philadelphia,98,97
+"['2019', '12', '28']",Toronto,Boston,113,97
+"['2019', '12', '28']",Chicago,Atlanta,116,81
+"['2019', '12', '28']",Denver,Memphis,119,110
+"['2019', '12', '28']",Dallas,Golden State,141,121
+"['2019', '12', '28']",Houston,Brooklyn,108,98
+"['2019', '12', '28']",Utah,LA Clippers,120,107
+"['2019', '12', '28']",Miami,Philadelphia,117,116
+"['2019', '12', '28']",Milwaukee,Orlando,111,100
+"['2019', '12', '28']",Cleveland,Minnesota,94,88
+"['2019', '12', '28']",New Orleans,Indiana,120,98
+"['2019', '12', '28']",LA Lakers,Portland,128,120
+"['2019', '12', '28']",Phoenix,Sacramento,112,110
+"['2019', '12', '28']",San Antonio,Detroit,136,109
+"['2019', '12', '28']",New York,Washington,107,100
+"['2019', '12', '29']",Denver,Sacramento,120,115
+"['2019', '12', '29']",LA Lakers,Dallas,108,95
+"['2019', '12', '29']",Memphis,Charlotte,117,104
+"['2019', '12', '29']",New Orleans,Houston,127,112
+"['2019', '12', '29']",Oklahoma City,Toronto,98,97
+"['2019', '12', '30']",Milwaukee,Chicago,123,102
+"['2019', '12', '30']",Minnesota,Brooklyn,122,115
+"['2019', '12', '30']",Atlanta,Orlando,101,93
+"['2019', '12', '30']",Phoenix,Portland,122,116
+"['2019', '12', '30']",Utah,Detroit,104,81
+"['2019', '12', '30']",Washington,Miami,123,105
+"['2019', '12', '31']",Boston,Charlotte,109,92
+"['2019', '12', '31']",Houston,Denver,130,104
+"['2019', '12', '31']",Indiana,Philadelphia,115,97
+"['2019', '12', '31']",Oklahoma City,Dallas,106,101
+"['2019', '12', '31']",LA Clippers,Sacramento,105,87
+"['2019', '12', '31']",San Antonio,Golden State,117,113
+"['2019', '12', '31']",Toronto,Cleveland,117,97

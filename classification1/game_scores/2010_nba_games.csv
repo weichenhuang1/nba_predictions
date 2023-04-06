@@ -1,0 +1,1322 @@
+date,winner,loser,winner_score,loser_score
+"['2010', '01', '01']",New York,Atlanta,112,108
+"['2010', '01', '01']",LA Lakers,Sacramento,109,108
+"['2010', '01', '01']",Orlando,Minnesota,106,94
+"['2010', '01', '02']",Boston,Toronto,103,96
+"['2010', '01', '02']",Chicago,Orlando,101,93
+"['2010', '01', '02']",Indiana,Minnesota,122,111
+"['2010', '01', '02']",Charlotte,Miami,107,97
+"['2010', '01', '02']",Milwaukee,Oklahoma City,103,97
+"['2010', '01', '02']",Cleveland,New Jersey,94,86
+"['2010', '01', '02']",New Orleans,Houston,99,95
+"['2010', '01', '02']",Memphis,Phoenix,128,103
+"['2010', '01', '02']",Portland,Golden State,105,89
+"['2010', '01', '02']",Dallas,Sacramento,99,91
+"['2010', '01', '02']",Denver,Utah,105,95
+"['2010', '01', '02']",San Antonio,Washington,97,86
+"['2010', '01', '03']",Charlotte,Cleveland,91,88
+"['2010', '01', '03']",Philadelphia,Denver,108,105
+"['2010', '01', '03']",LA Lakers,Dallas,131,96
+"['2010', '01', '03']",New York,Indiana,132,89
+"['2010', '01', '03']",Toronto,San Antonio,91,86
+"['2010', '01', '04']",Oklahoma City,Chicago,98,85
+"['2010', '01', '04']",LA Clippers,Portland,105,95
+"['2010', '01', '04']",Miami,Atlanta,92,75
+"['2010', '01', '04']",New Orleans,Utah,91,87
+"['2010', '01', '05']",Charlotte,Chicago,113,108
+"['2010', '01', '05']",Dallas,Detroit,98,93
+"['2010', '01', '05']",Denver,Golden State,123,122
+"['2010', '01', '05']",Indiana,Orlando,97,90
+"['2010', '01', '05']",LA Lakers,Houston,88,79
+"['2010', '01', '05']",Milwaukee,New Jersey,98,76
+"['2010', '01', '05']",Washington,Philadelphia,104,97
+"['2010', '01', '05']",Memphis,Portland,109,105
+"['2010', '01', '05']",Phoenix,Sacramento,113,109
+"['2010', '01', '06']",Atlanta,New Jersey,119,89
+"['2010', '01', '06']",Cleveland,Washington,121,98
+"['2010', '01', '06']",LA Clippers,LA Lakers,102,91
+"['2010', '01', '06']",Boston,Miami,112,106
+"['2010', '01', '06']",Golden State,Minnesota,107,101
+"['2010', '01', '06']",New Orleans,Oklahoma City,97,92
+"['2010', '01', '06']",Toronto,Orlando,108,103
+"['2010', '01', '06']",Phoenix,Houston,118,110
+"['2010', '01', '06']",San Antonio,Detroit,112,92
+"['2010', '01', '06']",Utah,Memphis,117,94
+"['2010', '01', '07']",New York,Charlotte,97,93
+"['2010', '01', '08']",Atlanta,Boston,93,85
+"['2010', '01', '08']",Denver,Cleveland,99,97
+"['2010', '01', '08']",Golden State,Sacramento,108,101
+"['2010', '01', '08']",Memphis,Utah,91,89
+"['2010', '01', '08']",Milwaukee,Chicago,96,93
+"['2010', '01', '08']",Minnesota,Indiana,116,109
+"['2010', '01', '08']",New Orleans,New Jersey,103,99
+"['2010', '01', '08']",Toronto,Philadelphia,108,106
+"['2010', '01', '08']",Miami,Phoenix,109,105
+"['2010', '01', '08']",Portland,LA Lakers,107,98
+"['2010', '01', '08']",Dallas,San Antonio,112,103
+"['2010', '01', '08']",Washington,Orlando,104,97
+"['2010', '01', '09']",Charlotte,Memphis,89,87
+"['2010', '01', '09']",Chicago,Minnesota,110,96
+"['2010', '01', '09']",Utah,Dallas,111,93
+"['2010', '01', '09']",Philadelphia,Detroit,104,94
+"['2010', '01', '09']",Houston,New York,105,96
+"['2010', '01', '09']",Oklahoma City,Indiana,108,102
+"['2010', '01', '09']",Orlando,Atlanta,113,81
+"['2010', '01', '09']",Sacramento,Denver,102,100
+"['2010', '01', '10']",LA Clippers,Miami,94,84
+"['2010', '01', '10']",LA Lakers,Milwaukee,95,77
+"['2010', '01', '10']",Cleveland,Portland,106,94
+"['2010', '01', '10']",San Antonio,New Jersey,97,85
+"['2010', '01', '10']",Boston,Toronto,114,107
+"['2010', '01', '10']",New Orleans,Washington,115,110
+"['2010', '01', '11']",Atlanta,Boston,102,96
+"['2010', '01', '11']",Chicago,Detroit,120,87
+"['2010', '01', '11']",Denver,Minnesota,105,94
+"['2010', '01', '11']",Cleveland,Golden State,117,114
+"['2010', '01', '11']",Indiana,Toronto,105,101
+"['2010', '01', '11']",Oklahoma City,New York,106,88
+"['2010', '01', '11']",Philadelphia,New Orleans,96,92
+"['2010', '01', '11']",Phoenix,Milwaukee,105,101
+"['2010', '01', '11']",Utah,Miami,118,89
+"['2010', '01', '12']",Charlotte,Houston,102,94
+"['2010', '01', '12']",Memphis,LA Clippers,104,102
+"['2010', '01', '12']",Orlando,Sacramento,109,88
+"['2010', '01', '12']",San Antonio,LA Lakers,105,85
+"['2010', '01', '12']",Detroit,Washington,99,90
+"['2010', '01', '13']",Atlanta,Washington,94,82
+"['2010', '01', '13']",LA Lakers,Dallas,100,95
+"['2010', '01', '13']",Denver,Orlando,115,97
+"['2010', '01', '13']",Miami,Golden State,115,102
+"['2010', '01', '13']",Houston,Minnesota,120,114
+"['2010', '01', '13']",Indiana,Phoenix,122,114
+"['2010', '01', '13']",Boston,New Jersey,111,87
+"['2010', '01', '13']",New Orleans,LA Clippers,108,94
+"['2010', '01', '13']",San Antonio,Oklahoma City,109,108
+"['2010', '01', '13']",New York,Philadelphia,93,92
+"['2010', '01', '13']",Portland,Milwaukee,120,108
+"['2010', '01', '14']",Chicago,Boston,96,83
+"['2010', '01', '14']",Utah,Cleveland,97,96
+"['2010', '01', '15']",Atlanta,Phoenix,102,101
+"['2010', '01', '15']",Charlotte,San Antonio,92,76
+"['2010', '01', '15']",Chicago,Washington,121,119
+"['2010', '01', '15']",Dallas,Oklahoma City,99,98
+"['2010', '01', '15']",Detroit,New Orleans,110,104
+"['2010', '01', '15']",Milwaukee,Golden State,113,104
+"['2010', '01', '15']",Miami,Houston,115,106
+"['2010', '01', '15']",LA Lakers,LA Clippers,126,86
+"['2010', '01', '15']",Memphis,Minnesota,135,110
+"['2010', '01', '15']",Indiana,New Jersey,121,105
+"['2010', '01', '15']",Toronto,New York,112,104
+"['2010', '01', '15']",Philadelphia,Sacramento,98,86
+"['2010', '01', '15']",Portland,Orlando,102,87
+"['2010', '01', '16']",Charlotte,Phoenix,125,99
+"['2010', '01', '16']",Detroit,New York,94,90
+"['2010', '01', '16']",New Orleans,Indiana,101,96
+"['2010', '01', '16']",Cleveland,LA Clippers,102,101
+"['2010', '01', '16']",Memphis,San Antonio,92,86
+"['2010', '01', '16']",Oklahoma City,Miami,98,80
+"['2010', '01', '16']",Utah,Milwaukee,112,95
+"['2010', '01', '16']",Washington,Sacramento,96,86
+"['2010', '01', '17']",Denver,Utah,119,112
+"['2010', '01', '17']",Toronto,Dallas,110,88
+"['2010', '01', '18']",Oklahoma City,Atlanta,94,91
+"['2010', '01', '18']",Dallas,Boston,99,90
+"['2010', '01', '18']",Charlotte,Sacramento,105,103
+"['2010', '01', '18']",Golden State,Chicago,114,97
+"['2010', '01', '18']",Houston,Milwaukee,101,98
+"['2010', '01', '18']",LA Clippers,New Jersey,106,95
+"['2010', '01', '18']",LA Lakers,Orlando,98,92
+"['2010', '01', '18']",Memphis,Phoenix,125,118
+"['2010', '01', '18']",Minnesota,Philadelphia,108,103
+"['2010', '01', '18']",San Antonio,New Orleans,97,90
+"['2010', '01', '18']",New York,Detroit,99,91
+"['2010', '01', '18']",Washington,Portland,97,92
+"['2010', '01', '19']",Cleveland,Toronto,108,100
+"['2010', '01', '19']",Miami,Indiana,113,83
+"['2010', '01', '20']",Atlanta,Sacramento,108,97
+"['2010', '01', '20']",Charlotte,Miami,104,65
+"['2010', '01', '20']",Detroit,Boston,92,86
+"['2010', '01', '20']",Denver,Golden State,123,118
+"['2010', '01', '20']",LA Clippers,Chicago,104,97
+"['2010', '01', '20']",Milwaukee,Toronto,113,107
+"['2010', '01', '20']",Oklahoma City,Minnesota,94,92
+"['2010', '01', '20']",New Orleans,Memphis,113,111
+"['2010', '01', '20']",Orlando,Indiana,109,98
+"['2010', '01', '20']",Portland,Philadelphia,98,90
+"['2010', '01', '20']",Phoenix,New Jersey,118,94
+"['2010', '01', '20']",Utah,San Antonio,105,98
+"['2010', '01', '20']",Dallas,Washington,94,93
+"['2010', '01', '21']",Cleveland,LA Lakers,93,87
+"['2010', '01', '21']",Denver,LA Clippers,105,85
+"['2010', '01', '22']",Atlanta,Charlotte,103,89
+"['2010', '01', '22']",Boston,Portland,98,95
+"['2010', '01', '22']",Indiana,Detroit,105,93
+"['2010', '01', '22']",Golden State,New Jersey,111,79
+"['2010', '01', '22']",Memphis,Oklahoma City,86,84
+"['2010', '01', '22']",New Orleans,Minnesota,96,94
+"['2010', '01', '22']",LA Lakers,New York,115,105
+"['2010', '01', '22']",Orlando,Sacramento,100,84
+"['2010', '01', '22']",Philadelphia,Dallas,92,81
+"['2010', '01', '22']",Chicago,Phoenix,115,104
+"['2010', '01', '22']",Houston,San Antonio,116,109
+"['2010', '01', '22']",Toronto,Milwaukee,101,96
+"['2010', '01', '22']",Miami,Washington,112,88
+"['2010', '01', '23']",Orlando,Charlotte,106,95
+"['2010', '01', '23']",Cleveland,Oklahoma City,100,99
+"['2010', '01', '23']",Denver,New Orleans,116,110
+"['2010', '01', '23']",Portland,Detroit,97,93
+"['2010', '01', '23']",Chicago,Houston,104,97
+"['2010', '01', '23']",Philadelphia,Indiana,107,97
+"['2010', '01', '23']",Miami,Sacramento,115,84
+"['2010', '01', '23']",Milwaukee,Minnesota,127,94
+"['2010', '01', '23']",Phoenix,Golden State,112,103
+"['2010', '01', '23']",Utah,New Jersey,116,83
+"['2010', '01', '24']",Dallas,New York,128,78
+"['2010', '01', '24']",Toronto,LA Lakers,106,105
+"['2010', '01', '24']",LA Clippers,Washington,92,78
+"['2010', '01', '25']",Boston,LA Clippers,95,89
+"['2010', '01', '25']",Denver,Charlotte,104,93
+"['2010', '01', '25']",Atlanta,Houston,102,95
+"['2010', '01', '25']",Memphis,Orlando,99,94
+"['2010', '01', '25']",Cleveland,Miami,92,91
+"['2010', '01', '25']",Indiana,Philadelphia,109,98
+"['2010', '01', '25']",New Orleans,Portland,98,97
+"['2010', '01', '25']",Chicago,San Antonio,98,93
+"['2010', '01', '25']",Utah,Phoenix,124,115
+"['2010', '01', '26']",Dallas,Milwaukee,108,107
+"['2010', '01', '26']",New York,Minnesota,132,105
+"['2010', '01', '26']",Charlotte,Phoenix,114,109
+"['2010', '01', '26']",Sacramento,Golden State,99,96
+"['2010', '01', '26']",LA Lakers,Washington,115,103
+"['2010', '01', '27']",Cleveland,Minnesota,109,95
+"['2010', '01', '27']",Memphis,Detroit,99,93
+"['2010', '01', '27']",New Orleans,Golden State,123,110
+"['2010', '01', '27']",Denver,Houston,97,92
+"['2010', '01', '27']",LA Lakers,Indiana,118,96
+"['2010', '01', '27']",Milwaukee,Philadelphia,91,88
+"['2010', '01', '27']",New Jersey,LA Clippers,103,87
+"['2010', '01', '27']",Chicago,Oklahoma City,96,86
+"['2010', '01', '27']",Utah,Portland,106,95
+"['2010', '01', '27']",San Antonio,Atlanta,105,90
+"['2010', '01', '27']",Toronto,Miami,111,103
+"['2010', '01', '28']",Toronto,New York,106,104
+"['2010', '01', '28']",Orlando,Boston,96,94
+"['2010', '01', '28']",Phoenix,Dallas,112,106
+"['2010', '01', '29']",Atlanta,Boston,100,91
+"['2010', '01', '29']",Miami,Detroit,92,65
+"['2010', '01', '29']",Charlotte,Golden State,121,110
+"['2010', '01', '29']",Houston,Portland,104,100
+"['2010', '01', '29']",Cleveland,Indiana,94,73
+"['2010', '01', '29']",Minnesota,LA Clippers,111,97
+"['2010', '01', '29']",Washington,New Jersey,81,79
+"['2010', '01', '29']",Chicago,New Orleans,108,106
+"['2010', '01', '29']",Oklahoma City,Denver,101,84
+"['2010', '01', '29']",LA Lakers,Philadelphia,99,91
+"['2010', '01', '29']",San Antonio,Memphis,104,97
+"['2010', '01', '29']",Utah,Sacramento,101,94
+"['2010', '01', '30']",Portland,Dallas,114,112
+"['2010', '01', '30']",New Orleans,Memphis,109,102
+"['2010', '01', '30']",Milwaukee,Miami,95,84
+"['2010', '01', '30']",Orlando,Atlanta,104,86
+"['2010', '01', '30']",Charlotte,Sacramento,103,96
+"['2010', '01', '30']",Washington,New York,106,96
+"['2010', '01', '31']",LA Lakers,Boston,90,89
+"['2010', '01', '31']",Cleveland,LA Clippers,114,89
+"['2010', '01', '31']",Orlando,Detroit,91,86
+"['2010', '01', '31']",Phoenix,Houston,115,111
+"['2010', '01', '31']",Minnesota,New York,112,91
+"['2010', '01', '31']",Philadelphia,New Jersey,83,79
+"['2010', '01', '31']",Oklahoma City,Golden State,112,104
+"['2010', '01', '31']",Denver,San Antonio,103,89
+"['2010', '01', '31']",Toronto,Indiana,117,102
+"['2010', '02', '01']",Denver,Sacramento,112,109
+"['2010', '02', '01']",Memphis,LA Lakers,95,93
+"['2010', '02', '01']",Milwaukee,Miami,97,81
+"['2010', '02', '01']",Phoenix,New Orleans,109,100
+"['2010', '02', '01']",Portland,Charlotte,98,79
+"['2010', '02', '01']",Utah,Dallas,104,92
+"['2010', '02', '01']",Boston,Washington,99,88
+"['2010', '02', '02']",LA Clippers,Chicago,90,82
+"['2010', '02', '02']",Cleveland,Memphis,105,89
+"['2010', '02', '02']",Houston,Golden State,119,97
+"['2010', '02', '02']",Indiana,Toronto,130,115
+"['2010', '02', '02']",Detroit,New Jersey,97,93
+"['2010', '02', '02']",Oklahoma City,Atlanta,106,99
+"['2010', '02', '02']",Orlando,Milwaukee,99,82
+"['2010', '02', '03']",Atlanta,LA Clippers,103,97
+"['2010', '02', '03']",Boston,Miami,107,102
+"['2010', '02', '03']",Dallas,Golden State,110,101
+"['2010', '02', '03']",Phoenix,Denver,109,97
+"['2010', '02', '03']",LA Lakers,Charlotte,99,97
+"['2010', '02', '03']",Oklahoma City,New Orleans,103,99
+"['2010', '02', '03']",New York,Washington,107,85
+"['2010', '02', '03']",Philadelphia,Chicago,106,103
+"['2010', '02', '03']",San Antonio,Sacramento,115,113
+"['2010', '02', '03']",Toronto,New Jersey,108,99
+"['2010', '02', '03']",Utah,Portland,118,105
+"['2010', '02', '04']",Cleveland,Miami,102,86
+"['2010', '02', '04']",Portland,San Antonio,96,93
+"['2010', '02', '05']",Atlanta,Chicago,91,81
+"['2010', '02', '05']",Boston,New Jersey,96,87
+"['2010', '02', '05']",Minnesota,Dallas,117,108
+"['2010', '02', '05']",Indiana,Detroit,107,83
+"['2010', '02', '05']",Denver,LA Lakers,126,113
+"['2010', '02', '05']",Houston,Memphis,101,83
+"['2010', '02', '05']",Philadelphia,New Orleans,101,94
+"['2010', '02', '05']",Milwaukee,New York,114,107
+"['2010', '02', '05']",Washington,Orlando,92,91
+"['2010', '02', '05']",Phoenix,Sacramento,114,102
+"['2010', '02', '06']",New Orleans,Charlotte,104,99
+"['2010', '02', '06']",Chicago,Miami,95,91
+"['2010', '02', '06']",Cleveland,New York,113,106
+"['2010', '02', '06']",Detroit,New Jersey,99,92
+"['2010', '02', '06']",Oklahoma City,Golden State,104,95
+"['2010', '02', '06']",Philadelphia,Houston,102,95
+"['2010', '02', '06']",San Antonio,LA Clippers,98,81
+"['2010', '02', '06']",Milwaukee,Indiana,93,81
+"['2010', '02', '06']",Minnesota,Memphis,109,102
+"['2010', '02', '06']",LA Lakers,Portland,99,82
+"['2010', '02', '06']",Utah,Denver,116,106
+"['2010', '02', '07']",Orlando,Boston,96,89
+"['2010', '02', '07']",Toronto,Sacramento,115,104
+"['2010', '02', '08']",Dallas,Golden State,127,117
+"['2010', '02', '08']",LA Lakers,San Antonio,101,89
+"['2010', '02', '08']",Orlando,New Orleans,123,117
+"['2010', '02', '09']",Charlotte,Washington,94,92
+"['2010', '02', '09']",Cleveland,New Jersey,104,97
+"['2010', '02', '09']",Denver,Dallas,127,91
+"['2010', '02', '09']",Chicago,Indiana,109,101
+"['2010', '02', '09']",Utah,LA Clippers,109,99
+"['2010', '02', '09']",Atlanta,Memphis,108,94
+"['2010', '02', '09']",Miami,Houston,99,66
+"['2010', '02', '09']",Detroit,Milwaukee,93,81
+"['2010', '02', '09']",Sacramento,New York,118,114
+"['2010', '02', '09']",Philadelphia,Minnesota,119,97
+"['2010', '02', '09']",Oklahoma City,Portland,89,77
+"['2010', '02', '10']",Miami,Atlanta,94,76
+"['2010', '02', '10']",Orlando,Chicago,107,87
+"['2010', '02', '10']",Sacramento,Detroit,103,97
+"['2010', '02', '10']",Golden State,LA Clippers,132,102
+"['2010', '02', '10']",Charlotte,Minnesota,93,92
+"['2010', '02', '10']",Milwaukee,New Jersey,97,77
+"['2010', '02', '10']",New Orleans,Boston,93,85
+"['2010', '02', '10']",Portland,Phoenix,108,101
+"['2010', '02', '10']",Toronto,Philadelphia,104,93
+"['2010', '02', '10']",LA Lakers,Utah,96,81
+"['2010', '02', '11']",Cleveland,Orlando,115,106
+"['2010', '02', '11']",San Antonio,Denver,111,92
+"['2010', '02', '16']",New Jersey,Charlotte,103,94
+"['2010', '02', '16']",Chicago,New York,118,85
+"['2010', '02', '16']",Detroit,Minnesota,108,85
+"['2010', '02', '16']",Utah,Houston,104,95
+"['2010', '02', '16']",LA Lakers,Golden State,104,94
+"['2010', '02', '16']",Phoenix,Memphis,109,95
+"['2010', '02', '16']",Oklahoma City,Dallas,99,86
+"['2010', '02', '16']",Miami,Philadelphia,105,78
+"['2010', '02', '16']",Portland,LA Clippers,109,87
+"['2010', '02', '16']",Boston,Sacramento,95,92
+"['2010', '02', '17']",Dallas,Phoenix,107,97
+"['2010', '02', '17']",Golden State,Sacramento,130,98
+"['2010', '02', '17']",San Antonio,Indiana,90,87
+"['2010', '02', '17']",Atlanta,LA Clippers,110,92
+"['2010', '02', '17']",Houston,Milwaukee,127,99
+"['2010', '02', '17']",Miami,New Jersey,87,84
+"['2010', '02', '17']",Utah,New Orleans,98,90
+"['2010', '02', '17']",Chicago,New York,115,109
+"['2010', '02', '17']",Orlando,Detroit,116,91
+"['2010', '02', '17']",Memphis,Toronto,109,102
+"['2010', '02', '17']",Washington,Minnesota,108,99
+"['2010', '02', '18']",Denver,Cleveland,118,116
+"['2010', '02', '18']",Boston,LA Lakers,87,86
+"['2010', '02', '19']",Charlotte,Cleveland,110,93
+"['2010', '02', '19']",Milwaukee,Detroit,91,85
+"['2010', '02', '19']",Utah,Golden State,100,89
+"['2010', '02', '19']",Miami,Memphis,100,87
+"['2010', '02', '19']",Chicago,Minnesota,100,94
+"['2010', '02', '19']",Toronto,New Jersey,106,89
+"['2010', '02', '19']",New Orleans,Indiana,107,101
+"['2010', '02', '19']",Dallas,Orlando,95,85
+"['2010', '02', '19']",Philadelphia,San Antonio,106,94
+"['2010', '02', '19']",Phoenix,Atlanta,88,80
+"['2010', '02', '19']",Boston,Portland,96,76
+"['2010', '02', '19']",Washington,Denver,107,97
+"['2010', '02', '20']",Chicago,Philadelphia,122,90
+"['2010', '02', '20']",Dallas,Miami,97,91
+"['2010', '02', '20']",Indiana,Houston,125,115
+"['2010', '02', '20']",LA Clippers,Sacramento,99,89
+"['2010', '02', '20']",Milwaukee,Charlotte,93,88
+"['2010', '02', '20']",Oklahoma City,New York,121,118
+"['2010', '02', '20']",Toronto,Washington,109,104
+"['2010', '02', '21']",Denver,Boston,114,105
+"['2010', '02', '21']",Detroit,San Antonio,109,101
+"['2010', '02', '21']",Golden State,Atlanta,108,104
+"['2010', '02', '21']",Oklahoma City,Minnesota,109,107
+"['2010', '02', '21']",Memphis,New Jersey,104,94
+"['2010', '02', '21']",New Orleans,Houston,102,94
+"['2010', '02', '21']",Orlando,Cleveland,101,95
+"['2010', '02', '21']",Phoenix,Sacramento,104,88
+"['2010', '02', '21']",Utah,Portland,93,89
+"['2010', '02', '22']",Dallas,Indiana,91,82
+"['2010', '02', '22']",LA Clippers,Charlotte,98,94
+"['2010', '02', '22']",Milwaukee,New York,83,67
+"['2010', '02', '22']",Atlanta,Utah,105,100
+"['2010', '02', '22']",Washington,Chicago,101,95
+"['2010', '02', '23']",Boston,New York,110,106
+"['2010', '02', '23']",Cleveland,New Orleans,105,95
+"['2010', '02', '23']",Philadelphia,Golden State,110,102
+"['2010', '02', '23']",LA Lakers,Memphis,99,98
+"['2010', '02', '23']",Minnesota,Miami,91,88
+"['2010', '02', '23']",Portland,New Jersey,102,93
+"['2010', '02', '23']",Phoenix,Oklahoma City,104,102
+"['2010', '02', '23']",Detroit,Sacramento,101,89
+"['2010', '02', '24']",Atlanta,Minnesota,98,92
+"['2010', '02', '24']",Chicago,Indiana,120,110
+"['2010', '02', '24']",Dallas,LA Lakers,101,96
+"['2010', '02', '24']",Orlando,Houston,110,92
+"['2010', '02', '24']",LA Clippers,Detroit,97,91
+"['2010', '02', '24']",Milwaukee,New Orleans,115,95
+"['2010', '02', '24']",Phoenix,Philadelphia,106,95
+"['2010', '02', '24']",San Antonio,Oklahoma City,95,87
+"['2010', '02', '24']",Portland,Toronto,101,87
+"['2010', '02', '24']",Utah,Charlotte,102,93
+"['2010', '02', '24']",Memphis,Washington,99,94
+"['2010', '02', '25']",Cleveland,Boston,108,88
+"['2010', '02', '25']",Denver,Golden State,127,112
+"['2010', '02', '25']",Milwaukee,Indiana,112,110
+"['2010', '02', '26']",Dallas,Atlanta,111,103
+"['2010', '02', '26']",Chicago,Portland,115,111
+"['2010', '02', '26']",Denver,Detroit,107,102
+"['2010', '02', '26']",Houston,San Antonio,109,104
+"['2010', '02', '26']",LA Lakers,Philadelphia,99,90
+"['2010', '02', '26']",Charlotte,Memphis,93,89
+"['2010', '02', '26']",New Orleans,Orlando,100,93
+"['2010', '02', '26']",Oklahoma City,Minnesota,109,92
+"['2010', '02', '26']",Phoenix,LA Clippers,125,112
+"['2010', '02', '26']",Sacramento,Utah,103,99
+"['2010', '02', '26']",Cleveland,Toronto,126,118
+"['2010', '02', '26']",New York,Washington,118,116
+"['2010', '02', '27']",New Jersey,Boston,104,96
+"['2010', '02', '27']",Golden State,Detroit,95,88
+"['2010', '02', '27']",Indiana,Chicago,100,90
+"['2010', '02', '27']",Milwaukee,Miami,94,71
+"['2010', '02', '27']",Portland,Minnesota,110,91
+"['2010', '02', '27']",Memphis,New York,120,109
+"['2010', '02', '27']",Utah,Houston,133,110
+"['2010', '02', '28']",Atlanta,Milwaukee,106,102
+"['2010', '02', '28']",Dallas,New Orleans,108,100
+"['2010', '02', '28']",LA Lakers,Denver,95,89
+"['2010', '02', '28']",Washington,New Jersey,89,85
+"['2010', '02', '28']",Oklahoma City,Toronto,119,99
+"['2010', '02', '28']",Orlando,Miami,96,80
+"['2010', '02', '28']",Sacramento,LA Clippers,97,92
+"['2010', '02', '28']",San Antonio,Phoenix,113,110
+"['2010', '03', '01']",Dallas,Charlotte,89,84
+"['2010', '03', '01']",Atlanta,Chicago,116,92
+"['2010', '03', '01']",Cleveland,New York,124,93
+"['2010', '03', '01']",Houston,Toronto,116,92
+"['2010', '03', '01']",LA Clippers,Utah,108,104
+"['2010', '03', '01']",Portland,Memphis,103,93
+"['2010', '03', '01']",San Antonio,New Orleans,106,92
+"['2010', '03', '01']",Orlando,Philadelphia,126,105
+"['2010', '03', '01']",Phoenix,Denver,101,85
+"['2010', '03', '02']",Boston,Detroit,105,100
+"['2010', '03', '02']",LA Lakers,Indiana,122,99
+"['2010', '03', '02']",Miami,Golden State,110,106
+"['2010', '03', '02']",Oklahoma City,Sacramento,113,107
+"['2010', '03', '03']",Atlanta,Philadelphia,112,93
+"['2010', '03', '03']",Boston,Charlotte,104,80
+"['2010', '03', '03']",Dallas,Minnesota,112,109
+"['2010', '03', '03']",Denver,Oklahoma City,119,90
+"['2010', '03', '03']",Sacramento,Houston,84,81
+"['2010', '03', '03']",Phoenix,LA Clippers,127,101
+"['2010', '03', '03']",Milwaukee,Washington,100,87
+"['2010', '03', '03']",Cleveland,New Jersey,111,92
+"['2010', '03', '03']",Memphis,New Orleans,104,100
+"['2010', '03', '03']",New York,Detroit,128,104
+"['2010', '03', '03']",Orlando,Golden State,117,90
+"['2010', '03', '03']",Portland,Indiana,102,79
+"['2010', '03', '04']",Memphis,Chicago,105,96
+"['2010', '03', '04']",Miami,LA Lakers,114,111
+"['2010', '03', '04']",Utah,Phoenix,116,108
+"['2010', '03', '05']",Atlanta,Golden State,127,122
+"['2010', '03', '05']",Charlotte,LA Lakers,98,83
+"['2010', '03', '05']",Cleveland,Detroit,99,92
+"['2010', '03', '05']",Dallas,Sacramento,108,100
+"['2010', '03', '05']",Denver,Indiana,122,114
+"['2010', '03', '05']",Oklahoma City,LA Clippers,104,87
+"['2010', '03', '05']",Orlando,New Jersey,97,87
+"['2010', '03', '05']",Boston,Philadelphia,96,86
+"['2010', '03', '05']",San Antonio,New Orleans,102,91
+"['2010', '03', '05']",Toronto,New York,102,96
+"['2010', '03', '05']",Milwaukee,Washington,102,74
+"['2010', '03', '06']",Charlotte,Golden State,101,90
+"['2010', '03', '06']",Dallas,Chicago,122,116
+"['2010', '03', '06']",San Antonio,Memphis,102,92
+"['2010', '03', '06']",Miami,Atlanta,100,94
+"['2010', '03', '06']",Milwaukee,Cleveland,92,85
+"['2010', '03', '06']",Houston,Minnesota,112,98
+"['2010', '03', '06']",New Jersey,New York,113,93
+"['2010', '03', '06']",Phoenix,Indiana,113,105
+"['2010', '03', '06']",Utah,LA Clippers,107,85
+"['2010', '03', '07']",Boston,Washington,86,83
+"['2010', '03', '07']",Denver,Portland,118,106
+"['2010', '03', '07']",Detroit,Houston,110,107
+"['2010', '03', '07']",Orlando,LA Lakers,96,94
+"['2010', '03', '07']",Oklahoma City,Sacramento,108,102
+"['2010', '03', '07']",Philadelphia,Toronto,114,101
+"['2010', '03', '08']",Cleveland,San Antonio,97,95
+"['2010', '03', '08']",Memphis,New Jersey,107,101
+"['2010', '03', '08']",Dallas,Minnesota,125,112
+"['2010', '03', '08']",New Orleans,Golden State,135,131
+"['2010', '03', '08']",New York,Atlanta,99,98
+"['2010', '03', '09']",Charlotte,Miami,83,78
+"['2010', '03', '09']",Utah,Chicago,132,108
+"['2010', '03', '09']",Indiana,Philadelphia,107,96
+"['2010', '03', '09']",LA Lakers,Toronto,109,107
+"['2010', '03', '09']",Milwaukee,Boston,86,84
+"['2010', '03', '09']",Orlando,LA Clippers,113,87
+"['2010', '03', '09']",Portland,Sacramento,88,81
+"['2010', '03', '09']",Houston,Washington,96,88
+"['2010', '03', '10']",Memphis,Boston,111,91
+"['2010', '03', '10']",Dallas,New Jersey,96,87
+"['2010', '03', '10']",Utah,Detroit,115,104
+"['2010', '03', '10']",Miami,LA Clippers,108,97
+"['2010', '03', '10']",Denver,Minnesota,110,102
+"['2010', '03', '10']",Oklahoma City,New Orleans,98,83
+"['2010', '03', '10']",Charlotte,Philadelphia,102,87
+"['2010', '03', '10']",Sacramento,Toronto,113,90
+"['2010', '03', '10']",San Antonio,New York,97,87
+"['2010', '03', '11']",Portland,Golden State,110,105
+"['2010', '03', '11']",Orlando,Chicago,111,82
+"['2010', '03', '11']",Atlanta,Washington,105,99
+"['2010', '03', '12']",Boston,Indiana,122,103
+"['2010', '03', '12']",Charlotte,LA Clippers,106,98
+"['2010', '03', '12']",Detroit,Washington,101,87
+"['2010', '03', '12']",Memphis,New York,119,112
+"['2010', '03', '12']",Miami,Chicago,108,95
+"['2010', '03', '12']",Milwaukee,Utah,95,87
+"['2010', '03', '12']",San Antonio,Minnesota,103,85
+"['2010', '03', '12']",Denver,New Orleans,102,95
+"['2010', '03', '12']",Oklahoma City,New Jersey,104,102
+"['2010', '03', '12']",Cleveland,Philadelphia,100,95
+"['2010', '03', '12']",LA Lakers,Phoenix,102,96
+"['2010', '03', '12']",Portland,Sacramento,110,94
+"['2010', '03', '13']",Atlanta,Detroit,112,99
+"['2010', '03', '13']",New York,Dallas,128,94
+"['2010', '03', '13']",Golden State,Toronto,124,112
+"['2010', '03', '13']",Houston,New Jersey,116,108
+"['2010', '03', '13']",Denver,Memphis,125,108
+"['2010', '03', '13']",San Antonio,LA Clippers,118,88
+"['2010', '03', '13']",Orlando,Washington,109,95
+"['2010', '03', '14']",Cleveland,Boston,104,93
+"['2010', '03', '14']",Miami,Philadelphia,104,91
+"['2010', '03', '14']",Milwaukee,Indiana,98,94
+"['2010', '03', '14']",Oklahoma City,Utah,119,111
+"['2010', '03', '14']",Charlotte,Orlando,96,89
+"['2010', '03', '14']",Phoenix,New Orleans,120,106
+"['2010', '03', '14']",Portland,Toronto,109,98
+"['2010', '03', '14']",Sacramento,Minnesota,114,100
+"['2010', '03', '15']",Boston,Detroit,119,93
+"['2010', '03', '15']",LA Lakers,Golden State,124,121
+"['2010', '03', '15']",Houston,Denver,125,123
+"['2010', '03', '15']",New Orleans,LA Clippers,108,100
+"['2010', '03', '15']",New York,Philadelphia,94,84
+"['2010', '03', '15']",Utah,Washington,112,89
+"['2010', '03', '16']",Denver,Washington,97,87
+"['2010', '03', '16']",Cleveland,Detroit,113,101
+"['2010', '03', '16']",Indiana,Charlotte,99,94
+"['2010', '03', '16']",Memphis,Chicago,104,97
+"['2010', '03', '16']",San Antonio,Miami,88,76
+"['2010', '03', '16']",Atlanta,New Jersey,108,84
+"['2010', '03', '16']",Phoenix,Minnesota,152,114
+"['2010', '03', '16']",LA Lakers,Sacramento,106,99
+"['2010', '03', '17']",Boston,New York,109,97
+"['2010', '03', '17']",Charlotte,Oklahoma City,100,92
+"['2010', '03', '17']",Cleveland,Indiana,99,94
+"['2010', '03', '17']",Dallas,Chicago,113,106
+"['2010', '03', '17']",Golden State,New Orleans,131,121
+"['2010', '03', '17']",Houston,Memphis,107,94
+"['2010', '03', '17']",LA Clippers,Milwaukee,101,93
+"['2010', '03', '17']",Orlando,San Antonio,110,84
+"['2010', '03', '17']",Philadelphia,New Jersey,108,97
+"['2010', '03', '17']",Toronto,Atlanta,106,105
+"['2010', '03', '17']",Utah,Minnesota,122,100
+"['2010', '03', '18']",Denver,New Orleans,93,80
+"['2010', '03', '18']",Orlando,Miami,108,102
+"['2010', '03', '19']",Atlanta,Charlotte,93,92
+"['2010', '03', '19']",Cleveland,Chicago,92,85
+"['2010', '03', '19']",Boston,Houston,94,87
+"['2010', '03', '19']",Indiana,Detroit,106,102
+"['2010', '03', '19']",LA Lakers,Minnesota,104,96
+"['2010', '03', '19']",New York,Philadelphia,92,88
+"['2010', '03', '19']",Phoenix,Utah,110,100
+"['2010', '03', '19']",Portland,Washington,76,74
+"['2010', '03', '19']",Milwaukee,Sacramento,114,108
+"['2010', '03', '19']",San Antonio,Golden State,147,116
+"['2010', '03', '19']",Oklahoma City,Toronto,115,89
+"['2010', '03', '20']",Boston,Dallas,102,93
+"['2010', '03', '20']",Milwaukee,Denver,102,97
+"['2010', '03', '20']",Memphis,Golden State,123,107
+"['2010', '03', '20']",Miami,Charlotte,77,71
+"['2010', '03', '20']",Toronto,New Jersey,100,90
+"['2010', '03', '20']",Chicago,Philadelphia,98,84
+"['2010', '03', '20']",Utah,New Orleans,106,86
+"['2010', '03', '21']",Atlanta,San Antonio,119,114
+"['2010', '03', '21']",Cleveland,Detroit,104,79
+"['2010', '03', '21']",Indiana,Oklahoma City,121,101
+"['2010', '03', '21']",Sacramento,LA Clippers,102,89
+"['2010', '03', '21']",LA Lakers,Washington,99,92
+"['2010', '03', '21']",Houston,New York,116,112
+"['2010', '03', '21']",Phoenix,Portland,93,87
+"['2010', '03', '22']",Chicago,Houston,98,88
+"['2010', '03', '22']",Phoenix,Golden State,133,131
+"['2010', '03', '22']",Milwaukee,Atlanta,98,95
+"['2010', '03', '22']",Toronto,Minnesota,106,100
+"['2010', '03', '22']",Miami,New Jersey,99,89
+"['2010', '03', '22']",New Orleans,Dallas,115,99
+"['2010', '03', '22']",San Antonio,Oklahoma City,99,96
+"['2010', '03', '22']",Orlando,Philadelphia,109,93
+"['2010', '03', '22']",Memphis,Sacramento,102,85
+"['2010', '03', '22']",Utah,Boston,110,97
+"['2010', '03', '23']",Dallas,LA Clippers,106,96
+"['2010', '03', '23']",Indiana,Detroit,98,83
+"['2010', '03', '23']",New York,Denver,109,104
+"['2010', '03', '23']",Charlotte,Washington,95,86
+"['2010', '03', '24']",Atlanta,Orlando,86,84
+"['2010', '03', '24']",Boston,Denver,113,99
+"['2010', '03', '24']",Charlotte,Minnesota,108,95
+"['2010', '03', '24']",Golden State,Memphis,128,110
+"['2010', '03', '24']",Indiana,Washington,99,82
+"['2010', '03', '24']",Philadelphia,Milwaukee,101,86
+"['2010', '03', '24']",New Jersey,Sacramento,93,79
+"['2010', '03', '24']",Cleveland,New Orleans,105,92
+"['2010', '03', '24']",Oklahoma City,Houston,122,104
+"['2010', '03', '24']",LA Lakers,San Antonio,92,83
+"['2010', '03', '24']",Utah,Toronto,113,87
+"['2010', '03', '25']",Miami,Chicago,103,74
+"['2010', '03', '25']",LA Clippers,Houston,99,93
+"['2010', '03', '25']",Portland,Dallas,101,89
+"['2010', '03', '26']",Boston,Sacramento,94,86
+"['2010', '03', '26']",Charlotte,Washington,107,96
+"['2010', '03', '26']",Indiana,Utah,122,106
+"['2010', '03', '26']",Miami,Milwaukee,87,74
+"['2010', '03', '26']",New Jersey,Detroit,118,110
+"['2010', '03', '26']",Oklahoma City,LA Lakers,91,75
+"['2010', '03', '26']",Orlando,Minnesota,106,97
+"['2010', '03', '26']",Philadelphia,Atlanta,105,98
+"['2010', '03', '26']",Phoenix,New York,132,96
+"['2010', '03', '26']",San Antonio,Cleveland,102,97
+"['2010', '03', '26']",Denver,Toronto,97,96
+"['2010', '03', '27']",Chicago,New Jersey,106,83
+"['2010', '03', '27']",Dallas,Golden State,111,90
+"['2010', '03', '27']",LA Lakers,Houston,109,101
+"['2010', '03', '27']",Portland,New Orleans,112,101
+"['2010', '03', '27']",Utah,Washington,103,87
+"['2010', '03', '28']",Atlanta,Indiana,94,84
+"['2010', '03', '28']",San Antonio,Boston,94,73
+"['2010', '03', '28']",Cleveland,Sacramento,97,90
+"['2010', '03', '28']",Chicago,Detroit,110,103
+"['2010', '03', '28']",Golden State,LA Clippers,121,103
+"['2010', '03', '28']",Miami,Toronto,97,94
+"['2010', '03', '28']",Milwaukee,Memphis,108,103
+"['2010', '03', '28']",Phoenix,Minnesota,111,105
+"['2010', '03', '28']",Portland,Oklahoma City,92,87
+"['2010', '03', '28']",Orlando,Denver,103,97
+"['2010', '03', '29']",Toronto,Charlotte,103,101
+"['2010', '03', '29']",Dallas,Denver,109,93
+"['2010', '03', '29']",New Jersey,San Antonio,90,84
+"['2010', '03', '29']",New Orleans,LA Lakers,108,100
+"['2010', '03', '29']",Utah,New York,103,98
+"['2010', '03', '30']",Phoenix,Chicago,111,105
+"['2010', '03', '30']",Houston,Washington,98,94
+"['2010', '03', '30']",Indiana,Sacramento,102,95
+"['2010', '03', '30']",Milwaukee,LA Clippers,107,89
+"['2010', '03', '30']",Oklahoma City,Philadelphia,111,93
+"['2010', '03', '31']",Atlanta,LA Lakers,109,92
+"['2010', '03', '31']",Oklahoma City,Boston,109,104
+"['2010', '03', '31']",Charlotte,Philadelphia,103,84
+"['2010', '03', '31']",Cleveland,Milwaukee,101,98
+"['2010', '03', '31']",Miami,Detroit,98,81
+"['2010', '03', '31']",Dallas,Memphis,106,102
+"['2010', '03', '31']",Minnesota,Sacramento,108,99
+"['2010', '03', '31']",Phoenix,New Jersey,116,105
+"['2010', '03', '31']",Washington,New Orleans,96,91
+"['2010', '03', '31']",Portland,New York,118,90
+"['2010', '03', '31']",San Antonio,Houston,119,102
+"['2010', '03', '31']",Toronto,LA Clippers,114,92
+"['2010', '03', '31']",Utah,Golden State,128,104
+"['2010', '04', '01']",Orlando,Dallas,97,82
+"['2010', '04', '01']",Denver,Portland,109,92
+"['2010', '04', '02']",Houston,Boston,119,114
+"['2010', '04', '02']",Charlotte,Milwaukee,87,86
+"['2010', '04', '02']",Cleveland,Atlanta,93,88
+"['2010', '04', '02']",Phoenix,Detroit,109,94
+"['2010', '04', '02']",Golden State,New York,128,117
+"['2010', '04', '02']",Miami,Indiana,105,96
+"['2010', '04', '02']",LA Lakers,Utah,106,92
+"['2010', '04', '02']",Memphis,New Orleans,107,96
+"['2010', '04', '02']",San Antonio,Orlando,112,100
+"['2010', '04', '02']",Chicago,Washington,95,87
+"['2010', '04', '03']",Atlanta,Detroit,91,85
+"['2010', '04', '03']",Chicago,Charlotte,96,88
+"['2010', '04', '03']",Oklahoma City,Dallas,121,116
+"['2010', '04', '03']",Denver,LA Clippers,98,90
+"['2010', '04', '03']",Milwaukee,Phoenix,107,98
+"['2010', '04', '03']",Miami,Minnesota,97,84
+"['2010', '04', '03']",New Jersey,New Orleans,115,87
+"['2010', '04', '03']",Toronto,Philadelphia,128,123
+"['2010', '04', '03']",Portland,Sacramento,98,87
+"['2010', '04', '04']",Boston,Cleveland,117,113
+"['2010', '04', '04']",Indiana,Houston,133,102
+"['2010', '04', '04']",New York,LA Clippers,113,107
+"['2010', '04', '04']",San Antonio,LA Lakers,100,81
+"['2010', '04', '04']",Oklahoma City,Minnesota,116,108
+"['2010', '04', '04']",Orlando,Memphis,107,92
+"['2010', '04', '04']",Golden State,Toronto,113,112
+"['2010', '04', '04']",Washington,New Jersey,109,99
+"['2010', '04', '06']",Charlotte,Atlanta,109,100
+"['2010', '04', '06']",Milwaukee,Chicago,79,74
+"['2010', '04', '06']",Cleveland,Toronto,113,101
+"['2010', '04', '06']",Houston,Memphis,113,103
+"['2010', '04', '06']",New York,Boston,104,101
+"['2010', '04', '06']",Detroit,Philadelphia,124,103
+"['2010', '04', '06']",San Antonio,Sacramento,95,86
+"['2010', '04', '06']",Utah,Oklahoma City,140,139
+"['2010', '04', '06']",Washington,Golden State,112,94
+"['2010', '04', '07']",Dallas,Memphis,110,84
+"['2010', '04', '07']",Detroit,Atlanta,90,88
+"['2010', '04', '07']",Houston,Utah,113,96
+"['2010', '04', '07']",Indiana,New York,113,105
+"['2010', '04', '07']",Portland,LA Clippers,93,85
+"['2010', '04', '07']",Miami,Philadelphia,99,95
+"['2010', '04', '07']",Milwaukee,New Jersey,108,89
+"['2010', '04', '07']",Golden State,Minnesota,116,107
+"['2010', '04', '07']",Charlotte,New Orleans,104,103
+"['2010', '04', '07']",Denver,Oklahoma City,98,94
+"['2010', '04', '07']",Orlando,Washington,121,94
+"['2010', '04', '07']",Phoenix,San Antonio,112,101
+"['2010', '04', '07']",Boston,Toronto,115,104
+"['2010', '04', '08']",Chicago,Cleveland,109,108
+"['2010', '04', '08']",Denver,LA Lakers,98,96
+"['2010', '04', '08']",Sacramento,LA Clippers,116,94
+"['2010', '04', '09']",Atlanta,Toronto,107,101
+"['2010', '04', '09']",Washington,Boston,106,96
+"['2010', '04', '09']",Indiana,Cleveland,116,113
+"['2010', '04', '09']",Houston,Charlotte,97,90
+"['2010', '04', '09']",Detroit,Miami,106,99
+"['2010', '04', '09']",LA Lakers,Minnesota,97,88
+"['2010', '04', '09']",New Jersey,Chicago,127,116
+"['2010', '04', '09']",Utah,New Orleans,114,103
+"['2010', '04', '09']",Oklahoma City,Phoenix,96,91
+"['2010', '04', '09']",Orlando,New York,118,103
+"['2010', '04', '09']",Milwaukee,Philadelphia,95,90
+"['2010', '04', '09']",Dallas,Portland,83,77
+"['2010', '04', '09']",Memphis,San Antonio,107,99
+"['2010', '04', '10']",Charlotte,Detroit,99,95
+"['2010', '04', '10']",San Antonio,Denver,104,85
+"['2010', '04', '10']",Indiana,New Jersey,115,102
+"['2010', '04', '10']",LA Clippers,Golden State,107,104
+"['2010', '04', '10']",Philadelphia,Memphis,120,101
+"['2010', '04', '10']",Boston,Milwaukee,105,90
+"['2010', '04', '10']",Dallas,Sacramento,126,108
+"['2010', '04', '10']",Atlanta,Washington,105,95
+"['2010', '04', '11']",Orlando,Cleveland,98,92
+"['2010', '04', '11']",Golden State,Oklahoma City,120,117
+"['2010', '04', '11']",Portland,LA Lakers,91,88
+"['2010', '04', '11']",New Orleans,Minnesota,114,86
+"['2010', '04', '11']",Miami,New York,111,98
+"['2010', '04', '11']",Phoenix,Houston,116,106
+"['2010', '04', '11']",Chicago,Toronto,104,88
+"['2010', '04', '12']",Denver,Memphis,123,101
+"['2010', '04', '12']",Toronto,Detroit,111,97
+"['2010', '04', '12']",Orlando,Indiana,118,98
+"['2010', '04', '12']",Dallas,LA Clippers,117,94
+"['2010', '04', '12']",Atlanta,Milwaukee,104,96
+"['2010', '04', '12']",Charlotte,New Jersey,105,95
+"['2010', '04', '12']",New York,Washington,114,103
+"['2010', '04', '12']",Miami,Philadelphia,107,105
+"['2010', '04', '12']",Portland,Oklahoma City,103,95
+"['2010', '04', '12']",Houston,Sacramento,117,107
+"['2010', '04', '12']",San Antonio,Minnesota,133,111
+"['2010', '04', '13']",Chicago,Boston,101,93
+"['2010', '04', '13']",Utah,Golden State,103,94
+"['2010', '04', '13']",LA Lakers,Sacramento,106,100
+"['2010', '04', '13']",Phoenix,Denver,123,101
+"['2010', '04', '14']",Atlanta,Cleveland,99,83
+"['2010', '04', '14']",Milwaukee,Boston,106,95
+"['2010', '04', '14']",Chicago,Charlotte,98,89
+"['2010', '04', '14']",Dallas,San Antonio,96,89
+"['2010', '04', '14']",New Orleans,Houston,123,115
+"['2010', '04', '14']",LA Clippers,LA Lakers,107,91
+"['2010', '04', '14']",Miami,New Jersey,94,86
+"['2010', '04', '14']",Detroit,Minnesota,103,98
+"['2010', '04', '14']",Oklahoma City,Memphis,114,105
+"['2010', '04', '14']",Orlando,Philadelphia,125,111
+"['2010', '04', '14']",Golden State,Portland,122,116
+"['2010', '04', '14']",Toronto,New York,131,113
+"['2010', '04', '14']",Phoenix,Utah,100,86
+"['2010', '04', '14']",Washington,Indiana,98,97
+"['2010', '04', '17']",Atlanta,Milwaukee,102,92
+"['2010', '04', '17']",Boston,Miami,85,76
+"['2010', '04', '17']",Cleveland,Chicago,96,83
+"['2010', '04', '17']",Denver,Utah,126,113
+"['2010', '04', '18']",Dallas,San Antonio,100,94
+"['2010', '04', '18']",LA Lakers,Oklahoma City,87,79
+"['2010', '04', '18']",Orlando,Charlotte,98,89
+"['2010', '04', '18']",Portland,Phoenix,105,100
+"['2010', '04', '19']",Cleveland,Chicago,112,102
+"['2010', '04', '19']",Utah,Denver,114,111
+"['2010', '04', '20']",Atlanta,Milwaukee,96,86
+"['2010', '04', '20']",Boston,Miami,106,77
+"['2010', '04', '20']",LA Lakers,Oklahoma City,95,92
+"['2010', '04', '20']",Phoenix,Portland,119,90
+"['2010', '04', '21']",San Antonio,Dallas,102,88
+"['2010', '04', '21']",Orlando,Charlotte,92,77
+"['2010', '04', '22']",Chicago,Cleveland,108,106
+"['2010', '04', '22']",Oklahoma City,LA Lakers,101,96
+"['2010', '04', '22']",Phoenix,Portland,108,89
+"['2010', '04', '23']",Boston,Miami,100,98
+"['2010', '04', '23']",San Antonio,Dallas,94,90
+"['2010', '04', '23']",Utah,Denver,105,93
+"['2010', '04', '24']",Orlando,Charlotte,90,86
+"['2010', '04', '24']",Milwaukee,Atlanta,107,89
+"['2010', '04', '24']",Oklahoma City,LA Lakers,110,89
+"['2010', '04', '24']",Portland,Phoenix,96,87
+"['2010', '04', '25']",Cleveland,Chicago,121,98
+"['2010', '04', '25']",Miami,Boston,101,92
+"['2010', '04', '25']",San Antonio,Dallas,92,89
+"['2010', '04', '25']",Utah,Denver,117,106
+"['2010', '04', '26']",Orlando,Charlotte,99,90
+"['2010', '04', '26']",Milwaukee,Atlanta,111,104
+"['2010', '04', '26']",Phoenix,Portland,107,88
+"['2010', '04', '27']",Boston,Miami,96,86
+"['2010', '04', '27']",Cleveland,Chicago,96,94
+"['2010', '04', '27']",Dallas,San Antonio,103,81
+"['2010', '04', '27']",LA Lakers,Oklahoma City,111,87
+"['2010', '04', '28']",Milwaukee,Atlanta,91,87
+"['2010', '04', '28']",Denver,Utah,116,102
+"['2010', '04', '29']",Phoenix,Portland,99,90
+"['2010', '04', '29']",San Antonio,Dallas,97,87
+"['2010', '04', '30']",Atlanta,Milwaukee,83,69
+"['2010', '04', '30']",LA Lakers,Oklahoma City,95,94
+"['2010', '04', '30']",Utah,Denver,112,104
+"['2010', '05', '01']",Cleveland,Boston,101,93
+"['2010', '05', '02']",Atlanta,Milwaukee,95,74
+"['2010', '05', '02']",LA Lakers,Utah,104,99
+"['2010', '05', '03']",Boston,Cleveland,104,86
+"['2010', '05', '03']",Phoenix,San Antonio,111,102
+"['2010', '05', '04']",LA Lakers,Utah,111,103
+"['2010', '05', '04']",Orlando,Atlanta,114,71
+"['2010', '05', '05']",Phoenix,San Antonio,110,102
+"['2010', '05', '06']",Orlando,Atlanta,112,98
+"['2010', '05', '07']",Cleveland,Boston,124,95
+"['2010', '05', '07']",Phoenix,San Antonio,110,96
+"['2010', '05', '08']",Orlando,Atlanta,105,75
+"['2010', '05', '08']",LA Lakers,Utah,111,110
+"['2010', '05', '09']",Boston,Cleveland,97,87
+"['2010', '05', '09']",Phoenix,San Antonio,107,101
+"['2010', '05', '10']",Orlando,Atlanta,98,84
+"['2010', '05', '10']",LA Lakers,Utah,111,96
+"['2010', '05', '11']",Boston,Cleveland,120,88
+"['2010', '05', '13']",Boston,Cleveland,94,85
+"['2010', '05', '16']",Boston,Orlando,92,88
+"['2010', '05', '17']",LA Lakers,Phoenix,128,107
+"['2010', '05', '18']",Boston,Orlando,95,92
+"['2010', '05', '19']",LA Lakers,Phoenix,124,112
+"['2010', '05', '22']",Boston,Orlando,94,71
+"['2010', '05', '23']",Phoenix,LA Lakers,118,109
+"['2010', '05', '24']",Orlando,Boston,96,92
+"['2010', '05', '25']",Phoenix,LA Lakers,115,106
+"['2010', '05', '26']",Orlando,Boston,113,92
+"['2010', '05', '27']",LA Lakers,Phoenix,103,101
+"['2010', '05', '28']",Boston,Orlando,96,84
+"['2010', '05', '29']",LA Lakers,Phoenix,111,103
+"['2010', '06', '03']",LA Lakers,Boston,102,89
+"['2010', '06', '06']",Boston,LA Lakers,103,94
+"['2010', '06', '08']",LA Lakers,Boston,91,84
+"['2010', '06', '10']",Boston,LA Lakers,96,89
+"['2010', '06', '13']",Boston,LA Lakers,92,86
+"['2010', '06', '15']",LA Lakers,Boston,89,67
+"['2010', '06', '17']",LA Lakers,Boston,83,79
+"['2010', '10', '26']",Boston,Miami,88,80
+"['2010', '10', '26']",LA Lakers,Houston,112,110
+"['2010', '10', '26']",Portland,Phoenix,106,92
+"['2010', '10', '27']",Cleveland,Boston,95,87
+"['2010', '10', '27']",Dallas,Charlotte,101,86
+"['2010', '10', '27']",Denver,Utah,110,88
+"['2010', '10', '27']",Golden State,Houston,132,128
+"['2010', '10', '27']",Portland,LA Clippers,98,88
+"['2010', '10', '27']",Atlanta,Memphis,119,104
+"['2010', '10', '27']",Sacramento,Minnesota,117,116
+"['2010', '10', '27']",New Jersey,Detroit,101,98
+"['2010', '10', '27']",New Orleans,Milwaukee,95,91
+"['2010', '10', '27']",Oklahoma City,Chicago,106,95
+"['2010', '10', '27']",Miami,Philadelphia,97,87
+"['2010', '10', '27']",San Antonio,Indiana,122,109
+"['2010', '10', '27']",New York,Toronto,98,93
+"['2010', '10', '28']",Orlando,Washington,112,83
+"['2010', '10', '28']",Phoenix,Utah,110,94
+"['2010', '10', '29']",Boston,New York,105,101
+"['2010', '10', '29']",Indiana,Charlotte,104,101
+"['2010', '10', '29']",Memphis,Dallas,91,90
+"['2010', '10', '29']",Oklahoma City,Detroit,105,104
+"['2010', '10', '29']",Golden State,LA Clippers,109,91
+"['2010', '10', '29']",Miami,Orlando,96,70
+"['2010', '10', '29']",Minnesota,Milwaukee,96,85
+"['2010', '10', '29']",New Jersey,Sacramento,106,100
+"['2010', '10', '29']",New Orleans,Denver,101,95
+"['2010', '10', '29']",Atlanta,Philadelphia,104,101
+"['2010', '10', '29']",LA Lakers,Phoenix,114,106
+"['2010', '10', '29']",Toronto,Cleveland,101,81
+"['2010', '10', '30']",Atlanta,Washington,99,95
+"['2010', '10', '30']",Chicago,Detroit,101,91
+"['2010', '10', '30']",Sacramento,Cleveland,107,104
+"['2010', '10', '30']",Denver,Houston,107,94
+"['2010', '10', '30']",Indiana,Philadelphia,99,86
+"['2010', '10', '30']",Memphis,Minnesota,109,89
+"['2010', '10', '30']",Milwaukee,Charlotte,98,88
+"['2010', '10', '30']",Portland,New York,100,95
+"['2010', '10', '30']",New Orleans,San Antonio,99,90
+"['2010', '10', '31']",Dallas,LA Clippers,99,83
+"['2010', '10', '31']",LA Lakers,Golden State,107,83
+"['2010', '10', '31']",Miami,New Jersey,101,78
+"['2010', '10', '31']",Utah,Oklahoma City,120,99
+"['2010', '11', '01']",Chicago,Portland,110,98
+"['2010', '11', '01']",San Antonio,LA Clippers,97,88
+"['2010', '11', '01']",Sacramento,Toronto,111,108
+"['2010', '11', '02']",Atlanta,Cleveland,100,88
+"['2010', '11', '02']",Boston,Detroit,109,86
+"['2010', '11', '02']",LA Lakers,Memphis,124,105
+"['2010', '11', '02']",Miami,Minnesota,129,97
+"['2010', '11', '02']",Portland,Milwaukee,90,76
+"['2010', '11', '02']",Washington,Philadelphia,116,115
+"['2010', '11', '03']",Atlanta,Detroit,94,85
+"['2010', '11', '03']",Boston,Milwaukee,105,102
+"['2010', '11', '03']",Dallas,Denver,102,101
+"['2010', '11', '03']",Golden State,Memphis,115,109
+"['2010', '11', '03']",New Orleans,Houston,107,99
+"['2010', '11', '03']",LA Clippers,Oklahoma City,107,92
+"['2010', '11', '03']",Charlotte,New Jersey,85,83
+"['2010', '11', '03']",Orlando,Minnesota,128,86
+"['2010', '11', '03']",Philadelphia,Indiana,101,75
+"['2010', '11', '03']",San Antonio,Phoenix,112,110
+"['2010', '11', '03']",LA Lakers,Sacramento,112,100
+"['2010', '11', '03']",Utah,Toronto,125,108
+"['2010', '11', '04']",New York,Chicago,120,112
+"['2010', '11', '04']",Oklahoma City,Portland,107,106
+"['2010', '11', '05']",Boston,Chicago,110,105
+"['2010', '11', '05']",Denver,LA Clippers,111,104
+"['2010', '11', '05']",Detroit,Charlotte,97,90
+"['2010', '11', '05']",Golden State,Utah,85,78
+"['2010', '11', '05']",Milwaukee,Indiana,94,90
+"['2010', '11', '05']",LA Lakers,Toronto,108,103
+"['2010', '11', '05']",Atlanta,Minnesota,113,103
+"['2010', '11', '05']",New Orleans,Miami,96,93
+"['2010', '11', '05']",New York,Washington,112,91
+"['2010', '11', '05']",Orlando,New Jersey,105,90
+"['2010', '11', '05']",Cleveland,Philadelphia,123,116
+"['2010', '11', '05']",Phoenix,Memphis,123,118
+"['2010', '11', '06']",Orlando,Charlotte,91,88
+"['2010', '11', '06']",Denver,Dallas,103,92
+"['2010', '11', '06']",Miami,New Jersey,101,89
+"['2010', '11', '06']",New Orleans,Milwaukee,87,81
+"['2010', '11', '06']",Portland,Toronto,97,84
+"['2010', '11', '06']",Memphis,Sacramento,100,91
+"['2010', '11', '06']",San Antonio,Houston,124,121
+"['2010', '11', '06']",Utah,LA Clippers,109,107
+"['2010', '11', '06']",Cleveland,Washington,107,102
+"['2010', '11', '07']",Phoenix,Atlanta,118,114
+"['2010', '11', '07']",Detroit,Golden State,102,97
+"['2010', '11', '07']",Houston,Minnesota,120,94
+"['2010', '11', '07']",LA Lakers,Portland,121,96
+"['2010', '11', '07']",Philadelphia,New York,106,96
+"['2010', '11', '07']",Boston,Oklahoma City,92,83
+"['2010', '11', '08']",San Antonio,Charlotte,95,91
+"['2010', '11', '08']",Chicago,Denver,94,92
+"['2010', '11', '08']",Dallas,Boston,89,87
+"['2010', '11', '08']",Memphis,Phoenix,109,99
+"['2010', '11', '08']",Orlando,Atlanta,93,89
+"['2010', '11', '08']",Golden State,Toronto,109,102
+"['2010', '11', '09']",Indiana,Denver,144,113
+"['2010', '11', '09']",LA Lakers,Minnesota,99,94
+"['2010', '11', '09']",Utah,Miami,116,114
+"['2010', '11', '09']",Milwaukee,New York,107,80
+"['2010', '11', '09']",Cleveland,New Jersey,93,91
+"['2010', '11', '09']",New Orleans,LA Clippers,101,82
+"['2010', '11', '09']",Portland,Detroit,100,78
+"['2010', '11', '10']",Milwaukee,Atlanta,108,91
+"['2010', '11', '10']",New Jersey,Cleveland,95,87
+"['2010', '11', '10']",Dallas,Memphis,106,91
+"['2010', '11', '10']",Golden State,New York,122,117
+"['2010', '11', '10']",Oklahoma City,Philadelphia,109,103
+"['2010', '11', '10']",Utah,Orlando,104,94
+"['2010', '11', '10']",Minnesota,Sacramento,98,89
+"['2010', '11', '10']",San Antonio,LA Clippers,107,95
+"['2010', '11', '10']",Charlotte,Toronto,101,96
+"['2010', '11', '10']",Washington,Houston,98,91
+"['2010', '11', '11']",Chicago,Golden State,120,90
+"['2010', '11', '11']",Denver,LA Lakers,118,112
+"['2010', '11', '11']",Boston,Miami,112,107
+"['2010', '11', '12']",Utah,Atlanta,90,86
+"['2010', '11', '12']",Dallas,Philadelphia,99,90
+"['2010', '11', '12']",Houston,Indiana,102,99
+"['2010', '11', '12']",Detroit,LA Clippers,113,107
+"['2010', '11', '12']",Minnesota,New York,112,103
+"['2010', '11', '12']",Oklahoma City,Portland,110,108
+"['2010', '11', '12']",Toronto,Orlando,110,106
+"['2010', '11', '12']",Phoenix,Sacramento,103,89
+"['2010', '11', '12']",Charlotte,Washington,93,85
+"['2010', '11', '13']",Utah,Charlotte,96,95
+"['2010', '11', '13']",Chicago,Washington,103,96
+"['2010', '11', '13']",Indiana,Cleveland,99,85
+"['2010', '11', '13']",Boston,Memphis,116,110
+"['2010', '11', '13']",Miami,Toronto,109,100
+"['2010', '11', '13']",Milwaukee,Golden State,79,72
+"['2010', '11', '13']",Orlando,New Jersey,91,90
+"['2010', '11', '13']",New Orleans,Portland,107,87
+"['2010', '11', '13']",San Antonio,Philadelphia,116,93
+"['2010', '11', '14']",Atlanta,Minnesota,111,105
+"['2010', '11', '14']",Phoenix,LA Lakers,121,116
+"['2010', '11', '14']",Houston,New York,104,96
+"['2010', '11', '14']",San Antonio,Oklahoma City,117,104
+"['2010', '11', '14']",Detroit,Sacramento,100,94
+"['2010', '11', '15']",Charlotte,Minnesota,113,110
+"['2010', '11', '15']",Dallas,New Orleans,98,95
+"['2010', '11', '15']",Golden State,Detroit,101,97
+"['2010', '11', '15']",New Jersey,LA Clippers,110,96
+"['2010', '11', '15']",Orlando,Memphis,89,72
+"['2010', '11', '15']",Phoenix,Denver,100,94
+"['2010', '11', '15']",Oklahoma City,Utah,115,108
+"['2010', '11', '16']",Cleveland,Philadelphia,101,93
+"['2010', '11', '16']",Denver,New York,120,118
+"['2010', '11', '16']",Chicago,Houston,95,92
+"['2010', '11', '16']",Atlanta,Indiana,102,92
+"['2010', '11', '16']",Portland,Memphis,100,99
+"['2010', '11', '16']",LA Lakers,Milwaukee,118,107
+"['2010', '11', '16']",Washington,Toronto,109,94
+"['2010', '11', '17']",Boston,Washington,114,83
+"['2010', '11', '17']",LA Lakers,Detroit,103,90
+"['2010', '11', '17']",Miami,Phoenix,123,96
+"['2010', '11', '17']",Minnesota,LA Clippers,113,111
+"['2010', '11', '17']",New Orleans,Dallas,99,97
+"['2010', '11', '17']",Oklahoma City,Houston,116,99
+"['2010', '11', '17']",Toronto,Philadelphia,94,86
+"['2010', '11', '17']",New York,Sacramento,113,106
+"['2010', '11', '17']",San Antonio,Chicago,103,94
+"['2010', '11', '17']",Utah,New Jersey,98,88
+"['2010', '11', '18']",Indiana,LA Clippers,107,80
+"['2010', '11', '18']",Orlando,Phoenix,105,89
+"['2010', '11', '18']",Portland,Denver,86,83
+"['2010', '11', '19']",Oklahoma City,Boston,89,84
+"['2010', '11', '19']",Chicago,Dallas,88,83
+"['2010', '11', '19']",New York,Golden State,125,119
+"['2010', '11', '19']",Miami,Charlotte,95,87
+"['2010', '11', '19']",LA Lakers,Minnesota,112,95
+"['2010', '11', '19']",New Orleans,Cleveland,108,101
+"['2010', '11', '19']",Philadelphia,Milwaukee,90,79
+"['2010', '11', '19']",Sacramento,New Jersey,86,81
+"['2010', '11', '19']",Toronto,Houston,106,96
+"['2010', '11', '19']",San Antonio,Utah,94,82
+"['2010', '11', '19']",Washington,Memphis,89,86
+"['2010', '11', '20']",Dallas,Atlanta,98,93
+"['2010', '11', '20']",Charlotte,Phoenix,123,105
+"['2010', '11', '20']",Denver,New Jersey,107,103
+"['2010', '11', '20']",Orlando,Indiana,90,86
+"['2010', '11', '20']",New York,LA Clippers,124,115
+"['2010', '11', '20']",Memphis,Miami,97,95
+"['2010', '11', '20']",Oklahoma City,Milwaukee,82,81
+"['2010', '11', '20']",Utah,Portland,103,94
+"['2010', '11', '20']",San Antonio,Cleveland,116,92
+"['2010', '11', '21']",Detroit,Washington,115,110
+"['2010', '11', '21']",LA Lakers,Golden State,117,89
+"['2010', '11', '21']",New Orleans,Sacramento,75,71
+"['2010', '11', '21']",Toronto,Boston,102,101
+"['2010', '11', '22']",Boston,Atlanta,99,76
+"['2010', '11', '22']",Denver,Golden State,106,89
+"['2010', '11', '22']",Phoenix,Houston,123,116
+"['2010', '11', '22']",LA Clippers,New Orleans,99,95
+"['2010', '11', '22']",Indiana,Miami,93,77
+"['2010', '11', '22']",Oklahoma City,Minnesota,117,107
+"['2010', '11', '22']",San Antonio,Orlando,106,97
+"['2010', '11', '22']",Utah,Sacramento,94,83
+"['2010', '11', '23']",Dallas,Detroit,88,84
+"['2010', '11', '23']",Indiana,Cleveland,100,89
+"['2010', '11', '23']",LA Lakers,Chicago,98,91
+"['2010', '11', '23']",New Jersey,Atlanta,107,101
+"['2010', '11', '23']",New York,Charlotte,110,107
+"['2010', '11', '23']",Washington,Philadelphia,116,114
+"['2010', '11', '24']",Boston,New Jersey,89,83
+"['2010', '11', '24']",New York,Charlotte,99,95
+"['2010', '11', '24']",Cleveland,Milwaukee,83,81
+"['2010', '11', '24']",Houston,Golden State,111,101
+"['2010', '11', '24']",Memphis,Detroit,105,84
+"['2010', '11', '24']",San Antonio,Minnesota,113,109
+"['2010', '11', '24']",Dallas,Oklahoma City,111,103
+"['2010', '11', '24']",Orlando,Miami,104,95
+"['2010', '11', '24']",Chicago,Phoenix,123,115
+"['2010', '11', '24']",Toronto,Philadelphia,106,90
+"['2010', '11', '24']",Utah,New Orleans,105,87
+"['2010', '11', '25']",Atlanta,Washington,116,96
+"['2010', '11', '25']",LA Clippers,Sacramento,100,82
+"['2010', '11', '26']",Boston,Toronto,110,101
+"['2010', '11', '26']",Charlotte,Houston,99,89
+"['2010', '11', '26']",Denver,Chicago,98,97
+"['2010', '11', '26']",Detroit,Milwaukee,103,89
+"['2010', '11', '26']",Oklahoma City,Indiana,110,106
+"['2010', '11', '26']",Memphis,Golden State,116,111
+"['2010', '11', '26']",Miami,Philadelphia,99,90
+"['2010', '11', '26']",Orlando,Cleveland,111,100
+"['2010', '11', '26']",Phoenix,LA Clippers,116,108
+"['2010', '11', '26']",New Orleans,Portland,97,78
+"['2010', '11', '26']",Dallas,San Antonio,103,94
+"['2010', '11', '26']",Utah,LA Lakers,102,96
+"['2010', '11', '27']",Cleveland,Memphis,92,86
+"['2010', '11', '27']",Dallas,Miami,106,95
+"['2010', '11', '27']",Milwaukee,Charlotte,104,101
+"['2010', '11', '27']",Golden State,Minnesota,104,94
+"['2010', '11', '27']",Atlanta,New York,99,90
+"['2010', '11', '27']",Philadelphia,New Jersey,102,86
+"['2010', '11', '27']",Chicago,Sacramento,96,85
+"['2010', '11', '27']",Orlando,Washington,100,99
+"['2010', '11', '28']",Denver,Phoenix,138,133
+"['2010', '11', '28']",New York,Detroit,125,116
+"['2010', '11', '28']",Houston,Oklahoma City,99,98
+"['2010', '11', '28']",Utah,LA Clippers,109,97
+"['2010', '11', '28']",Indiana,LA Lakers,95,92
+"['2010', '11', '28']",New Jersey,Portland,98,96
+"['2010', '11', '28']",San Antonio,New Orleans,109,95
+"['2010', '11', '28']",Atlanta,Toronto,96,78
+"['2010', '11', '29']",Dallas,Houston,101,91
+"['2010', '11', '29']",Miami,Washington,105,94
+"['2010', '11', '29']",Oklahoma City,New Orleans,95,89
+"['2010', '11', '29']",Utah,Milwaukee,109,88
+"['2010', '11', '30']",Boston,Cleveland,106,87
+"['2010', '11', '30']",San Antonio,Golden State,118,98
+"['2010', '11', '30']",Memphis,LA Lakers,98,96
+"['2010', '11', '30']",New York,New Jersey,111,100
+"['2010', '11', '30']",Orlando,Detroit,90,79
+"['2010', '11', '30']",Philadelphia,Portland,88,79
+"['2010', '11', '30']",Indiana,Sacramento,107,98
+"['2010', '12', '01']",Atlanta,Memphis,112,109
+"['2010', '12', '01']",Boston,Portland,99,95
+"['2010', '12', '01']",Orlando,Chicago,107,78
+"['2010', '12', '01']",Dallas,Minnesota,100,86
+"['2010', '12', '01']",Denver,Milwaukee,105,94
+"['2010', '12', '01']",Houston,LA Lakers,109,99
+"['2010', '12', '01']",LA Clippers,San Antonio,90,85
+"['2010', '12', '01']",Miami,Detroit,97,72
+"['2010', '12', '01']",Oklahoma City,New Jersey,123,120
+"['2010', '12', '01']",New Orleans,Charlotte,89,73
+"['2010', '12', '01']",Toronto,Washington,127,108
+"['2010', '12', '01']",Utah,Indiana,110,88
+"['2010', '12', '02']",Miami,Cleveland,118,90
+"['2010', '12', '02']",Phoenix,Golden State,107,101
+"['2010', '12', '03']",Atlanta,Philadelphia,93,88
+"['2010', '12', '03']",Boston,Chicago,104,92
+"['2010', '12', '03']",Charlotte,New Jersey,91,84
+"['2010', '12', '03']",Denver,LA Clippers,109,104
+"['2010', '12', '03']",Orlando,Detroit,104,91
+"['2010', '12', '03']",LA Lakers,Sacramento,113,80
+"['2010', '12', '03']",Houston,Memphis,127,111
+"['2010', '12', '03']",New York,New Orleans,100,92
+"['2010', '12', '03']",Phoenix,Indiana,105,97
+"['2010', '12', '03']",San Antonio,Minnesota,107,101
+"['2010', '12', '03']",Toronto,Oklahoma City,111,99
+"['2010', '12', '03']",Dallas,Utah,93,81
+"['2010', '12', '03']",Washington,Portland,83,79
+"['2010', '12', '04']",Chicago,Houston,119,116
+"['2010', '12', '04']",Miami,Atlanta,89,77
+"['2010', '12', '04']",Milwaukee,Orlando,96,85
+"['2010', '12', '04']",Minnesota,Cleveland,129,95
+"['2010', '12', '04']",Philadelphia,Charlotte,109,91
+"['2010', '12', '04']",Dallas,Sacramento,105,103
+"['2010', '12', '05']",Denver,Memphis,108,107
+"['2010', '12', '05']",Detroit,Cleveland,102,92
+"['2010', '12', '05']",Boston,New Jersey,100,75
+"['2010', '12', '05']",Oklahoma City,Golden State,114,109
+"['2010', '12', '05']",Phoenix,Washington,125,108
+"['2010', '12', '05']",Portland,LA Clippers,100,91
+"['2010', '12', '05']",San Antonio,New Orleans,109,84
+"['2010', '12', '05']",New York,Toronto,116,99
+"['2010', '12', '06']",Chicago,Oklahoma City,99,90
+"['2010', '12', '06']",Indiana,Toronto,124,100
+"['2010', '12', '06']",LA Clippers,Sacramento,98,91
+"['2010', '12', '06']",Miami,Milwaukee,88,78
+"['2010', '12', '06']",New York,Minnesota,121,114
+"['2010', '12', '06']",Atlanta,Orlando,80,74
+"['2010', '12', '06']",Utah,Memphis,94,85
+"['2010', '12', '07']",Atlanta,New Jersey,116,101
+"['2010', '12', '07']",Charlotte,Denver,100,98
+"['2010', '12', '07']",Dallas,Golden State,105,100
+"['2010', '12', '07']",Houston,Detroit,97,83
+"['2010', '12', '07']",LA Lakers,Washington,115,108
+"['2010', '12', '07']",Philadelphia,Cleveland,117,97
+"['2010', '12', '07']",Portland,Phoenix,106,99
+"['2010', '12', '08']",Boston,Denver,105,89
+"['2010', '12', '08']",Chicago,Cleveland,88,83
+"['2010', '12', '08']",LA Lakers,LA Clippers,87,86
+"['2010', '12', '08']",Milwaukee,Indiana,97,95
+"['2010', '12', '08']",Oklahoma City,Minnesota,111,103
+"['2010', '12', '08']",New Orleans,Detroit,93,74
+"['2010', '12', '08']",New York,Toronto,113,110
+"['2010', '12', '08']",Memphis,Phoenix,104,98
+"['2010', '12', '08']",Sacramento,Washington,116,91
+"['2010', '12', '08']",San Antonio,Golden State,111,94
+"['2010', '12', '08']",Miami,Utah,111,98
+"['2010', '12', '09']",Dallas,New Jersey,102,89
+"['2010', '12', '09']",Boston,Philadelphia,102,101
+"['2010', '12', '09']",Portland,Orlando,97,83
+"['2010', '12', '10']",Chicago,LA Lakers,88,84
+"['2010', '12', '10']",Miami,Golden State,106,84
+"['2010', '12', '10']",Indiana,Charlotte,100,92
+"['2010', '12', '10']",Milwaukee,Houston,97,91
+"['2010', '12', '10']",Minnesota,Detroit,109,99
+"['2010', '12', '10']",Oklahoma City,New Orleans,97,92
+"['2010', '12', '10']",Portland,Phoenix,101,94
+"['2010', '12', '10']",San Antonio,Atlanta,108,92
+"['2010', '12', '10']",Denver,Toronto,123,116
+"['2010', '12', '10']",Utah,Orlando,117,105
+"['2010', '12', '10']",New York,Washington,101,95
+"['2010', '12', '11']",Atlanta,Indiana,97,83
+"['2010', '12', '11']",Boston,Charlotte,93,62
+"['2010', '12', '11']",Chicago,Minnesota,113,82
+"['2010', '12', '11']",Dallas,Utah,103,97
+"['2010', '12', '11']",Toronto,Detroit,120,116
+"['2010', '12', '11']",Houston,Cleveland,110,95
+"['2010', '12', '11']",Memphis,LA Clippers,84,83
+"['2010', '12', '11']",Miami,Sacramento,104,83
+"['2010', '12', '12']",Orlando,LA Clippers,94,85
+"['2010', '12', '12']",LA Lakers,New Jersey,99,92
+"['2010', '12', '12']",New York,Denver,129,125
+"['2010', '12', '12']",Oklahoma City,Cleveland,106,77
+"['2010', '12', '12']",Philadelphia,New Orleans,88,70
+"['2010', '12', '12']",San Antonio,Portland,95,78
+"['2010', '12', '13']",Chicago,Indiana,92,73
+"['2010', '12', '13']",Milwaukee,Dallas,103,99
+"['2010', '12', '13']",Memphis,Portland,86,73
+"['2010', '12', '13']",Miami,New Orleans,96,84
+"['2010', '12', '13']",Utah,Golden State,108,95
+"['2010', '12', '14']",Charlotte,Toronto,97,91
+"['2010', '12', '14']",Denver,Orlando,111,94
+"['2010', '12', '14']",Detroit,Atlanta,103,80
+"['2010', '12', '14']",Golden State,Minnesota,108,99
+"['2010', '12', '14']",Houston,Sacramento,118,105
+"['2010', '12', '14']",Philadelphia,New Jersey,82,77
+"['2010', '12', '14']",LA Lakers,Washington,103,89
+"['2010', '12', '15']",Dallas,Portland,103,98
+"['2010', '12', '15']",LA Lakers,Indiana,109,94
+"['2010', '12', '15']",Memphis,Charlotte,113,80
+"['2010', '12', '15']",Miami,Cleveland,101,95
+"['2010', '12', '15']",New Orleans,Sacramento,94,91
+"['2010', '12', '15']",Boston,New York,118,116
+"['2010', '12', '15']",Oklahoma City,Houston,117,105
+"['2010', '12', '15']",Philadelphia,LA Clippers,105,91
+"['2010', '12', '15']",Phoenix,Minnesota,128,122
+"['2010', '12', '15']",San Antonio,Milwaukee,92,90
+"['2010', '12', '15']",Chicago,Toronto,110,93
+"['2010', '12', '16']",Boston,Atlanta,102,90
+"['2010', '12', '16']",San Antonio,Denver,113,112
+"['2010', '12', '16']",New Jersey,Washington,97,89
+"['2010', '12', '17']",Atlanta,Charlotte,90,85
+"['2010', '12', '17']",Dallas,Phoenix,106,91
+"['2010', '12', '17']",LA Clippers,Detroit,109,88
+"['2010', '12', '17']",Houston,Memphis,103,87
+"['2010', '12', '17']",Indiana,Cleveland,108,99
+"['2010', '12', '17']",New Orleans,Utah,100,71
+"['2010', '12', '17']",Miami,New York,113,91
+"['2010', '12', '17']",Oklahoma City,Sacramento,102,87
+"['2010', '12', '17']",LA Lakers,Philadelphia,93,81
+"['2010', '12', '17']",Portland,Minnesota,107,102
+"['2010', '12', '17']",Toronto,New Jersey,98,92
+"['2010', '12', '18']",LA Clippers,Chicago,100,99
+"['2010', '12', '18']",Cleveland,New York,109,102
+"['2010', '12', '18']",Denver,Minnesota,115,113
+"['2010', '12', '18']",Utah,Milwaukee,95,86
+"['2010', '12', '18']",Philadelphia,Orlando,97,89
+"['2010', '12', '18']",Portland,Golden State,96,95
+"['2010', '12', '18']",San Antonio,Memphis,112,106
+"['2010', '12', '18']",Miami,Washington,95,94
+"['2010', '12', '19']",Boston,Indiana,99,88
+"['2010', '12', '19']",Detroit,New Orleans,111,108
+"['2010', '12', '19']",New Jersey,Atlanta,89,82
+"['2010', '12', '19']",Phoenix,Oklahoma City,113,110
+"['2010', '12', '19']",Houston,Sacramento,102,93
+"['2010', '12', '19']",LA Lakers,Toronto,120,110
+"['2010', '12', '20']",Atlanta,Orlando,91,81
+"['2010', '12', '20']",Utah,Cleveland,101,90
+"['2010', '12', '20']",Houston,Golden State,121,112
+"['2010', '12', '20']",Indiana,New Orleans,94,93
+"['2010', '12', '20']",LA Clippers,Minnesota,113,90
+"['2010', '12', '20']",Dallas,Miami,98,96
+"['2010', '12', '20']",Portland,Milwaukee,106,80
+"['2010', '12', '20']",San Antonio,Phoenix,118,110
+"['2010', '12', '20']",Washington,Charlotte,108,75
+"['2010', '12', '21']",Oklahoma City,Charlotte,99,81
+"['2010', '12', '21']",Chicago,Philadelphia,121,76
+"['2010', '12', '21']",Milwaukee,LA Lakers,98,79
+"['2010', '12', '21']",New Jersey,Memphis,101,94
+"['2010', '12', '21']",Dallas,Orlando,105,99
+"['2010', '12', '21']",Golden State,Sacramento,117,109
+"['2010', '12', '22']",Atlanta,Cleveland,98,84
+"['2010', '12', '22']",Boston,Philadelphia,84,80
+"['2010', '12', '22']",Houston,LA Clippers,97,92
+"['2010', '12', '22']",Utah,Minnesota,112,107
+"['2010', '12', '22']",New Orleans,New Jersey,105,91
+"['2010', '12', '22']",New York,Oklahoma City,112,98
+"['2010', '12', '22']",San Antonio,Denver,109,103
+"['2010', '12', '22']",Detroit,Toronto,115,93
+"['2010', '12', '22']",Chicago,Washington,87,80
+"['2010', '12', '23']",Orlando,San Antonio,123,101
+"['2010', '12', '23']",Miami,Phoenix,95,83
+"['2010', '12', '23']",Milwaukee,Sacramento,84,79
+"['2010', '12', '25']",Golden State,Portland,109,102
+"['2010', '12', '25']",Miami,LA Lakers,96,80
+"['2010', '12', '25']",New York,Chicago,103,95
+"['2010', '12', '25']",Oklahoma City,Denver,114,106
+"['2010', '12', '25']",Orlando,Boston,86,78
+"['2010', '12', '26']",Minnesota,Cleveland,98,97
+"['2010', '12', '26']",Philadelphia,Denver,95,89
+"['2010', '12', '26']",Chicago,Detroit,95,92
+"['2010', '12', '26']",Memphis,Indiana,104,90
+"['2010', '12', '26']",LA Clippers,Phoenix,108,103
+"['2010', '12', '26']",New Orleans,Atlanta,93,86
+"['2010', '12', '26']",San Antonio,Washington,94,80
+"['2010', '12', '27']",Charlotte,Detroit,105,100
+"['2010', '12', '27']",Golden State,Philadelphia,110,95
+"['2010', '12', '27']",Houston,Washington,100,93
+"['2010', '12', '27']",Memphis,Toronto,96,85
+"['2010', '12', '27']",Atlanta,Milwaukee,95,80
+"['2010', '12', '27']",Minnesota,New Orleans,113,98
+"['2010', '12', '27']",Orlando,New Jersey,104,88
+"['2010', '12', '27']",Dallas,Oklahoma City,103,93
+"['2010', '12', '27']",LA Clippers,Sacramento,100,99
+"['2010', '12', '27']",Portland,Utah,96,91
+"['2010', '12', '28']",Chicago,Milwaukee,90,77
+"['2010', '12', '28']",Orlando,Cleveland,110,95
+"['2010', '12', '28']",Toronto,Dallas,84,76
+"['2010', '12', '28']",Denver,Portland,95,77
+"['2010', '12', '28']",Boston,Indiana,95,83
+"['2010', '12', '28']",Miami,New York,106,98
+"['2010', '12', '28']",San Antonio,LA Lakers,97,82
+"['2010', '12', '29']",Atlanta,Golden State,103,93
+"['2010', '12', '29']",Charlotte,Cleveland,101,92
+"['2010', '12', '29']",Detroit,Boston,104,92
+"['2010', '12', '29']",Miami,Houston,125,119
+"['2010', '12', '29']",Utah,LA Clippers,103,95
+"['2010', '12', '29']",Denver,Minnesota,119,113
+"['2010', '12', '29']",LA Lakers,New Orleans,103,88
+"['2010', '12', '29']",Oklahoma City,New Jersey,114,93
+"['2010', '12', '29']",Philadelphia,Phoenix,123,110
+"['2010', '12', '29']",Sacramento,Memphis,100,98
+"['2010', '12', '29']",Washington,Indiana,104,90
+"['2010', '12', '30']",San Antonio,Dallas,99,93
+"['2010', '12', '30']",Orlando,New York,112,103
+"['2010', '12', '30']",Portland,Utah,100,89
+"['2010', '12', '31']",New Orleans,Boston,83,81
+"['2010', '12', '31']",Golden State,Charlotte,96,95
+"['2010', '12', '31']",Chicago,New Jersey,90,81
+"['2010', '12', '31']",Houston,Toronto,114,105
+"['2010', '12', '31']",Indiana,Washington,95,86
+"['2010', '12', '31']",LA Lakers,Philadelphia,102,98
+"['2010', '12', '31']",Oklahoma City,Atlanta,103,94
+"['2010', '12', '31']",Phoenix,Detroit,92,75

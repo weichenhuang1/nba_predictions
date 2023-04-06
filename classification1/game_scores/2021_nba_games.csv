@@ -1,0 +1,1632 @@
+date,winner,loser,winner_score,loser_score
+"['2021', '01', '01']",Atlanta,Brooklyn,114,96
+"['2021', '01', '01']",Memphis,Charlotte,108,93
+"['2021', '01', '01']",Dallas,Miami,93,83
+"['2021', '01', '01']",Phoenix,Denver,106,103
+"['2021', '01', '01']",Detroit,Boston,96,93
+"['2021', '01', '01']",Portland,Golden State,123,98
+"['2021', '01', '01']",Milwaukee,Chicago,126,96
+"['2021', '01', '01']",Washington,Minnesota,130,109
+"['2021', '01', '01']",LA Lakers,San Antonio,109,103
+"['2021', '01', '01']",Utah,LA Clippers,106,100
+"['2021', '01', '02']",Cleveland,Atlanta,96,91
+"['2021', '01', '02']",Houston,Sacramento,102,94
+"['2021', '01', '02']",New York,Indiana,106,102
+"['2021', '01', '02']",New Orleans,Toronto,120,116
+"['2021', '01', '02']",Oklahoma City,Orlando,108,99
+"['2021', '01', '02']",Philadelphia,Charlotte,127,112
+"['2021', '01', '03']",Washington,Brooklyn,123,122
+"['2021', '01', '03']",Chicago,Dallas,118,108
+"['2021', '01', '03']",Boston,Detroit,122,120
+"['2021', '01', '03']",Golden State,Portland,137,122
+"['2021', '01', '03']",LA Lakers,Memphis,108,94
+"['2021', '01', '03']",Denver,Minnesota,124,109
+"['2021', '01', '03']",LA Clippers,Phoenix,112,107
+"['2021', '01', '03']",Utah,San Antonio,130,109
+"['2021', '01', '04']",New York,Atlanta,113,108
+"['2021', '01', '04']",Golden State,Sacramento,137,106
+"['2021', '01', '04']",Dallas,Houston,113,100
+"['2021', '01', '04']",Miami,Oklahoma City,118,90
+"['2021', '01', '04']",Milwaukee,Detroit,125,115
+"['2021', '01', '04']",Indiana,New Orleans,118,116
+"['2021', '01', '04']",Orlando,Cleveland,103,83
+"['2021', '01', '04']",Philadelphia,Charlotte,118,101
+"['2021', '01', '04']",Boston,Toronto,126,114
+"['2021', '01', '05']",Brooklyn,Utah,130,96
+"['2021', '01', '05']",Denver,Minnesota,123,116
+"['2021', '01', '05']",San Antonio,LA Clippers,116,113
+"['2021', '01', '05']",LA Lakers,Memphis,94,92
+"['2021', '01', '05']",Chicago,Portland,111,108
+"['2021', '01', '06']",Charlotte,Atlanta,102,94
+"['2021', '01', '06']",LA Clippers,Golden State,108,101
+"['2021', '01', '06']",Indiana,Houston,114,107
+"['2021', '01', '06']",Boston,Miami,107,105
+"['2021', '01', '06']",Milwaukee,Detroit,130,115
+"['2021', '01', '06']",Oklahoma City,New Orleans,111,110
+"['2021', '01', '06']",New York,Utah,112,100
+"['2021', '01', '06']",Orlando,Cleveland,105,94
+"['2021', '01', '06']",Philadelphia,Washington,141,136
+"['2021', '01', '06']",Phoenix,Toronto,123,115
+"['2021', '01', '06']",Sacramento,Chicago,128,124
+"['2021', '01', '07']",Brooklyn,Philadelphia,122,109
+"['2021', '01', '07']",Dallas,Denver,124,117
+"['2021', '01', '07']",San Antonio,LA Lakers,118,109
+"['2021', '01', '07']",Cleveland,Memphis,94,90
+"['2021', '01', '07']",Portland,Minnesota,135,117
+"['2021', '01', '08']",Boston,Washington,116,107
+"['2021', '01', '08']",Detroit,Phoenix,110,105
+"['2021', '01', '08']",Golden State,LA Clippers,115,105
+"['2021', '01', '08']",Houston,Orlando,132,90
+"['2021', '01', '08']",LA Lakers,Chicago,117,115
+"['2021', '01', '08']",Memphis,Brooklyn,115,110
+"['2021', '01', '08']",Utah,Milwaukee,131,118
+"['2021', '01', '08']",Charlotte,New Orleans,118,110
+"['2021', '01', '08']",Oklahoma City,New York,101,89
+"['2021', '01', '08']",Toronto,Sacramento,144,123
+"['2021', '01', '09']",Charlotte,Atlanta,113,105
+"['2021', '01', '09']",Dallas,Orlando,112,98
+"['2021', '01', '09']",Phoenix,Indiana,125,117
+"['2021', '01', '09']",Milwaukee,Cleveland,100,90
+"['2021', '01', '09']",San Antonio,Minnesota,125,122
+"['2021', '01', '09']",Denver,Philadelphia,115,103
+"['2021', '01', '09']",Portland,Sacramento,125,99
+"['2021', '01', '09']",Miami,Washington,128,124
+"['2021', '01', '10']",Oklahoma City,Brooklyn,129,116
+"['2021', '01', '10']",Utah,Detroit,96,86
+"['2021', '01', '10']",Golden State,Toronto,106,105
+"['2021', '01', '10']",LA Lakers,Houston,120,102
+"['2021', '01', '10']",LA Clippers,Chicago,130,127
+"['2021', '01', '10']",Minnesota,San Antonio,96,88
+"['2021', '01', '10']",Denver,New York,114,89
+"['2021', '01', '11']",Atlanta,Philadelphia,112,94
+"['2021', '01', '11']",Charlotte,New York,109,88
+"['2021', '01', '11']",Memphis,Cleveland,101,91
+"['2021', '01', '11']",Milwaukee,Orlando,121,99
+"['2021', '01', '11']",Portland,Toronto,112,111
+"['2021', '01', '11']",Sacramento,Indiana,127,122
+"['2021', '01', '11']",Washington,Phoenix,128,107
+"['2021', '01', '12']",Brooklyn,Denver,122,116
+"['2021', '01', '12']",Utah,Cleveland,117,87
+"['2021', '01', '12']",Indiana,Golden State,104,95
+"['2021', '01', '12']",LA Lakers,Houston,117,100
+"['2021', '01', '12']",San Antonio,Oklahoma City,112,102
+"['2021', '01', '12']",Philadelphia,Miami,137,134
+"['2021', '01', '13']",Dallas,Charlotte,104,93
+"['2021', '01', '13']",Milwaukee,Detroit,110,101
+"['2021', '01', '13']",LA Clippers,New Orleans,111,106
+"['2021', '01', '13']",Memphis,Minnesota,118,107
+"['2021', '01', '13']",Brooklyn,New York,116,109
+"['2021', '01', '13']",LA Lakers,Oklahoma City,128,99
+"['2021', '01', '13']",Portland,Sacramento,132,126
+"['2021', '01', '14']",Denver,Golden State,114,104
+"['2021', '01', '14']",Philadelphia,Miami,125,108
+"['2021', '01', '14']",Indiana,Portland,111,87
+"['2021', '01', '14']",Houston,San Antonio,109,105
+"['2021', '01', '14']",Toronto,Charlotte,111,108
+"['2021', '01', '15']",Boston,Orlando,124,97
+"['2021', '01', '15']",Cleveland,New York,106,103
+"['2021', '01', '15']",LA Lakers,New Orleans,112,95
+"['2021', '01', '15']",Milwaukee,Dallas,112,109
+"['2021', '01', '15']",Oklahoma City,Chicago,127,125
+"['2021', '01', '15']",LA Clippers,Sacramento,138,100
+"['2021', '01', '15']",Utah,Atlanta,116,92
+"['2021', '01', '16']",Brooklyn,Orlando,122,115
+"['2021', '01', '16']",Memphis,Philadelphia,106,104
+"['2021', '01', '16']",Detroit,Miami,120,100
+"['2021', '01', '16']",Portland,Atlanta,112,106
+"['2021', '01', '16']",San Antonio,Houston,103,91
+"['2021', '01', '16']",Toronto,Charlotte,116,113
+"['2021', '01', '17']",New York,Boston,105,75
+"['2021', '01', '17']",Chicago,Dallas,117,101
+"['2021', '01', '17']",Utah,Denver,109,105
+"['2021', '01', '17']",LA Clippers,Indiana,129,96
+"['2021', '01', '17']",New Orleans,Sacramento,128,123
+"['2021', '01', '18']",Atlanta,Minnesota,108,97
+"['2021', '01', '18']",Brooklyn,Milwaukee,125,123
+"['2021', '01', '18']",Chicago,Houston,125,120
+"['2021', '01', '18']",Golden State,LA Lakers,115,113
+"['2021', '01', '18']",Memphis,Phoenix,108,104
+"['2021', '01', '18']",Miami,Detroit,113,107
+"['2021', '01', '18']",New York,Orlando,91,84
+"['2021', '01', '18']",San Antonio,Portland,125,104
+"['2021', '01', '18']",Toronto,Dallas,116,93
+"['2021', '01', '19']",Denver,Oklahoma City,119,101
+"['2021', '01', '19']",Utah,New Orleans,118,102
+"['2021', '01', '20']",Atlanta,Detroit,123,115
+"['2021', '01', '20']",Cleveland,Brooklyn,147,135
+"['2021', '01', '20']",Golden State,San Antonio,121,99
+"['2021', '01', '20']",Phoenix,Houston,109,103
+"['2021', '01', '20']",Dallas,Indiana,124,112
+"['2021', '01', '20']",LA Clippers,Sacramento,115,96
+"['2021', '01', '20']",Orlando,Minnesota,97,96
+"['2021', '01', '20']",Philadelphia,Boston,117,109
+"['2021', '01', '20']",Miami,Toronto,111,102
+"['2021', '01', '21']",New York,Golden State,119,104
+"['2021', '01', '21']",LA Lakers,Milwaukee,113,106
+"['2021', '01', '21']",Utah,New Orleans,129,118
+"['2021', '01', '22']",Chicago,Charlotte,123,110
+"['2021', '01', '22']",Cleveland,Brooklyn,125,113
+"['2021', '01', '22']",Houston,Detroit,103,102
+"['2021', '01', '22']",Indiana,Orlando,120,118
+"['2021', '01', '22']",LA Clippers,Oklahoma City,120,106
+"['2021', '01', '22']",Atlanta,Minnesota,116,98
+"['2021', '01', '22']",Philadelphia,Boston,122,110
+"['2021', '01', '22']",Denver,Phoenix,130,126
+"['2021', '01', '22']",Sacramento,New York,103,94
+"['2021', '01', '22']",Dallas,San Antonio,122,117
+"['2021', '01', '22']",Toronto,Miami,101,81
+"['2021', '01', '23']",Brooklyn,Miami,128,124
+"['2021', '01', '23']",LA Lakers,Chicago,101,90
+"['2021', '01', '23']",Houston,Dallas,133,108
+"['2021', '01', '23']",Philadelphia,Detroit,114,110
+"['2021', '01', '23']",Minnesota,New Orleans,120,110
+"['2021', '01', '23']",Denver,Phoenix,120,112
+"['2021', '01', '23']",Utah,Golden State,127,108
+"['2021', '01', '24']",Boston,Cleveland,141,103
+"['2021', '01', '24']",Toronto,Indiana,107,102
+"['2021', '01', '24']",LA Clippers,Oklahoma City,108,100
+"['2021', '01', '24']",Milwaukee,Atlanta,129,115
+"['2021', '01', '24']",Charlotte,Orlando,107,104
+"['2021', '01', '24']",Portland,New York,116,113
+"['2021', '01', '24']",San Antonio,Washington,121,101
+"['2021', '01', '25']",Brooklyn,Miami,98,85
+"['2021', '01', '25']",Boston,Chicago,119,103
+"['2021', '01', '25']",LA Lakers,Cleveland,115,108
+"['2021', '01', '25']",Denver,Dallas,117,113
+"['2021', '01', '25']",Detroit,Philadelphia,119,104
+"['2021', '01', '25']",Golden State,Minnesota,130,108
+"['2021', '01', '25']",Indiana,Toronto,129,114
+"['2021', '01', '25']",Orlando,Charlotte,117,108
+"['2021', '01', '25']",Oklahoma City,Portland,125,122
+"['2021', '01', '26']",Atlanta,LA Clippers,108,99
+"['2021', '01', '26']",Houston,Washington,107,88
+"['2021', '01', '26']",Utah,New York,108,94
+"['2021', '01', '27']",Brooklyn,Atlanta,132,128
+"['2021', '01', '27']",Indiana,Charlotte,116,106
+"['2021', '01', '27']",Cleveland,Detroit,122,107
+"['2021', '01', '27']",Golden State,Minnesota,123,111
+"['2021', '01', '27']",Denver,Miami,109,82
+"['2021', '01', '27']",New Orleans,Washington,124,106
+"['2021', '01', '27']",Sacramento,Orlando,121,107
+"['2021', '01', '27']",Philadelphia,LA Lakers,107,106
+"['2021', '01', '27']",Oklahoma City,Phoenix,102,97
+"['2021', '01', '27']",San Antonio,Boston,110,106
+"['2021', '01', '27']",Milwaukee,Toronto,115,108
+"['2021', '01', '27']",Utah,Dallas,116,104
+"['2021', '01', '28']",Detroit,LA Lakers,107,92
+"['2021', '01', '28']",Houston,Portland,104,101
+"['2021', '01', '28']",LA Clippers,Miami,109,105
+"['2021', '01', '28']",Phoenix,Golden State,114,93
+"['2021', '01', '29']",Charlotte,Indiana,108,105
+"['2021', '01', '29']",Philadelphia,Minnesota,118,94
+"['2021', '01', '29']",New Orleans,Milwaukee,131,126
+"['2021', '01', '29']",New York,Cleveland,102,81
+"['2021', '01', '29']",Brooklyn,Oklahoma City,147,125
+"['2021', '01', '29']",LA Clippers,Orlando,116,90
+"['2021', '01', '29']",San Antonio,Denver,119,109
+"['2021', '01', '29']",Sacramento,Toronto,126,124
+"['2021', '01', '29']",Utah,Dallas,120,101
+"['2021', '01', '29']",Atlanta,Washington,116,100
+"['2021', '01', '30']",LA Lakers,Boston,96,95
+"['2021', '01', '30']",Portland,Chicago,123,122
+"['2021', '01', '30']",Charlotte,Milwaukee,126,114
+"['2021', '01', '30']",Phoenix,Dallas,111,105
+"['2021', '01', '30']",Golden State,Detroit,118,91
+"['2021', '01', '30']",Miami,Sacramento,105,104
+"['2021', '01', '30']",Houston,New Orleans,126,112
+"['2021', '01', '30']",Memphis,San Antonio,129,112
+"['2021', '01', '31']",Denver,Utah,128,117
+"['2021', '01', '31']",Philadelphia,Indiana,119,110
+"['2021', '01', '31']",Minnesota,Cleveland,109,104
+"['2021', '01', '31']",LA Clippers,New York,129,115
+"['2021', '01', '31']",Toronto,Orlando,115,102
+"['2021', '01', '31']",Washington,Brooklyn,149,146
+"['2021', '02', '01']",LA Lakers,Atlanta,107,99
+"['2021', '02', '01']",Chicago,New York,110,102
+"['2021', '02', '01']",Cleveland,Minnesota,100,98
+"['2021', '02', '01']",Phoenix,Dallas,109,108
+"['2021', '02', '01']",Charlotte,Miami,129,121
+"['2021', '02', '01']",Milwaukee,Portland,134,106
+"['2021', '02', '01']",Sacramento,New Orleans,118,109
+"['2021', '02', '01']",Houston,Oklahoma City,136,106
+"['2021', '02', '01']",Memphis,San Antonio,133,102
+"['2021', '02', '02']",Brooklyn,LA Clippers,124,120
+"['2021', '02', '02']",Boston,Golden State,111,107
+"['2021', '02', '02']",Indiana,Memphis,134,116
+"['2021', '02', '02']",Toronto,Orlando,123,108
+"['2021', '02', '02']",Utah,Detroit,117,105
+"['2021', '02', '02']",Portland,Washington,132,121
+"['2021', '02', '03']",Dallas,Atlanta,122,116
+"['2021', '02', '03']",New York,Chicago,107,103
+"['2021', '02', '03']",Philadelphia,Charlotte,118,111
+"['2021', '02', '03']",LA Clippers,Cleveland,121,99
+"['2021', '02', '03']",Washington,Miami,103,100
+"['2021', '02', '03']",Milwaukee,Indiana,130,110
+"['2021', '02', '03']",New Orleans,Phoenix,123,101
+"['2021', '02', '03']",Oklahoma City,Houston,104,87
+"['2021', '02', '03']",Sacramento,Boston,116,111
+"['2021', '02', '03']",San Antonio,Minnesota,111,108
+"['2021', '02', '04']",Utah,Atlanta,112,91
+"['2021', '02', '04']",Golden State,Dallas,147,116
+"['2021', '02', '04']",LA Lakers,Denver,114,93
+"['2021', '02', '04']",Houston,Memphis,115,103
+"['2021', '02', '04']",Portland,Philadelphia,121,105
+"['2021', '02', '05']",Toronto,Brooklyn,123,117
+"['2021', '02', '05']",Utah,Charlotte,138,121
+"['2021', '02', '05']",Milwaukee,Cleveland,123,105
+"['2021', '02', '05']",New Orleans,Indiana,114,113
+"['2021', '02', '05']",Boston,LA Clippers,119,115
+"['2021', '02', '05']",Miami,Washington,122,95
+"['2021', '02', '05']",Minnesota,Oklahoma City,106,103
+"['2021', '02', '05']",Orlando,Chicago,123,119
+"['2021', '02', '05']",Phoenix,Detroit,109,92
+"['2021', '02', '06']",Atlanta,Toronto,132,121
+"['2021', '02', '06']",Milwaukee,Cleveland,124,99
+"['2021', '02', '06']",Dallas,Golden State,134,132
+"['2021', '02', '06']",San Antonio,Houston,111,106
+"['2021', '02', '06']",LA Lakers,Detroit,135,129
+"['2021', '02', '06']",New Orleans,Memphis,118,109
+"['2021', '02', '06']",New York,Portland,110,99
+"['2021', '02', '06']",Oklahoma City,Minnesota,120,118
+"['2021', '02', '06']",Chicago,Orlando,118,92
+"['2021', '02', '06']",Philadelphia,Brooklyn,124,108
+"['2021', '02', '06']",Sacramento,Denver,119,114
+"['2021', '02', '07']",Charlotte,Washington,119,97
+"['2021', '02', '07']",Utah,Indiana,103,95
+"['2021', '02', '07']",Sacramento,LA Clippers,113,110
+"['2021', '02', '07']",Miami,New York,109,103
+"['2021', '02', '07']",Phoenix,Boston,100,91
+"['2021', '02', '08']",Washington,Chicago,105,101
+"['2021', '02', '08']",Charlotte,Houston,119,94
+"['2021', '02', '08']",Dallas,Minnesota,127,122
+"['2021', '02', '08']",Milwaukee,Denver,125,112
+"['2021', '02', '08']",LA Lakers,Oklahoma City,119,112
+"['2021', '02', '08']",Toronto,Memphis,128,113
+"['2021', '02', '08']",Phoenix,Cleveland,119,113
+"['2021', '02', '08']",San Antonio,Golden State,105,100
+"['2021', '02', '09']",Detroit,Brooklyn,122,111
+"['2021', '02', '09']",Miami,New York,98,96
+"['2021', '02', '09']",New Orleans,Houston,130,101
+"['2021', '02', '09']",Portland,Orlando,106,97
+"['2021', '02', '09']",Philadelphia,Sacramento,119,111
+"['2021', '02', '09']",Golden State,San Antonio,114,91
+"['2021', '02', '09']",Utah,Boston,122,108
+"['2021', '02', '10']",Brooklyn,Indiana,104,94
+"['2021', '02', '10']",Chicago,New Orleans,129,116
+"['2021', '02', '10']",Dallas,Atlanta,118,117
+"['2021', '02', '10']",Denver,Cleveland,133,95
+"['2021', '02', '10']",LA Lakers,Oklahoma City,114,113
+"['2021', '02', '10']",Memphis,Charlotte,130,114
+"['2021', '02', '10']",LA Clippers,Minnesota,119,112
+"['2021', '02', '10']",Phoenix,Milwaukee,125,124
+"['2021', '02', '10']",Toronto,Washington,137,115
+"['2021', '02', '11']",Boston,Toronto,120,106
+"['2021', '02', '11']",Indiana,Detroit,111,95
+"['2021', '02', '11']",Golden State,Orlando,111,105
+"['2021', '02', '11']",Miami,Houston,101,94
+"['2021', '02', '11']",Portland,Philadelphia,118,114
+"['2021', '02', '12']",San Antonio,Atlanta,125,114
+"['2021', '02', '12']",Detroit,Boston,108,102
+"['2021', '02', '12']",LA Clippers,Chicago,125,106
+"['2021', '02', '12']",Charlotte,Minnesota,120,114
+"['2021', '02', '12']",Dallas,New Orleans,143,130
+"['2021', '02', '12']",Denver,Oklahoma City,97,95
+"['2021', '02', '12']",LA Lakers,Memphis,115,105
+"['2021', '02', '12']",Portland,Cleveland,129,110
+"['2021', '02', '12']",Orlando,Sacramento,123,112
+"['2021', '02', '12']",Utah,Milwaukee,129,115
+"['2021', '02', '12']",New York,Washington,109,91
+"['2021', '02', '13']",Indiana,Atlanta,125,113
+"['2021', '02', '13']",Brooklyn,Golden State,134,117
+"['2021', '02', '13']",New York,Houston,121,99
+"['2021', '02', '13']",Phoenix,Philadelphia,120,111
+"['2021', '02', '13']",Utah,Miami,112,94
+"['2021', '02', '14']",San Antonio,Charlotte,122,110
+"['2021', '02', '14']",Portland,Dallas,121,118
+"['2021', '02', '14']",Denver,LA Lakers,122,105
+"['2021', '02', '14']",Detroit,New Orleans,123,112
+"['2021', '02', '14']",LA Clippers,Cleveland,128,111
+"['2021', '02', '14']",Oklahoma City,Milwaukee,114,109
+"['2021', '02', '14']",Phoenix,Orlando,109,90
+"['2021', '02', '14']",Memphis,Sacramento,124,110
+"['2021', '02', '14']",Minnesota,Toronto,116,112
+"['2021', '02', '14']",Washington,Boston,104,91
+"['2021', '02', '15']",Golden State,Cleveland,129,98
+"['2021', '02', '15']",Chicago,Indiana,120,112
+"['2021', '02', '15']",LA Clippers,Miami,125,118
+"['2021', '02', '15']",New York,Atlanta,123,112
+"['2021', '02', '15']",Brooklyn,Sacramento,136,125
+"['2021', '02', '15']",Utah,Philadelphia,134,123
+"['2021', '02', '15']",Washington,Houston,131,119
+"['2021', '02', '16']",Boston,Denver,112,99
+"['2021', '02', '16']",New Orleans,Memphis,144,113
+"['2021', '02', '16']",Toronto,Milwaukee,124,113
+"['2021', '02', '16']",LA Lakers,Minnesota,112,104
+"['2021', '02', '16']",Portland,Oklahoma City,115,104
+"['2021', '02', '16']",Brooklyn,Phoenix,128,124
+"['2021', '02', '17']",Atlanta,Boston,122,114
+"['2021', '02', '17']",Chicago,Detroit,105,102
+"['2021', '02', '17']",Golden State,Miami,120,112
+"['2021', '02', '17']",Utah,LA Clippers,114,96
+"['2021', '02', '17']",Memphis,Oklahoma City,122,113
+"['2021', '02', '17']",Indiana,Minnesota,134,128
+"['2021', '02', '17']",Portland,New Orleans,126,124
+"['2021', '02', '17']",Orlando,New York,107,89
+"['2021', '02', '17']",Philadelphia,Houston,118,113
+"['2021', '02', '17']",Washington,Denver,130,128
+"['2021', '02', '18']",Brooklyn,LA Lakers,109,98
+"['2021', '02', '18']",Toronto,Milwaukee,110,96
+"['2021', '02', '18']",Miami,Sacramento,118,110
+"['2021', '02', '19']",Boston,Atlanta,121,109
+"['2021', '02', '19']",Denver,Cleveland,120,103
+"['2021', '02', '19']",LA Clippers,Utah,116,112
+"['2021', '02', '19']",Memphis,Detroit,109,95
+"['2021', '02', '19']",Milwaukee,Oklahoma City,98,85
+"['2021', '02', '19']",Toronto,Minnesota,86,81
+"['2021', '02', '19']",Phoenix,New Orleans,132,114
+"['2021', '02', '19']",Orlando,Golden State,124,120
+"['2021', '02', '19']",Philadelphia,Chicago,112,105
+"['2021', '02', '20']",Chicago,Sacramento,122,114
+"['2021', '02', '20']",Charlotte,Golden State,102,100
+"['2021', '02', '20']",Miami,LA Lakers,96,94
+"['2021', '02', '20']",Phoenix,Memphis,128,97
+"['2021', '02', '20']",Washington,Portland,118,111
+"['2021', '02', '21']",Atlanta,Denver,123,115
+"['2021', '02', '21']",Oklahoma City,Cleveland,117,101
+"['2021', '02', '21']",Brooklyn,LA Clippers,112,108
+"['2021', '02', '21']",Milwaukee,Sacramento,128,115
+"['2021', '02', '21']",New Orleans,Boston,120,115
+"['2021', '02', '21']",New York,Minnesota,103,99
+"['2021', '02', '21']",Orlando,Detroit,105,96
+"['2021', '02', '21']",Toronto,Philadelphia,110,103
+"['2021', '02', '22']",Dallas,Memphis,102,92
+"['2021', '02', '22']",Chicago,Houston,120,100
+"['2021', '02', '22']",Washington,LA Lakers,127,124
+"['2021', '02', '22']",Miami,Oklahoma City,108,94
+"['2021', '02', '22']",Phoenix,Portland,132,100
+"['2021', '02', '22']",Utah,Charlotte,132,110
+"['2021', '02', '23']",Brooklyn,Sacramento,127,118
+"['2021', '02', '23']",Cleveland,Atlanta,112,111
+"['2021', '02', '23']",Dallas,Boston,110,107
+"['2021', '02', '23']",Denver,Portland,111,106
+"['2021', '02', '23']",LA Clippers,Washington,135,116
+"['2021', '02', '23']",Milwaukee,Minnesota,139,112
+"['2021', '02', '23']",Golden State,New York,114,106
+"['2021', '02', '23']",Detroit,Orlando,105,93
+"['2021', '02', '23']",Philadelphia,Toronto,109,102
+"['2021', '02', '24']",Atlanta,Boston,127,112
+"['2021', '02', '24']",Chicago,Minnesota,133,126
+"['2021', '02', '24']",Cleveland,Houston,112,96
+"['2021', '02', '24']",Golden State,Indiana,111,107
+"['2021', '02', '24']",Miami,Toronto,116,108
+"['2021', '02', '24']",New Orleans,Detroit,128,118
+"['2021', '02', '24']",Oklahoma City,San Antonio,102,99
+"['2021', '02', '24']",Charlotte,Phoenix,124,121
+"['2021', '02', '24']",Utah,LA Lakers,114,89
+"['2021', '02', '25']",Brooklyn,Orlando,129,92
+"['2021', '02', '25']",Washington,Denver,112,110
+"['2021', '02', '25']",Memphis,LA Clippers,122,94
+"['2021', '02', '25']",Milwaukee,New Orleans,129,125
+"['2021', '02', '25']",New York,Sacramento,140,121
+"['2021', '02', '25']",Philadelphia,Dallas,111,97
+"['2021', '02', '26']",Boston,Indiana,118,112
+"['2021', '02', '26']",Phoenix,Chicago,106,97
+"['2021', '02', '26']",Sacramento,Detroit,110,107
+"['2021', '02', '26']",Golden State,Charlotte,130,121
+"['2021', '02', '26']",LA Lakers,Portland,102,93
+"['2021', '02', '26']",LA Clippers,Memphis,119,99
+"['2021', '02', '26']",Miami,Utah,124,116
+"['2021', '02', '26']",Oklahoma City,Atlanta,118,109
+"['2021', '02', '26']",Toronto,Houston,122,111
+"['2021', '02', '27']",Dallas,Brooklyn,115,98
+"['2021', '02', '27']",New York,Indiana,110,107
+"['2021', '02', '27']",Denver,Oklahoma City,126,96
+"['2021', '02', '27']",Utah,Orlando,124,109
+"['2021', '02', '27']",Cleveland,Philadelphia,112,109
+"['2021', '02', '27']",San Antonio,New Orleans,117,114
+"['2021', '02', '27']",Washington,Minnesota,128,112
+"['2021', '02', '28']",Boston,Washington,111,110
+"['2021', '02', '28']",New York,Detroit,109,90
+"['2021', '02', '28']",Memphis,Houston,133,84
+"['2021', '02', '28']",LA Lakers,Golden State,117,91
+"['2021', '02', '28']",Miami,Atlanta,109,99
+"['2021', '02', '28']",Milwaukee,LA Clippers,105,100
+"['2021', '02', '28']",Phoenix,Minnesota,118,99
+"['2021', '02', '28']",Charlotte,Sacramento,127,126
+"['2021', '03', '01']",Denver,Chicago,118,112
+"['2021', '03', '01']",Cleveland,Houston,101,90
+"['2021', '03', '01']",New Orleans,Utah,129,124
+"['2021', '03', '01']",Dallas,Orlando,130,124
+"['2021', '03', '01']",Philadelphia,Indiana,130,114
+"['2021', '03', '01']",Portland,Charlotte,123,111
+"['2021', '03', '01']",Brooklyn,San Antonio,124,113
+"['2021', '03', '02']",Boston,LA Clippers,117,112
+"['2021', '03', '02']",Phoenix,LA Lakers,114,104
+"['2021', '03', '02']",Atlanta,Miami,94,80
+"['2021', '03', '02']",Denver,Milwaukee,128,97
+"['2021', '03', '02']",San Antonio,New York,119,93
+"['2021', '03', '02']",Memphis,Washington,125,111
+"['2021', '03', '03']",Indiana,Cleveland,114,111
+"['2021', '03', '03']",Dallas,Oklahoma City,87,78
+"['2021', '03', '03']",Brooklyn,Houston,132,114
+"['2021', '03', '03']",Charlotte,Minnesota,135,102
+"['2021', '03', '03']",Chicago,New Orleans,128,124
+"['2021', '03', '03']",Atlanta,Orlando,115,112
+"['2021', '03', '03']",Philadelphia,Utah,131,123
+"['2021', '03', '03']",Portland,Golden State,108,106
+"['2021', '03', '03']",Sacramento,LA Lakers,123,120
+"['2021', '03', '03']",Detroit,Toronto,129,105
+"['2021', '03', '04']",Boston,Toronto,132,125
+"['2021', '03', '04']",Denver,Indiana,113,103
+"['2021', '03', '04']",Milwaukee,Memphis,112,111
+"['2021', '03', '04']",Miami,New Orleans,103,93
+"['2021', '03', '04']",New York,Detroit,114,104
+"['2021', '03', '04']",Phoenix,Golden State,120,98
+"['2021', '03', '04']",Portland,Sacramento,123,119
+"['2021', '03', '04']",Oklahoma City,San Antonio,107,102
+"['2021', '03', '04']",Washington,LA Clippers,119,117
+"['2021', '03', '10']",Dallas,San Antonio,115,104
+"['2021', '03', '10']",Memphis,Washington,127,112
+"['2021', '03', '11']",Brooklyn,Boston,121,109
+"['2021', '03', '11']",Philadelphia,Chicago,127,105
+"['2021', '03', '11']",Charlotte,Detroit,105,102
+"['2021', '03', '11']",LA Clippers,Golden State,130,104
+"['2021', '03', '11']",Miami,Orlando,111,103
+"['2021', '03', '11']",Milwaukee,New York,134,101
+"['2021', '03', '11']",Minnesota,New Orleans,135,105
+"['2021', '03', '11']",Oklahoma City,Dallas,116,108
+"['2021', '03', '11']",Phoenix,Portland,127,121
+"['2021', '03', '11']",Sacramento,Houston,125,105
+"['2021', '03', '11']",Atlanta,Toronto,121,120
+"['2021', '03', '12']",Miami,Chicago,101,90
+"['2021', '03', '12']",LA Lakers,Indiana,105,100
+"['2021', '03', '12']",Denver,Memphis,103,102
+"['2021', '03', '12']",New Orleans,Cleveland,116,82
+"['2021', '03', '12']",San Antonio,Orlando,104,77
+"['2021', '03', '12']",Utah,Houston,114,99
+"['2021', '03', '12']",Philadelphia,Washington,127,101
+"['2021', '03', '13']",Atlanta,Sacramento,121,106
+"['2021', '03', '13']",Brooklyn,Detroit,100,95
+"['2021', '03', '13']",Charlotte,Toronto,114,104
+"['2021', '03', '13']",Dallas,Denver,116,103
+"['2021', '03', '13']",Portland,Minnesota,125,121
+"['2021', '03', '13']",New York,Oklahoma City,119,97
+"['2021', '03', '13']",Indiana,Phoenix,122,111
+"['2021', '03', '13']",Milwaukee,Washington,125,119
+"['2021', '03', '14']",Atlanta,Cleveland,100,82
+"['2021', '03', '14']",Chicago,Toronto,118,95
+"['2021', '03', '14']",Golden State,Utah,131,119
+"['2021', '03', '14']",Boston,Houston,134,107
+"['2021', '03', '14']",Minnesota,Portland,114,112
+"['2021', '03', '14']",New Orleans,LA Clippers,135,115
+"['2021', '03', '14']",Oklahoma City,Memphis,128,122
+"['2021', '03', '14']",Miami,Orlando,102,97
+"['2021', '03', '14']",Philadelphia,San Antonio,134,99
+"['2021', '03', '15']",Brooklyn,New York,117,112
+"['2021', '03', '15']",Charlotte,Sacramento,122,116
+"['2021', '03', '15']",LA Clippers,Dallas,109,99
+"['2021', '03', '15']",Denver,Indiana,121,106
+"['2021', '03', '15']",San Antonio,Detroit,109,99
+"['2021', '03', '15']",LA Lakers,Golden State,128,97
+"['2021', '03', '15']",Phoenix,Memphis,122,99
+"['2021', '03', '15']",Milwaukee,Washington,133,122
+"['2021', '03', '16']",Utah,Boston,117,109
+"['2021', '03', '16']",Chicago,Oklahoma City,123,102
+"['2021', '03', '16']",Atlanta,Houston,119,107
+"['2021', '03', '16']",LA Lakers,Minnesota,137,121
+"['2021', '03', '16']",Miami,Cleveland,113,98
+"['2021', '03', '16']",Philadelphia,New York,99,96
+"['2021', '03', '16']",Portland,New Orleans,125,124
+"['2021', '03', '17']",San Antonio,Chicago,106,99
+"['2021', '03', '17']",Cleveland,Boston,117,110
+"['2021', '03', '17']",Dallas,LA Clippers,105,89
+"['2021', '03', '17']",Denver,Charlotte,129,104
+"['2021', '03', '17']",Detroit,Toronto,116,112
+"['2021', '03', '17']",Golden State,Houston,108,94
+"['2021', '03', '17']",Brooklyn,Indiana,124,115
+"['2021', '03', '17']",Memphis,Miami,89,85
+"['2021', '03', '17']",Milwaukee,Philadelphia,109,105
+"['2021', '03', '17']",Sacramento,Washington,121,119
+"['2021', '03', '18']",Atlanta,Oklahoma City,116,93
+"['2021', '03', '18']",LA Lakers,Charlotte,116,105
+"['2021', '03', '18']",New York,Orlando,94,93
+"['2021', '03', '18']",Minnesota,Phoenix,123,119
+"['2021', '03', '18']",Portland,New Orleans,101,93
+"['2021', '03', '18']",Washington,Utah,131,122
+"['2021', '03', '19']",Sacramento,Boston,107,96
+"['2021', '03', '19']",San Antonio,Cleveland,116,110
+"['2021', '03', '19']",Denver,Chicago,131,127
+"['2021', '03', '19']",Detroit,Houston,113,100
+"['2021', '03', '19']",Golden State,Memphis,116,103
+"['2021', '03', '19']",Indiana,Miami,137,110
+"['2021', '03', '19']",Orlando,Brooklyn,121,113
+"['2021', '03', '19']",Phoenix,Minnesota,113,101
+"['2021', '03', '19']",Portland,Dallas,125,119
+"['2021', '03', '19']",Utah,Toronto,115,112
+"['2021', '03', '20']",LA Clippers,Charlotte,125,98
+"['2021', '03', '20']",Atlanta,LA Lakers,99,94
+"['2021', '03', '20']",Memphis,Golden State,111,103
+"['2021', '03', '20']",Milwaukee,San Antonio,120,113
+"['2021', '03', '20']",Philadelphia,Sacramento,129,105
+"['2021', '03', '21']",Boston,Orlando,112,96
+"['2021', '03', '21']",Brooklyn,Washington,113,106
+"['2021', '03', '21']",Cleveland,Toronto,116,105
+"['2021', '03', '21']",New Orleans,Denver,113,108
+"['2021', '03', '21']",Chicago,Detroit,100,86
+"['2021', '03', '21']",Oklahoma City,Houston,114,112
+"['2021', '03', '21']",Indiana,Miami,109,106
+"['2021', '03', '21']",Philadelphia,New York,101,100
+"['2021', '03', '21']",Phoenix,LA Lakers,111,94
+"['2021', '03', '21']",Dallas,Portland,132,92
+"['2021', '03', '22']",Utah,Chicago,120,95
+"['2021', '03', '22']",Sacramento,Cleveland,119,105
+"['2021', '03', '22']",Houston,Toronto,117,99
+"['2021', '03', '22']",LA Clippers,Atlanta,119,110
+"['2021', '03', '22']",Memphis,Boston,132,126
+"['2021', '03', '22']",Milwaukee,Indiana,140,113
+"['2021', '03', '22']",Oklahoma City,Minnesota,112,103
+"['2021', '03', '22']",Charlotte,San Antonio,100,97
+"['2021', '03', '23']",Philadelphia,Golden State,108,98
+"['2021', '03', '23']",Phoenix,Miami,110,100
+"['2021', '03', '23']",New Orleans,LA Lakers,128,111
+"['2021', '03', '23']",New York,Washington,131,113
+"['2021', '03', '23']",Denver,Orlando,110,99
+"['2021', '03', '23']",Brooklyn,Portland,116,112
+"['2021', '03', '24']",Cleveland,Chicago,103,94
+"['2021', '03', '24']",Charlotte,Houston,122,97
+"['2021', '03', '24']",Indiana,Detroit,116,111
+"['2021', '03', '24']",Milwaukee,Boston,121,119
+"['2021', '03', '24']",Dallas,Minnesota,128,108
+"['2021', '03', '24']",Memphis,Oklahoma City,116,107
+"['2021', '03', '24']",Orlando,Phoenix,112,111
+"['2021', '03', '24']",Sacramento,Atlanta,110,108
+"['2021', '03', '24']",LA Clippers,San Antonio,134,101
+"['2021', '03', '24']",Toronto,Denver,135,111
+"['2021', '03', '24']",Utah,Brooklyn,118,88
+"['2021', '03', '25']",Philadelphia,LA Lakers,109,101
+"['2021', '03', '25']",Portland,Miami,125,122
+"['2021', '03', '25']",New York,Washington,106,102
+"['2021', '03', '25']",Sacramento,Golden State,141,119
+"['2021', '03', '25']",LA Clippers,San Antonio,98,85
+"['2021', '03', '26']",Charlotte,Miami,110,105
+"['2021', '03', '26']",Indiana,Dallas,109,94
+"['2021', '03', '26']",Brooklyn,Detroit,113,111
+"['2021', '03', '26']",Atlanta,Golden State,124,108
+"['2021', '03', '26']",LA Lakers,Cleveland,100,86
+"['2021', '03', '26']",Boston,Milwaukee,122,114
+"['2021', '03', '26']",Minnesota,Houston,107,101
+"['2021', '03', '26']",Denver,New Orleans,113,108
+"['2021', '03', '26']",Portland,Orlando,112,105
+"['2021', '03', '26']",Phoenix,Toronto,104,100
+"['2021', '03', '26']",Utah,Memphis,117,114
+"['2021', '03', '27']",LA Clippers,Philadelphia,122,112
+"['2021', '03', '27']",New York,Milwaukee,102,96
+"['2021', '03', '27']",Houston,Minnesota,129,107
+"['2021', '03', '27']",New Orleans,Dallas,112,103
+"['2021', '03', '27']",Boston,Oklahoma City,111,94
+"['2021', '03', '27']",Sacramento,Cleveland,100,98
+"['2021', '03', '27']",San Antonio,Chicago,120,104
+"['2021', '03', '27']",Utah,Memphis,126,110
+"['2021', '03', '27']",Washington,Detroit,106,92
+"['2021', '03', '28']",Phoenix,Charlotte,101,97
+"['2021', '03', '28']",Denver,Atlanta,126,102
+"['2021', '03', '28']",LA Lakers,Orlando,96,93
+"['2021', '03', '28']",Portland,Toronto,122,117
+"['2021', '03', '29']",New Orleans,Boston,115,109
+"['2021', '03', '29']",Brooklyn,Minnesota,112,107
+"['2021', '03', '29']",Detroit,Toronto,118,104
+"['2021', '03', '29']",Golden State,Chicago,116,102
+"['2021', '03', '29']",Memphis,Houston,120,110
+"['2021', '03', '29']",LA Clippers,Milwaukee,129,105
+"['2021', '03', '29']",Miami,New York,98,88
+"['2021', '03', '29']",Dallas,Oklahoma City,127,106
+"['2021', '03', '29']",Sacramento,San Antonio,132,115
+"['2021', '03', '29']",Utah,Cleveland,114,75
+"['2021', '03', '29']",Washington,Indiana,132,124
+"['2021', '03', '30']",Denver,Philadelphia,104,95
+"['2021', '03', '30']",Orlando,LA Clippers,103,96
+"['2021', '03', '30']",Phoenix,Atlanta,117,110
+"['2021', '03', '30']",Charlotte,Washington,114,104
+"['2021', '03', '31']",Dallas,Boston,113,108
+"['2021', '03', '31']",Brooklyn,Houston,120,108
+"['2021', '03', '31']",Portland,Detroit,124,101
+"['2021', '03', '31']",Miami,Indiana,92,87
+"['2021', '03', '31']",Milwaukee,LA Lakers,112,97
+"['2021', '03', '31']",Utah,Memphis,111,107
+"['2021', '03', '31']",Minnesota,New York,102,101
+"['2021', '03', '31']",Oklahoma City,Toronto,113,103
+"['2021', '03', '31']",Phoenix,Chicago,121,116
+"['2021', '03', '31']",San Antonio,Sacramento,120,106
+"['2021', '04', '01']",Brooklyn,Charlotte,111,89
+"['2021', '04', '01']",Philadelphia,Cleveland,114,94
+"['2021', '04', '01']",Detroit,Washington,120,91
+"['2021', '04', '01']",Denver,LA Clippers,101,94
+"['2021', '04', '01']",Miami,Golden State,116,109
+"['2021', '04', '01']",Orlando,New Orleans,115,110
+"['2021', '04', '01']",Atlanta,San Antonio,134,129
+"['2021', '04', '02']",Boston,Houston,118,102
+"['2021', '04', '02']",Charlotte,Indiana,114,97
+"['2021', '04', '02']",Memphis,Minnesota,120,108
+"['2021', '04', '02']",Atlanta,New Orleans,126,103
+"['2021', '04', '02']",Dallas,New York,99,86
+"['2021', '04', '02']",Phoenix,Oklahoma City,140,103
+"['2021', '04', '02']",Milwaukee,Portland,127,109
+"['2021', '04', '02']",LA Lakers,Sacramento,115,94
+"['2021', '04', '02']",Toronto,Golden State,130,77
+"['2021', '04', '02']",Utah,Chicago,113,106
+"['2021', '04', '03']",New York,Detroit,125,81
+"['2021', '04', '03']",Miami,Cleveland,115,101
+"['2021', '04', '03']",Philadelphia,Minnesota,122,113
+"['2021', '04', '03']",Portland,Oklahoma City,133,85
+"['2021', '04', '03']",Milwaukee,Sacramento,129,128
+"['2021', '04', '03']",Indiana,San Antonio,139,133
+"['2021', '04', '03']",Utah,Orlando,137,91
+"['2021', '04', '03']",Dallas,Washington,109,87
+"['2021', '04', '04']",Atlanta,Golden State,117,111
+"['2021', '04', '04']",Boston,Charlotte,116,86
+"['2021', '04', '04']",Chicago,Brooklyn,115,107
+"['2021', '04', '04']",Denver,Orlando,119,109
+"['2021', '04', '04']",New Orleans,Houston,122,115
+"['2021', '04', '04']",LA Clippers,LA Lakers,104,86
+"['2021', '04', '04']",Memphis,Philadelphia,116,100
+"['2021', '04', '05']",Brooklyn,New York,114,112
+"['2021', '04', '05']",Dallas,Utah,111,103
+"['2021', '04', '05']",Phoenix,Houston,133,130
+"['2021', '04', '05']",Minnesota,Sacramento,116,106
+"['2021', '04', '05']",Detroit,Oklahoma City,132,108
+"['2021', '04', '05']",Cleveland,San Antonio,125,101
+"['2021', '04', '05']",Toronto,Washington,103,101
+"['2021', '04', '06']",Atlanta,New Orleans,123,107
+"['2021', '04', '06']",Philadelphia,Boston,106,96
+"['2021', '04', '06']",Denver,Detroit,134,119
+"['2021', '04', '06']",Golden State,Milwaukee,122,121
+"['2021', '04', '06']",Chicago,Indiana,113,97
+"['2021', '04', '06']",LA Clippers,Portland,133,116
+"['2021', '04', '06']",Memphis,Miami,124,112
+"['2021', '04', '06']",LA Lakers,Toronto,110,101
+"['2021', '04', '07']",Memphis,Atlanta,131,113
+"['2021', '04', '07']",Boston,New York,101,99
+"['2021', '04', '07']",Brooklyn,New Orleans,139,111
+"['2021', '04', '07']",Denver,San Antonio,106,96
+"['2021', '04', '07']",Houston,Dallas,102,93
+"['2021', '04', '07']",Indiana,Minnesota,141,137
+"['2021', '04', '07']",Charlotte,Oklahoma City,113,102
+"['2021', '04', '07']",Washington,Orlando,131,116
+"['2021', '04', '07']",Phoenix,Utah,117,113
+"['2021', '04', '08']",Dallas,Milwaukee,116,101
+"['2021', '04', '08']",LA Clippers,Phoenix,113,103
+"['2021', '04', '08']",Miami,LA Lakers,110,104
+"['2021', '04', '08']",Cleveland,Oklahoma City,129,102
+"['2021', '04', '08']",Detroit,Sacramento,113,101
+"['2021', '04', '08']",Chicago,Toronto,122,113
+"['2021', '04', '08']",Utah,Portland,122,103
+"['2021', '04', '09']",Atlanta,Chicago,120,108
+"['2021', '04', '09']",Boston,Minnesota,145,136
+"['2021', '04', '09']",Denver,San Antonio,121,119
+"['2021', '04', '09']",Washington,Golden State,110,107
+"['2021', '04', '09']",LA Clippers,Houston,126,109
+"['2021', '04', '09']",Charlotte,Milwaukee,127,119
+"['2021', '04', '09']",New Orleans,Philadelphia,101,94
+"['2021', '04', '09']",New York,Memphis,133,129
+"['2021', '04', '09']",Indiana,Orlando,111,106
+"['2021', '04', '10']",LA Lakers,Brooklyn,126,101
+"['2021', '04', '10']",Toronto,Cleveland,135,115
+"['2021', '04', '10']",Golden State,Houston,125,109
+"['2021', '04', '10']",Philadelphia,Oklahoma City,117,93
+"['2021', '04', '10']",Phoenix,Washington,134,106
+"['2021', '04', '10']",Portland,Detroit,118,103
+"['2021', '04', '10']",Utah,Sacramento,128,112
+"['2021', '04', '11']",Atlanta,Charlotte,105,101
+"['2021', '04', '11']",New Orleans,Cleveland,116,109
+"['2021', '04', '11']",San Antonio,Dallas,119,117
+"['2021', '04', '11']",Boston,Denver,105,87
+"['2021', '04', '11']",LA Clippers,Detroit,131,124
+"['2021', '04', '11']",Indiana,Memphis,132,125
+"['2021', '04', '11']",Minnesota,Chicago,121,117
+"['2021', '04', '11']",New York,Toronto,102,96
+"['2021', '04', '11']",Milwaukee,Orlando,124,87
+"['2021', '04', '11']",Miami,Portland,107,98
+"['2021', '04', '12']",Philadelphia,Dallas,113,95
+"['2021', '04', '12']",Golden State,Denver,116,107
+"['2021', '04', '12']",Memphis,Chicago,101,90
+"['2021', '04', '12']",New Orleans,Sacramento,117,110
+"['2021', '04', '12']",New York,LA Lakers,111,96
+"['2021', '04', '12']",San Antonio,Orlando,120,97
+"['2021', '04', '12']",Phoenix,Houston,126,120
+"['2021', '04', '12']",Washington,Utah,125,121
+"['2021', '04', '13']",LA Lakers,Charlotte,101,93
+"['2021', '04', '13']",LA Clippers,Indiana,126,115
+"['2021', '04', '13']",Brooklyn,Minnesota,127,97
+"['2021', '04', '13']",Phoenix,Miami,106,86
+"['2021', '04', '13']",Boston,Portland,116,115
+"['2021', '04', '13']",Atlanta,Toronto,108,103
+"['2021', '04', '13']",Utah,Oklahoma City,106,96
+"['2021', '04', '14']",Orlando,Chicago,115,106
+"['2021', '04', '14']",Cleveland,Charlotte,103,90
+"['2021', '04', '14']",Denver,Miami,123,106
+"['2021', '04', '14']",LA Clippers,Detroit,100,98
+"['2021', '04', '14']",Indiana,Houston,132,124
+"['2021', '04', '14']",Dallas,Memphis,114,113
+"['2021', '04', '14']",Milwaukee,Minnesota,130,105
+"['2021', '04', '14']",New York,New Orleans,116,106
+"['2021', '04', '14']",Golden State,Oklahoma City,147,109
+"['2021', '04', '14']",Philadelphia,Brooklyn,123,117
+"['2021', '04', '14']",Washington,Sacramento,123,111
+"['2021', '04', '14']",Toronto,San Antonio,117,112
+"['2021', '04', '15']",Milwaukee,Atlanta,120,109
+"['2021', '04', '15']",Golden State,Cleveland,119,101
+"['2021', '04', '15']",Boston,LA Lakers,121,113
+"['2021', '04', '15']",Phoenix,Sacramento,122,114
+"['2021', '04', '16']",Brooklyn,Charlotte,130,115
+"['2021', '04', '16']",Memphis,Chicago,126,115
+"['2021', '04', '16']",New York,Dallas,117,109
+"['2021', '04', '16']",Detroit,Oklahoma City,110,104
+"['2021', '04', '16']",Denver,Houston,128,99
+"['2021', '04', '16']",Minnesota,Miami,119,111
+"['2021', '04', '16']",Philadelphia,LA Clippers,106,103
+"['2021', '04', '16']",Portland,San Antonio,107,106
+"['2021', '04', '16']",Toronto,Orlando,113,102
+"['2021', '04', '16']",Utah,Indiana,119,111
+"['2021', '04', '16']",Washington,New Orleans,117,115
+"['2021', '04', '17']",Boston,Golden State,119,114
+"['2021', '04', '17']",Chicago,Cleveland,106,96
+"['2021', '04', '17']",LA Lakers,Utah,127,115
+"['2021', '04', '17']",Memphis,Milwaukee,128,115
+"['2021', '04', '17']",San Antonio,Phoenix,111,85
+"['2021', '04', '17']",Washington,Detroit,121,100
+"['2021', '04', '18']",Atlanta,Indiana,129,117
+"['2021', '04', '18']",Charlotte,Portland,109,101
+"['2021', '04', '18']",Sacramento,Dallas,121,107
+"['2021', '04', '18']",LA Clippers,Minnesota,124,105
+"['2021', '04', '18']",Miami,Brooklyn,109,107
+"['2021', '04', '18']",New York,New Orleans,122,112
+"['2021', '04', '18']",Houston,Orlando,114,110
+"['2021', '04', '18']",Toronto,Oklahoma City,112,106
+"['2021', '04', '19']",Chicago,Boston,102,96
+"['2021', '04', '19']",Denver,Memphis,139,137
+"['2021', '04', '19']",Detroit,Cleveland,109,105
+"['2021', '04', '19']",San Antonio,Indiana,109,94
+"['2021', '04', '19']",Utah,LA Lakers,111,97
+"['2021', '04', '19']",Miami,Houston,113,91
+"['2021', '04', '19']",Phoenix,Milwaukee,128,127
+"['2021', '04', '19']",Golden State,Philadelphia,107,96
+"['2021', '04', '19']",Washington,Oklahoma City,119,107
+"['2021', '04', '20']",Atlanta,Orlando,112,96
+"['2021', '04', '20']",Brooklyn,New Orleans,134,129
+"['2021', '04', '20']",New York,Charlotte,109,97
+"['2021', '04', '20']",LA Clippers,Portland,113,112
+"['2021', '04', '20']",Minnesota,Sacramento,134,120
+"['2021', '04', '21']",Cleveland,Chicago,121,105
+"['2021', '04', '21']",Dallas,Detroit,127,117
+"['2021', '04', '21']",Utah,Houston,112,89
+"['2021', '04', '21']",Indiana,Oklahoma City,122,116
+"['2021', '04', '21']",LA Clippers,Memphis,117,105
+"['2021', '04', '21']",New York,Atlanta,137,127
+"['2021', '04', '21']",Phoenix,Philadelphia,116,113
+"['2021', '04', '21']",Denver,Portland,106,105
+"['2021', '04', '21']",Sacramento,Minnesota,128,125
+"['2021', '04', '21']",Miami,San Antonio,107,87
+"['2021', '04', '21']",Toronto,Brooklyn,114,103
+"['2021', '04', '21']",Washington,Golden State,118,114
+"['2021', '04', '22']",Boston,Phoenix,99,86
+"['2021', '04', '22']",Chicago,Charlotte,108,91
+"['2021', '04', '22']",Dallas,LA Lakers,115,110
+"['2021', '04', '22']",Milwaukee,Philadelphia,124,117
+"['2021', '04', '22']",New Orleans,Orlando,135,100
+"['2021', '04', '22']",San Antonio,Detroit,106,91
+"['2021', '04', '23']",Atlanta,Miami,118,103
+"['2021', '04', '23']",Brooklyn,Boston,109,104
+"['2021', '04', '23']",Charlotte,Cleveland,108,102
+"['2021', '04', '23']",Golden State,Denver,118,97
+"['2021', '04', '23']",LA Clippers,Houston,109,104
+"['2021', '04', '23']",Washington,Oklahoma City,129,109
+"['2021', '04', '23']",Memphis,Portland,130,128
+"['2021', '04', '24']",Dallas,LA Lakers,108,93
+"['2021', '04', '24']",Denver,Houston,129,116
+"['2021', '04', '24']",Indiana,Detroit,115,109
+"['2021', '04', '24']",Miami,Chicago,106,101
+"['2021', '04', '24']",Milwaukee,Philadelphia,132,94
+"['2021', '04', '24']",San Antonio,New Orleans,110,108
+"['2021', '04', '24']",New York,Toronto,120,103
+"['2021', '04', '24']",Minnesota,Utah,101,96
+"['2021', '04', '25']",Atlanta,Milwaukee,111,104
+"['2021', '04', '25']",Brooklyn,Phoenix,128,119
+"['2021', '04', '25']",Charlotte,Boston,125,104
+"['2021', '04', '25']",Golden State,Sacramento,117,113
+"['2021', '04', '25']",Indiana,Orlando,131,112
+"['2021', '04', '25']",Memphis,Portland,120,113
+"['2021', '04', '25']",Washington,Cleveland,119,110
+"['2021', '04', '26']",Denver,Memphis,120,96
+"['2021', '04', '26']",Detroit,Atlanta,100,86
+"['2021', '04', '26']",Chicago,Miami,110,102
+"['2021', '04', '26']",Minnesota,Utah,105,104
+"['2021', '04', '26']",New Orleans,LA Clippers,120,103
+"['2021', '04', '26']",Phoenix,New York,118,110
+"['2021', '04', '26']",LA Lakers,Orlando,114,103
+"['2021', '04', '26']",Philadelphia,Oklahoma City,121,90
+"['2021', '04', '26']",Sacramento,Dallas,113,106
+"['2021', '04', '26']",Toronto,Cleveland,112,96
+"['2021', '04', '26']",San Antonio,Washington,146,143
+"['2021', '04', '27']",Oklahoma City,Boston,119,115
+"['2021', '04', '27']",Milwaukee,Charlotte,114,104
+"['2021', '04', '27']",Dallas,Golden State,133,103
+"['2021', '04', '27']",Minnesota,Houston,114,107
+"['2021', '04', '27']",Portland,Indiana,133,112
+"['2021', '04', '27']",Brooklyn,Toronto,116,103
+"['2021', '04', '28']",Boston,Charlotte,120,111
+"['2021', '04', '28']",Orlando,Cleveland,109,104
+"['2021', '04', '28']",Denver,New Orleans,114,112
+"['2021', '04', '28']",Portland,Memphis,130,109
+"['2021', '04', '28']",Miami,San Antonio,116,111
+"['2021', '04', '28']",New York,Chicago,113,94
+"['2021', '04', '28']",Philadelphia,Atlanta,127,83
+"['2021', '04', '28']",Phoenix,LA Clippers,109,101
+"['2021', '04', '28']",Utah,Sacramento,154,105
+"['2021', '04', '28']",Washington,LA Lakers,116,107
+"['2021', '04', '29']",Denver,Toronto,121,111
+"['2021', '04', '29']",Dallas,Detroit,115,105
+"['2021', '04', '29']",Houston,Milwaukee,143,136
+"['2021', '04', '29']",Brooklyn,Indiana,130,113
+"['2021', '04', '29']",Minnesota,Golden State,126,114
+"['2021', '04', '29']",New Orleans,Oklahoma City,109,95
+"['2021', '04', '30']",Boston,San Antonio,143,140
+"['2021', '04', '30']",Portland,Brooklyn,128,109
+"['2021', '04', '30']",Milwaukee,Chicago,108,98
+"['2021', '04', '30']",Washington,Cleveland,122,93
+"['2021', '04', '30']",Sacramento,LA Lakers,110,106
+"['2021', '04', '30']",Memphis,Orlando,92,75
+"['2021', '04', '30']",Philadelphia,Atlanta,126,104
+"['2021', '04', '30']",Phoenix,Utah,121,100
+"['2021', '05', '01']",Atlanta,Chicago,108,97
+"['2021', '05', '01']",Charlotte,Detroit,107,94
+"['2021', '05', '01']",Miami,Cleveland,124,107
+"['2021', '05', '01']",Dallas,Washington,125,124
+"['2021', '05', '01']",Golden State,Houston,113,87
+"['2021', '05', '01']",Denver,LA Clippers,110,104
+"['2021', '05', '01']",New Orleans,Minnesota,140,136
+"['2021', '05', '01']",Indiana,Oklahoma City,152,95
+"['2021', '05', '01']",Orlando,Memphis,112,111
+"['2021', '05', '01']",Utah,Toronto,106,102
+"['2021', '05', '02']",Portland,Boston,129,119
+"['2021', '05', '02']",Miami,Charlotte,121,111
+"['2021', '05', '02']",Sacramento,Dallas,111,99
+"['2021', '05', '02']",New York,Houston,122,97
+"['2021', '05', '02']",Toronto,LA Lakers,121,114
+"['2021', '05', '02']",Milwaukee,Brooklyn,117,114
+"['2021', '05', '02']",Phoenix,Oklahoma City,123,120
+"['2021', '05', '02']",Philadelphia,San Antonio,113,111
+"['2021', '05', '03']",Atlanta,Portland,123,114
+"['2021', '05', '03']",Philadelphia,Chicago,106,94
+"['2021', '05', '03']",Orlando,Detroit,119,112
+"['2021', '05', '03']",LA Lakers,Denver,93,89
+"['2021', '05', '03']",New York,Memphis,118,104
+"['2021', '05', '03']",Golden State,New Orleans,123,108
+"['2021', '05', '03']",Utah,San Antonio,110,99
+"['2021', '05', '03']",Washington,Indiana,154,141
+"['2021', '05', '04']",Phoenix,Cleveland,134,118
+"['2021', '05', '04']",Charlotte,Detroit,102,99
+"['2021', '05', '04']",LA Clippers,Toronto,105,100
+"['2021', '05', '04']",Dallas,Miami,127,113
+"['2021', '05', '04']",Milwaukee,Brooklyn,124,118
+"['2021', '05', '04']",New Orleans,Golden State,108,103
+"['2021', '05', '04']",Sacramento,Oklahoma City,103,99
+"['2021', '05', '05']",Atlanta,Phoenix,135,103
+"['2021', '05', '05']",Portland,Cleveland,141,105
+"['2021', '05', '05']",Denver,New York,113,97
+"['2021', '05', '05']",Philadelphia,Houston,135,115
+"['2021', '05', '05']",Sacramento,Indiana,104,93
+"['2021', '05', '05']",Milwaukee,Washington,135,134
+"['2021', '05', '05']",Memphis,Minnesota,139,135
+"['2021', '05', '05']",Boston,Orlando,132,96
+"['2021', '05', '05']",Utah,San Antonio,126,94
+"['2021', '05', '06']",Chicago,Charlotte,120,99
+"['2021', '05', '06']",Dallas,Brooklyn,113,109
+"['2021', '05', '06']",Detroit,Memphis,111,97
+"['2021', '05', '06']",Golden State,Oklahoma City,118,97
+"['2021', '05', '06']",Indiana,Atlanta,133,126
+"['2021', '05', '06']",LA Clippers,LA Lakers,118,94
+"['2021', '05', '06']",Washington,Toronto,131,129
+"['2021', '05', '07']",Chicago,Boston,121,99
+"['2021', '05', '07']",Charlotte,Orlando,122,112
+"['2021', '05', '07']",Dallas,Cleveland,110,90
+"['2021', '05', '07']",Miami,Minnesota,121,112
+"['2021', '05', '07']",Milwaukee,Houston,141,133
+"['2021', '05', '07']",Philadelphia,New Orleans,109,107
+"['2021', '05', '07']",Phoenix,New York,128,105
+"['2021', '05', '07']",Portland,LA Lakers,106,101
+"['2021', '05', '07']",San Antonio,Sacramento,113,104
+"['2021', '05', '07']",Utah,Denver,127,120
+"['2021', '05', '08']",Brooklyn,Denver,125,119
+"['2021', '05', '08']",Golden State,Oklahoma City,136,97
+"['2021', '05', '08']",Washington,Indiana,133,132
+"['2021', '05', '08']",Philadelphia,Detroit,118,104
+"['2021', '05', '08']",Portland,San Antonio,124,102
+"['2021', '05', '08']",Memphis,Toronto,109,99
+"['2021', '05', '08']",Utah,Houston,124,116
+"['2021', '05', '09']",Miami,Boston,130,124
+"['2021', '05', '09']",New Orleans,Charlotte,112,110
+"['2021', '05', '09']",Dallas,Cleveland,124,97
+"['2021', '05', '09']",Chicago,Detroit,108,96
+"['2021', '05', '09']",New York,LA Clippers,106,100
+"['2021', '05', '09']",LA Lakers,Phoenix,123,110
+"['2021', '05', '09']",Minnesota,Orlando,128,96
+"['2021', '05', '09']",Sacramento,Oklahoma City,126,98
+"['2021', '05', '10']",Atlanta,Washington,125,124
+"['2021', '05', '10']",Indiana,Cleveland,111,102
+"['2021', '05', '10']",Golden State,Utah,119,116
+"['2021', '05', '10']",Memphis,New Orleans,115,110
+"['2021', '05', '10']",Portland,Houston,140,129
+"['2021', '05', '10']",San Antonio,Milwaukee,146,125
+"['2021', '05', '11']",Miami,Boston,129,121
+"['2021', '05', '11']",Brooklyn,Chicago,115,107
+"['2021', '05', '11']",Denver,Charlotte,117,112
+"['2021', '05', '11']",Minnesota,Detroit,119,100
+"['2021', '05', '11']",Golden State,Phoenix,122,116
+"['2021', '05', '11']",Indiana,Philadelphia,103,94
+"['2021', '05', '11']",LA Lakers,New York,101,99
+"['2021', '05', '11']",Memphis,Dallas,133,104
+"['2021', '05', '11']",Milwaukee,Orlando,114,102
+"['2021', '05', '11']",Sacramento,Oklahoma City,122,106
+"['2021', '05', '11']",LA Clippers,Toronto,115,96
+"['2021', '05', '12']",Atlanta,Washington,120,116
+"['2021', '05', '12']",Brooklyn,San Antonio,128,116
+"['2021', '05', '12']",Cleveland,Boston,102,94
+"['2021', '05', '12']",Dallas,New Orleans,125,107
+"['2021', '05', '12']",LA Lakers,Houston,124,122
+"['2021', '05', '12']",Portland,Utah,105,98
+"['2021', '05', '13']",Atlanta,Orlando,116,93
+"['2021', '05', '13']",Chicago,Toronto,114,102
+"['2021', '05', '13']",LA Clippers,Charlotte,113,90
+"['2021', '05', '13']",Milwaukee,Indiana,142,133
+"['2021', '05', '13']",Memphis,Sacramento,116,110
+"['2021', '05', '13']",Miami,Philadelphia,106,94
+"['2021', '05', '13']",Denver,Minnesota,114,103
+"['2021', '05', '13']",New York,San Antonio,102,98
+"['2021', '05', '13']",Phoenix,Portland,118,117
+"['2021', '05', '14']",Dallas,Toronto,114,110
+"['2021', '05', '14']",Denver,Detroit,104,91
+"['2021', '05', '14']",Golden State,New Orleans,125,122
+"['2021', '05', '14']",Houston,LA Clippers,122,115
+"['2021', '05', '14']",Memphis,Sacramento,107,106
+"['2021', '05', '14']",Utah,Oklahoma City,109,93
+"['2021', '05', '14']",Philadelphia,Orlando,122,97
+"['2021', '05', '14']",Washington,Cleveland,120,105
+"['2021', '05', '15']",Brooklyn,Chicago,105,91
+"['2021', '05', '15']",LA Lakers,Indiana,122,115
+"['2021', '05', '15']",Milwaukee,Miami,122,108
+"['2021', '05', '15']",Boston,Minnesota,124,108
+"['2021', '05', '15']",New York,Charlotte,118,109
+"['2021', '05', '15']",Phoenix,San Antonio,140,103
+"['2021', '05', '16']",Atlanta,Houston,124,95
+"['2021', '05', '16']",Brooklyn,Cleveland,123,109
+"['2021', '05', '16']",Chicago,Milwaukee,118,112
+"['2021', '05', '16']",Miami,Detroit,120,107
+"['2021', '05', '16']",Golden State,Memphis,113,101
+"['2021', '05', '16']",Minnesota,Dallas,136,121
+"['2021', '05', '16']",LA Lakers,New Orleans,110,98
+"['2021', '05', '16']",New York,Boston,96,92
+"['2021', '05', '16']",Oklahoma City,LA Clippers,117,112
+"['2021', '05', '16']",Philadelphia,Orlando,128,117
+"['2021', '05', '16']",Portland,Denver,132,116
+"['2021', '05', '16']",Utah,Sacramento,121,99
+"['2021', '05', '16']",Phoenix,San Antonio,123,121
+"['2021', '05', '16']",Indiana,Toronto,125,113
+"['2021', '05', '16']",Washington,Charlotte,115,110
+"['2021', '05', '18']",Boston,Washington,118,100
+"['2021', '05', '18']",Indiana,Charlotte,144,117
+"['2021', '05', '19']",LA Lakers,Golden State,103,100
+"['2021', '05', '19']",Memphis,San Antonio,100,96
+"['2021', '05', '20']",Washington,Indiana,142,115
+"['2021', '05', '21']",Memphis,Golden State,117,112
+"['2021', '05', '22']",Brooklyn,Boston,104,93
+"['2021', '05', '22']",Portland,Denver,123,109
+"['2021', '05', '22']",Dallas,LA Clippers,113,103
+"['2021', '05', '22']",Milwaukee,Miami,109,107
+"['2021', '05', '23']",Atlanta,New York,107,105
+"['2021', '05', '23']",Philadelphia,Washington,125,118
+"['2021', '05', '23']",Phoenix,LA Lakers,99,90
+"['2021', '05', '23']",Memphis,Utah,112,109
+"['2021', '05', '24']",Denver,Portland,128,109
+"['2021', '05', '24']",Milwaukee,Miami,132,98
+"['2021', '05', '25']",Brooklyn,Boston,130,108
+"['2021', '05', '25']",Dallas,LA Clippers,127,121
+"['2021', '05', '25']",LA Lakers,Phoenix,109,102
+"['2021', '05', '26']",New York,Atlanta,101,92
+"['2021', '05', '26']",Philadelphia,Washington,120,95
+"['2021', '05', '26']",Utah,Memphis,141,129
+"['2021', '05', '27']",LA Lakers,Phoenix,109,95
+"['2021', '05', '27']",Milwaukee,Miami,113,84
+"['2021', '05', '27']",Denver,Portland,120,115
+"['2021', '05', '28']",Atlanta,New York,105,94
+"['2021', '05', '28']",Boston,Brooklyn,125,119
+"['2021', '05', '28']",LA Clippers,Dallas,118,108
+"['2021', '05', '29']",Utah,Memphis,121,111
+"['2021', '05', '29']",Milwaukee,Miami,120,103
+"['2021', '05', '29']",Portland,Denver,115,95
+"['2021', '05', '29']",Philadelphia,Washington,132,103
+"['2021', '05', '30']",Atlanta,New York,113,96
+"['2021', '05', '30']",Brooklyn,Boston,141,126
+"['2021', '05', '30']",LA Clippers,Dallas,106,81
+"['2021', '05', '30']",Phoenix,LA Lakers,100,92
+"['2021', '05', '31']",Utah,Memphis,120,113
+"['2021', '05', '31']",Washington,Philadelphia,122,114
+"['2021', '06', '01']",Brooklyn,Boston,123,109
+"['2021', '06', '01']",Denver,Portland,147,140
+"['2021', '06', '01']",Phoenix,LA Lakers,115,85
+"['2021', '06', '02']",Dallas,LA Clippers,105,100
+"['2021', '06', '02']",Atlanta,New York,103,89
+"['2021', '06', '02']",Philadelphia,Washington,129,112
+"['2021', '06', '02']",Utah,Memphis,126,110
+"['2021', '06', '03']",Phoenix,LA Lakers,113,100
+"['2021', '06', '03']",Denver,Portland,126,115
+"['2021', '06', '04']",LA Clippers,Dallas,104,97
+"['2021', '06', '05']",Brooklyn,Milwaukee,115,107
+"['2021', '06', '06']",LA Clippers,Dallas,126,111
+"['2021', '06', '06']",Atlanta,Philadelphia,128,124
+"['2021', '06', '07']",Brooklyn,Milwaukee,125,86
+"['2021', '06', '07']",Phoenix,Denver,122,105
+"['2021', '06', '08']",Philadelphia,Atlanta,118,102
+"['2021', '06', '08']",Utah,LA Clippers,112,109
+"['2021', '06', '09']",Phoenix,Denver,123,98
+"['2021', '06', '10']",Milwaukee,Brooklyn,86,83
+"['2021', '06', '10']",Utah,LA Clippers,117,111
+"['2021', '06', '11']",Philadelphia,Atlanta,127,111
+"['2021', '06', '11']",Phoenix,Denver,116,102
+"['2021', '06', '12']",LA Clippers,Utah,132,106
+"['2021', '06', '13']",Phoenix,Denver,125,118
+"['2021', '06', '13']",Milwaukee,Brooklyn,107,96
+"['2021', '06', '14']",Atlanta,Philadelphia,103,100
+"['2021', '06', '14']",LA Clippers,Utah,118,104
+"['2021', '06', '15']",Brooklyn,Milwaukee,114,108
+"['2021', '06', '16']",Atlanta,Philadelphia,109,106
+"['2021', '06', '16']",LA Clippers,Utah,119,111
+"['2021', '06', '17']",Milwaukee,Brooklyn,104,89
+"['2021', '06', '18']",Philadelphia,Atlanta,104,99
+"['2021', '06', '18']",LA Clippers,Utah,131,119
+"['2021', '06', '19']",Milwaukee,Brooklyn,115,111
+"['2021', '06', '20']",Atlanta,Philadelphia,103,96
+"['2021', '06', '20']",Phoenix,LA Clippers,120,114
+"['2021', '06', '22']",Phoenix,LA Clippers,104,103
+"['2021', '06', '23']",Atlanta,Milwaukee,116,113
+"['2021', '06', '24']",LA Clippers,Phoenix,106,92
+"['2021', '06', '25']",Milwaukee,Atlanta,125,91
+"['2021', '06', '26']",Phoenix,LA Clippers,84,80
+"['2021', '06', '27']",Milwaukee,Atlanta,113,102
+"['2021', '06', '28']",LA Clippers,Phoenix,116,102
+"['2021', '06', '29']",Atlanta,Milwaukee,110,88
+"['2021', '06', '30']",Phoenix,LA Clippers,130,103
+"['2021', '07', '01']",Milwaukee,Atlanta,123,112
+"['2021', '07', '03']",Milwaukee,Atlanta,118,107
+"['2021', '07', '06']",Phoenix,Milwaukee,118,105
+"['2021', '07', '08']",Phoenix,Milwaukee,118,108
+"['2021', '07', '11']",Milwaukee,Phoenix,120,100
+"['2021', '07', '14']",Milwaukee,Phoenix,109,103
+"['2021', '07', '17']",Milwaukee,Phoenix,123,119
+"['2021', '07', '20']",Milwaukee,Phoenix,105,98
+"['2021', '10', '19']",Golden State,LA Lakers,121,114
+"['2021', '10', '19']",Milwaukee,Brooklyn,127,104
+"['2021', '10', '20']",Charlotte,Indiana,123,122
+"['2021', '10', '20']",Chicago,Detroit,94,88
+"['2021', '10', '20']",Memphis,Cleveland,132,121
+"['2021', '10', '20']",Minnesota,Houston,124,106
+"['2021', '10', '20']",Philadelphia,New Orleans,117,97
+"['2021', '10', '20']",New York,Boston,138,134
+"['2021', '10', '20']",Denver,Phoenix,110,98
+"['2021', '10', '20']",Sacramento,Portland,124,121
+"['2021', '10', '20']",San Antonio,Orlando,123,97
+"['2021', '10', '20']",Washington,Toronto,98,83
+"['2021', '10', '20']",Utah,Oklahoma City,107,86
+"['2021', '10', '21']",Atlanta,Dallas,113,87
+"['2021', '10', '21']",Golden State,LA Clippers,115,113
+"['2021', '10', '21']",Miami,Milwaukee,137,95
+"['2021', '10', '22']",Toronto,Boston,115,83
+"['2021', '10', '22']",Chicago,New Orleans,128,112
+"['2021', '10', '22']",Charlotte,Cleveland,123,112
+"['2021', '10', '22']",Denver,San Antonio,102,96
+"['2021', '10', '22']",Houston,Oklahoma City,124,91
+"['2021', '10', '22']",Phoenix,LA Lakers,115,105
+"['2021', '10', '22']",New York,Orlando,121,96
+"['2021', '10', '22']",Brooklyn,Philadelphia,114,109
+"['2021', '10', '22']",Utah,Sacramento,110,101
+"['2021', '10', '22']",Washington,Indiana,135,134
+"['2021', '10', '23']",Chicago,Detroit,97,82
+"['2021', '10', '23']",Cleveland,Atlanta,101,95
+"['2021', '10', '23']",Indiana,Miami,102,91
+"['2021', '10', '23']",Memphis,LA Clippers,120,114
+"['2021', '10', '23']",Minnesota,New Orleans,96,89
+"['2021', '10', '23']",Portland,Phoenix,134,105
+"['2021', '10', '23']",Milwaukee,San Antonio,121,111
+"['2021', '10', '23']",Dallas,Toronto,103,95
+"['2021', '10', '24']",Charlotte,Brooklyn,111,95
+"['2021', '10', '24']",Boston,Houston,107,97
+"['2021', '10', '24']",LA Lakers,Memphis,121,118
+"['2021', '10', '24']",Orlando,New York,110,104
+"['2021', '10', '24']",Philadelphia,Oklahoma City,115,103
+"['2021', '10', '24']",Golden State,Sacramento,119,107
+"['2021', '10', '25']",Atlanta,Detroit,122,104
+"['2021', '10', '25']",Brooklyn,Washington,104,90
+"['2021', '10', '25']",Boston,Charlotte,140,129
+"['2021', '10', '25']",Cleveland,Denver,99,87
+"['2021', '10', '25']",Milwaukee,Indiana,119,109
+"['2021', '10', '25']",LA Clippers,Portland,116,86
+"['2021', '10', '25']",Miami,Orlando,107,90
+"['2021', '10', '25']",New Orleans,Minnesota,107,98
+"['2021', '10', '25']",Chicago,Toronto,111,108
+"['2021', '10', '26']",Dallas,Houston,116,106
+"['2021', '10', '26']",New York,Philadelphia,112,99
+"['2021', '10', '26']",Golden State,Oklahoma City,106,98
+"['2021', '10', '26']",LA Lakers,San Antonio,125,121
+"['2021', '10', '26']",Utah,Denver,122,110
+"['2021', '10', '27']",Washington,Boston,116,107
+"['2021', '10', '27']",Miami,Brooklyn,106,93
+"['2021', '10', '27']",Cleveland,LA Clippers,92,79
+"['2021', '10', '27']",Minnesota,Milwaukee,113,108
+"['2021', '10', '27']",Atlanta,New Orleans,102,99
+"['2021', '10', '27']",Oklahoma City,LA Lakers,123,115
+"['2021', '10', '27']",Charlotte,Orlando,120,111
+"['2021', '10', '27']",Sacramento,Phoenix,110,107
+"['2021', '10', '27']",Portland,Memphis,116,96
+"['2021', '10', '27']",Toronto,Indiana,118,100
+"['2021', '10', '28']",New York,Chicago,104,103
+"['2021', '10', '28']",Dallas,San Antonio,104,99
+"['2021', '10', '28']",Memphis,Golden State,104,101
+"['2021', '10', '28']",Utah,Houston,122,91
+"['2021', '10', '28']",Philadelphia,Detroit,110,102
+"['2021', '10', '28']",Washington,Atlanta,122,111
+"['2021', '10', '29']",Brooklyn,Indiana,105,98
+"['2021', '10', '29']",Denver,Dallas,106,75
+"['2021', '10', '29']",LA Lakers,Cleveland,113,101
+"['2021', '10', '29']",Miami,Charlotte,114,99
+"['2021', '10', '29']",Sacramento,New Orleans,113,109
+"['2021', '10', '29']",Portland,LA Clippers,111,92
+"['2021', '10', '29']",Toronto,Orlando,110,109
+"['2021', '10', '30']",Chicago,Utah,107,99
+"['2021', '10', '30']",Detroit,Orlando,110,103
+"['2021', '10', '30']",Golden State,Oklahoma City,103,82
+"['2021', '10', '30']",Toronto,Indiana,97,94
+"['2021', '10', '30']",Miami,Memphis,129,103
+"['2021', '10', '30']",San Antonio,Milwaukee,102,93
+"['2021', '10', '30']",Denver,Minnesota,93,91
+"['2021', '10', '30']",New York,New Orleans,123,117
+"['2021', '10', '30']",Philadelphia,Atlanta,122,94
+"['2021', '10', '30']",Phoenix,Cleveland,101,92
+"['2021', '10', '30']",Washington,Boston,115,112
+"['2021', '10', '31']",Brooklyn,Detroit,117,91
+"['2021', '10', '31']",Charlotte,Portland,125,113
+"['2021', '10', '31']",Dallas,Sacramento,105,99
+"['2021', '10', '31']",LA Lakers,Houston,95,85
+"['2021', '10', '31']",Utah,Milwaukee,107,95
+"['2021', '11', '01']",Atlanta,Washington,118,111
+"['2021', '11', '01']",Chicago,Boston,128,114
+"['2021', '11', '01']",Cleveland,Charlotte,113,110
+"['2021', '11', '01']",Indiana,San Antonio,131,118
+"['2021', '11', '01']",LA Clippers,Oklahoma City,99,94
+"['2021', '11', '01']",Memphis,Denver,106,97
+"['2021', '11', '01']",Orlando,Minnesota,115,97
+"['2021', '11', '01']",Toronto,New York,113,104
+"['2021', '11', '01']",Philadelphia,Portland,113,103
+"['2021', '11', '02']",Miami,Dallas,125,110
+"['2021', '11', '02']",Milwaukee,Detroit,117,89
+"['2021', '11', '02']",LA Lakers,Houston,119,117
+"['2021', '11', '02']",Phoenix,New Orleans,112,100
+"['2021', '11', '02']",Utah,Sacramento,119,113
+"['2021', '11', '03']",Brooklyn,Atlanta,117,108
+"['2021', '11', '03']",Cleveland,Portland,107,104
+"['2021', '11', '03']",Golden State,Charlotte,114,92
+"['2021', '11', '03']",Indiana,New York,111,98
+"['2021', '11', '03']",Memphis,Denver,108,106
+"['2021', '11', '03']",LA Clippers,Minnesota,126,115
+"['2021', '11', '03']",Boston,Orlando,92,79
+"['2021', '11', '03']",Philadelphia,Chicago,103,98
+"['2021', '11', '03']",Sacramento,New Orleans,112,99
+"['2021', '11', '03']",Dallas,San Antonio,109,108
+"['2021', '11', '03']",Toronto,Washington,109,100
+"['2021', '11', '04']",Utah,Atlanta,116,98
+"['2021', '11', '04']",Philadelphia,Detroit,109,98
+"['2021', '11', '04']",Oklahoma City,LA Lakers,107,104
+"['2021', '11', '04']",Boston,Miami,95,78
+"['2021', '11', '04']",Phoenix,Houston,123,111
+"['2021', '11', '05']",Brooklyn,Detroit,96,90
+"['2021', '11', '05']",Golden State,New Orleans,126,85
+"['2021', '11', '05']",New York,Milwaukee,113,98
+"['2021', '11', '05']",LA Clippers,Minnesota,104,84
+"['2021', '11', '05']",San Antonio,Orlando,102,89
+"['2021', '11', '05']",Portland,Indiana,110,106
+"['2021', '11', '05']",Sacramento,Charlotte,140,110
+"['2021', '11', '05']",Cleveland,Toronto,102,101
+"['2021', '11', '05']",Washington,Memphis,115,87
+"['2021', '11', '06']",Philadelphia,Chicago,114,105
+"['2021', '11', '06']",Dallas,Boston,107,104
+"['2021', '11', '06']",Denver,Houston,95,94
+"['2021', '11', '06']",Miami,Utah,118,115
+"['2021', '11', '06']",Phoenix,Atlanta,121,117
+"['2021', '11', '06']",Portland,LA Lakers,105,90
+"['2021', '11', '07']",Golden State,Houston,120,107
+"['2021', '11', '07']",LA Clippers,Charlotte,120,106
+"['2021', '11', '07']",Cleveland,New York,126,109
+"['2021', '11', '07']",Oklahoma City,San Antonio,99,94
+"['2021', '11', '07']",Orlando,Utah,107,100
+"['2021', '11', '07']",Indiana,Sacramento,94,91
+"['2021', '11', '07']",Brooklyn,Toronto,116,103
+"['2021', '11', '07']",Washington,Milwaukee,101,94
+"['2021', '11', '08']",Chicago,Brooklyn,118,95
+"['2021', '11', '08']",Dallas,New Orleans,108,92
+"['2021', '11', '08']",Denver,Miami,113,96
+"['2021', '11', '08']",Golden State,Atlanta,127,113
+"['2021', '11', '08']",LA Lakers,Charlotte,126,123
+"['2021', '11', '08']",Memphis,Minnesota,125,118
+"['2021', '11', '08']",New York,Philadelphia,103,96
+"['2021', '11', '08']",Phoenix,Sacramento,109,104
+"['2021', '11', '09']",LA Clippers,Portland,117,109
+"['2021', '11', '09']",Milwaukee,Philadelphia,118,109
+"['2021', '11', '09']",Utah,Atlanta,110,98
+"['2021', '11', '10']",Boston,Toronto,104,88
+"['2021', '11', '10']",Chicago,Dallas,117,107
+"['2021', '11', '10']",Washington,Cleveland,97,94
+"['2021', '11', '10']",Denver,Indiana,101,98
+"['2021', '11', '10']",Golden State,Minnesota,123,110
+"['2021', '11', '10']",Detroit,Houston,112,104
+"['2021', '11', '10']",LA Lakers,Miami,120,117
+"['2021', '11', '10']",Charlotte,Memphis,118,108
+"['2021', '11', '10']",Oklahoma City,New Orleans,108,100
+"['2021', '11', '10']",Milwaukee,New York,112,100
+"['2021', '11', '10']",Brooklyn,Orlando,123,90
+"['2021', '11', '10']",Phoenix,Portland,119,109
+"['2021', '11', '10']",San Antonio,Sacramento,136,117
+"['2021', '11', '11']",LA Clippers,Miami,112,109
+"['2021', '11', '11']",Toronto,Philadelphia,115,109
+"['2021', '11', '11']",Indiana,Utah,111,100
+"['2021', '11', '12']",Boston,Milwaukee,122,113
+"['2021', '11', '12']",Charlotte,New York,104,96
+"['2021', '11', '12']",Cleveland,Detroit,98,78
+"['2021', '11', '12']",Denver,Atlanta,105,96
+"['2021', '11', '12']",Golden State,Chicago,119,93
+"['2021', '11', '12']",Portland,Houston,104,92
+"['2021', '11', '12']",Minnesota,LA Lakers,107,83
+"['2021', '11', '12']",Phoenix,Memphis,119,94
+"['2021', '11', '12']",Brooklyn,New Orleans,120,112
+"['2021', '11', '12']",Oklahoma City,Sacramento,105,103
+"['2021', '11', '12']",Dallas,San Antonio,123,109
+"['2021', '11', '13']",Cleveland,Boston,91,89
+"['2021', '11', '13']",Indiana,Philadelphia,118,113
+"['2021', '11', '13']",LA Clippers,Minnesota,129,102
+"['2021', '11', '13']",New Orleans,Memphis,112,101
+"['2021', '11', '13']",Washington,Orlando,104,92
+"['2021', '11', '13']",Detroit,Toronto,127,121
+"['2021', '11', '13']",Miami,Utah,111,105
+"['2021', '11', '14']",Atlanta,Milwaukee,120,100
+"['2021', '11', '14']",Charlotte,Golden State,106,102
+"['2021', '11', '14']",Denver,Portland,124,95
+"['2021', '11', '14']",Phoenix,Houston,115,89
+"['2021', '11', '14']",Chicago,LA Clippers,100,90
+"['2021', '11', '14']",LA Lakers,San Antonio,114,106
+"['2021', '11', '14']",Brooklyn,Oklahoma City,120,96
+"['2021', '11', '15']",Atlanta,Orlando,129,111
+"['2021', '11', '15']",Boston,Cleveland,98,92
+"['2021', '11', '15']",Dallas,Denver,111,101
+"['2021', '11', '15']",Sacramento,Detroit,129,107
+"['2021', '11', '15']",Chicago,LA Lakers,121,103
+"['2021', '11', '15']",Memphis,Houston,136,102
+"['2021', '11', '15']",Phoenix,Minnesota,99,96
+"['2021', '11', '15']",New York,Indiana,92,84
+"['2021', '11', '15']",Miami,Oklahoma City,103,90
+"['2021', '11', '15']",Portland,Toronto,118,113
+"['2021', '11', '15']",Washington,New Orleans,105,100
+"['2021', '11', '16']",Golden State,Brooklyn,117,99
+"['2021', '11', '16']",LA Clippers,San Antonio,106,92
+"['2021', '11', '16']",Utah,Philadelphia,120,85
+"['2021', '11', '17']",Atlanta,Boston,110,99
+"['2021', '11', '17']",Brooklyn,Cleveland,109,99
+"['2021', '11', '17']",Charlotte,Washington,97,87
+"['2021', '11', '17']",Detroit,Indiana,97,89
+"['2021', '11', '17']",Miami,New Orleans,113,98
+"['2021', '11', '17']",Milwaukee,LA Lakers,109,102
+"['2021', '11', '17']",Minnesota,Sacramento,107,97
+"['2021', '11', '17']",Orlando,New York,104,98
+"['2021', '11', '17']",Oklahoma City,Houston,101,89
+"['2021', '11', '17']",Phoenix,Dallas,105,98
+"['2021', '11', '17']",Portland,Chicago,112,107
+"['2021', '11', '18']",Golden State,Cleveland,104,89
+"['2021', '11', '18']",Philadelphia,Denver,103,89
+"['2021', '11', '18']",Memphis,LA Clippers,120,108
+"['2021', '11', '18']",Miami,Washington,112,97
+"['2021', '11', '18']",Minnesota,San Antonio,115,90
+"['2021', '11', '18']",Utah,Toronto,119,103
+"['2021', '11', '19']",Boston,LA Lakers,130,108
+"['2021', '11', '19']",Brooklyn,Orlando,115,113
+"['2021', '11', '19']",Charlotte,Indiana,121,118
+"['2021', '11', '19']",Chicago,Denver,114,108
+"['2021', '11', '19']",Golden State,Detroit,105,102
+"['2021', '11', '19']",Milwaukee,Oklahoma City,96,89
+"['2021', '11', '19']",New Orleans,LA Clippers,94,81
+"['2021', '11', '19']",Phoenix,Dallas,112,104
+"['2021', '11', '19']",Toronto,Sacramento,108,89
+"['2021', '11', '20']",Atlanta,Charlotte,115,105
+"['2021', '11', '20']",Boston,Oklahoma City,111,105
+"['2021', '11', '20']",Indiana,New Orleans,111,94
+"['2021', '11', '20']",Milwaukee,Orlando,117,108
+"['2021', '11', '20']",Minnesota,Memphis,138,95
+"['2021', '11', '20']",New York,Houston,106,99
+"['2021', '11', '20']",Portland,Philadelphia,118,111
+"['2021', '11', '20']",Utah,Sacramento,123,105
+"['2021', '11', '20']",Washington,Miami,103,100
+"['2021', '11', '21']",Chicago,New York,109,103
+"['2021', '11', '21']",LA Lakers,Detroit,121,116
+"['2021', '11', '21']",Golden State,Toronto,119,104
+"['2021', '11', '21']",LA Clippers,Dallas,97,91
+"['2021', '11', '21']",Phoenix,Denver,126,97
+"['2021', '11', '22']",Atlanta,Oklahoma City,113,101
+"['2021', '11', '22']",Boston,Houston,108,90
+"['2021', '11', '22']",Indiana,Chicago,109,77
+"['2021', '11', '22']",Brooklyn,Cleveland,117,112
+"['2021', '11', '22']",Milwaukee,Orlando,123,92
+"['2021', '11', '22']",Minnesota,New Orleans,110,96
+"['2021', '11', '22']",Philadelphia,Sacramento,102,94
+"['2021', '11', '22']",Phoenix,San Antonio,115,111
+"['2021', '11', '22']",Memphis,Utah,119,118
+"['2021', '11', '22']",Charlotte,Washington,109,103
+"['2021', '11', '23']",Miami,Detroit,100,92
+"['2021', '11', '23']",Dallas,LA Clippers,112,104
+"['2021', '11', '23']",New York,LA Lakers,106,100
+"['2021', '11', '23']",Portland,Denver,119,100
+"['2021', '11', '24']",Brooklyn,Boston,123,104
+"['2021', '11', '24']",Phoenix,Cleveland,120,115
+"['2021', '11', '24']",Golden State,Philadelphia,116,96
+"['2021', '11', '24']",Houston,Chicago,118,113
+"['2021', '11', '24']",LA Lakers,Indiana,124,116
+"['2021', '11', '24']",Toronto,Memphis,126,113
+"['2021', '11', '24']",Milwaukee,Detroit,114,93
+"['2021', '11', '24']",Minnesota,Miami,113,101
+"['2021', '11', '24']",New Orleans,Washington,127,102
+"['2021', '11', '24']",Utah,Oklahoma City,110,104
+"['2021', '11', '24']",Charlotte,Orlando,106,99
+"['2021', '11', '24']",Sacramento,Portland,125,121
+"['2021', '11', '24']",Atlanta,San Antonio,124,106
+"['2021', '11', '26']",Charlotte,Minnesota,133,115
+"['2021', '11', '26']",Milwaukee,Denver,120,109
+"['2021', '11', '26']",Golden State,Portland,118,103
+"['2021', '11', '26']",Indiana,Toronto,114,97
+"['2021', '11', '26']",LA Clippers,Detroit,107,96
+"['2021', '11', '26']",Sacramento,LA Lakers,141,137
+"['2021', '11', '26']",Atlanta,Memphis,132,100
+"['2021', '11', '26']",Phoenix,New York,118,97
+"['2021', '11', '26']",Washington,Oklahoma City,101,99
+"['2021', '11', '26']",Chicago,Orlando,123,88
+"['2021', '11', '26']",San Antonio,Boston,96,88
+"['2021', '11', '26']",New Orleans,Utah,98,97
+"['2021', '11', '27']",New York,Atlanta,99,90
+"['2021', '11', '27']",Phoenix,Brooklyn,113,107
+"['2021', '11', '27']",Miami,Chicago,107,104
+"['2021', '11', '27']",Cleveland,Orlando,105,92
+"['2021', '11', '27']",Washington,Dallas,120,114
+"['2021', '11', '27']",Houston,Charlotte,146,143
+"['2021', '11', '27']",Minnesota,Philadelphia,121,120
+"['2021', '11', '27']",Utah,New Orleans,127,105
+"['2021', '11', '28']",Milwaukee,Indiana,118,100
+"['2021', '11', '28']",Golden State,LA Clippers,105,90
+"['2021', '11', '28']",LA Lakers,Detroit,110,106
+"['2021', '11', '28']",Memphis,Sacramento,128,101
+"['2021', '11', '28']",Boston,Toronto,109,97
+"['2021', '11', '29']",Chicago,Charlotte,133,119
+"['2021', '11', '29']",Cleveland,Dallas,114,96
+"['2021', '11', '29']",Houston,Oklahoma City,102,89
+"['2021', '11', '29']",New Orleans,LA Clippers,123,104
+"['2021', '11', '29']",Denver,Miami,120,111
+"['2021', '11', '29']",Minnesota,Indiana,100,98
+"['2021', '11', '29']",Philadelphia,Orlando,101,96
+"['2021', '11', '29']",San Antonio,Washington,116,99
+"['2021', '11', '29']",Utah,Portland,129,107
+"['2021', '11', '30']",Brooklyn,New York,112,110
+"['2021', '11', '30']",Phoenix,Golden State,104,96
+"['2021', '11', '30']",Portland,Detroit,110,92
+"['2021', '11', '30']",LA Lakers,Sacramento,117,92
+"['2021', '11', '30']",Memphis,Toronto,98,91
+"['2021', '12', '01']",Boston,Philadelphia,88,87
+"['2021', '12', '01']",Atlanta,Indiana,114,111
+"['2021', '12', '01']",Sacramento,LA Clippers,124,115
+"['2021', '12', '01']",Cleveland,Miami,111,85
+"['2021', '12', '01']",Milwaukee,Charlotte,127,125
+"['2021', '12', '01']",Dallas,New Orleans,139,107
+"['2021', '12', '01']",Houston,Oklahoma City,114,110
+"['2021', '12', '01']",Orlando,Denver,108,103
+"['2021', '12', '01']",Washington,Minnesota,115,107
+"['2021', '12', '02']",Memphis,Oklahoma City,152,79
+"['2021', '12', '02']",Chicago,New York,119,115
+"['2021', '12', '02']",Phoenix,Detroit,114,103
+"['2021', '12', '02']",San Antonio,Portland,114,83
+"['2021', '12', '02']",Toronto,Milwaukee,97,93
+"['2021', '12', '03']",Philadelphia,Atlanta,98,96
+"['2021', '12', '03']",Brooklyn,Minnesota,110,105
+"['2021', '12', '03']",New Orleans,Dallas,107,91
+"['2021', '12', '03']",Golden State,Phoenix,118,96
+"['2021', '12', '03']",Houston,Orlando,118,116
+"['2021', '12', '03']",Miami,Indiana,113,104
+"['2021', '12', '03']",LA Clippers,LA Lakers,119,115
+"['2021', '12', '03']",Utah,Boston,137,130
+"['2021', '12', '03']",Cleveland,Washington,116,101
+"['2021', '12', '04']",Chicago,Brooklyn,111,107
+"['2021', '12', '04']",Memphis,Dallas,97,90
+"['2021', '12', '04']",San Antonio,Golden State,112,107
+"['2021', '12', '04']",Milwaukee,Miami,124,102
+"['2021', '12', '04']",Denver,New York,113,99
+"['2021', '12', '04']",Boston,Portland,145,117
+"['2021', '12', '04']",Sacramento,LA Clippers,104,99
+"['2021', '12', '05']",Charlotte,Atlanta,130,127
+"['2021', '12', '05']",Utah,Cleveland,109,108
+"['2021', '12', '05']",Houston,New Orleans,118,108
+"['2021', '12', '05']",Toronto,Washington,102,90
+"['2021', '12', '06']",Chicago,Denver,109,97
+"['2021', '12', '06']",Philadelphia,Charlotte,127,124
+"['2021', '12', '06']",Oklahoma City,Detroit,114,103
+"['2021', '12', '06']",Golden State,Orlando,126,95
+"['2021', '12', '06']",Indiana,Washington,116,110
+"['2021', '12', '06']",Memphis,Miami,105,90
+"['2021', '12', '06']",Milwaukee,Cleveland,112,104
+"['2021', '12', '06']",Atlanta,Minnesota,121,110
+"['2021', '12', '06']",Phoenix,San Antonio,108,104
+"['2021', '12', '06']",LA Clippers,Portland,102,90
+"['2021', '12', '07']",Brooklyn,Dallas,102,99
+"['2021', '12', '07']",LA Lakers,Boston,117,102
+"['2021', '12', '07']",New York,San Antonio,121,109
+"['2021', '12', '08']",Philadelphia,Charlotte,110,106
+"['2021', '12', '08']",Cleveland,Chicago,115,92
+"['2021', '12', '08']",Washington,Detroit,119,116
+"['2021', '12', '08']",Golden State,Portland,104,94
+"['2021', '12', '08']",Houston,Brooklyn,114,104
+"['2021', '12', '08']",Indiana,New York,122,102
+"['2021', '12', '08']",LA Clippers,Boston,114,111
+"['2021', '12', '08']",Dallas,Memphis,104,96
+"['2021', '12', '08']",Miami,Milwaukee,113,104
+"['2021', '12', '08']",Utah,Minnesota,136,104
+"['2021', '12', '08']",Denver,New Orleans,120,114
+"['2021', '12', '08']",Sacramento,Orlando,142,130
+"['2021', '12', '08']",Oklahoma City,Toronto,110,109
+"['2021', '12', '09']",Memphis,LA Lakers,108,95
+"['2021', '12', '09']",Utah,Philadelphia,118,96
+"['2021', '12', '09']",San Antonio,Denver,123,111
+"['2021', '12', '10']",Brooklyn,Atlanta,113,105
+"['2021', '12', '10']",Charlotte,Sacramento,124,123
+"['2021', '12', '10']",Milwaukee,Houston,123,114
+"['2021', '12', '10']",Indiana,Dallas,106,93
+"['2021', '12', '10']",Cleveland,Minnesota,123,106
+"['2021', '12', '10']",New Orleans,Detroit,109,93
+"['2021', '12', '10']",LA Lakers,Oklahoma City,116,95
+"['2021', '12', '10']",Phoenix,Boston,111,90
+"['2021', '12', '10']",Toronto,New York,90,87
+"['2021', '12', '11']",Cleveland,Sacramento,117,103
+"['2021', '12', '11']",LA Clippers,Orlando,106,104
+"['2021', '12', '11']",Memphis,Houston,113,106
+"['2021', '12', '11']",Miami,Chicago,118,92
+"['2021', '12', '11']",Philadelphia,Golden State,102,93
+"['2021', '12', '11']",Denver,San Antonio,127,112
+"['2021', '12', '11']",Utah,Washington,123,98
+"['2021', '12', '12']",Brooklyn,Detroit,116,104
+"['2021', '12', '12']",LA Lakers,Orlando,106,94
+"['2021', '12', '12']",Milwaukee,New York,112,97
+"['2021', '12', '12']",Dallas,Oklahoma City,103,84
+"['2021', '12', '12']",Minnesota,Portland,116,111
+"['2021', '12', '12']",San Antonio,New Orleans,112,97
+"['2021', '12', '13']",Houston,Atlanta,132,126
+"['2021', '12', '13']",Boston,Milwaukee,117,103
+"['2021', '12', '13']",Cleveland,Miami,105,94
+"['2021', '12', '13']",Dallas,Charlotte,120,96
+"['2021', '12', '13']",Denver,Washington,113,107
+"['2021', '12', '13']",Golden State,Indiana,102,100
+"['2021', '12', '13']",LA Clippers,Phoenix,111,95
+"['2021', '12', '13']",Memphis,Philadelphia,126,91
+"['2021', '12', '13']",Toronto,Sacramento,124,101
+"['2021', '12', '14']",Brooklyn,Toronto,131,129
+"['2021', '12', '14']",Golden State,New York,105,96
+"['2021', '12', '14']",Phoenix,Portland,111,107
+"['2021', '12', '15']",Cleveland,Houston,124,89
+"['2021', '12', '15']",LA Lakers,Dallas,107,104
+"['2021', '12', '15']",Minnesota,Denver,124,107
+"['2021', '12', '15']",Milwaukee,Indiana,114,99
+"['2021', '12', '15']",New Orleans,Oklahoma City,113,110
+"['2021', '12', '15']",Atlanta,Orlando,111,99
+"['2021', '12', '15']",Miami,Philadelphia,101,96
+"['2021', '12', '15']",Memphis,Portland,113,103
+"['2021', '12', '15']",Sacramento,Washington,119,105
+"['2021', '12', '15']",Charlotte,San Antonio,131,115
+"['2021', '12', '15']",Utah,LA Clippers,124,103
+"['2021', '12', '16']",Brooklyn,Philadelphia,114,105
+"['2021', '12', '16']",New York,Houston,116,103
+"['2021', '12', '16']",Indiana,Detroit,122,113
+"['2021', '12', '16']",Phoenix,Washington,118,98
+"['2021', '12', '17']",Denver,Atlanta,133,115
+"['2021', '12', '17']",Golden State,Boston,111,107
+"['2021', '12', '17']",Minnesota,LA Lakers,110,92
+"['2021', '12', '17']",New Orleans,Milwaukee,116,112
+"['2021', '12', '17']",Miami,Orlando,115,105
+"['2021', '12', '17']",Portland,Charlotte,125,116
+"['2021', '12', '17']",Memphis,Sacramento,124,105
+"['2021', '12', '17']",San Antonio,Utah,128,126
+"['2021', '12', '18']",Boston,New York,114,107
+"['2021', '12', '18']",Orlando,Brooklyn,100,93
+"['2021', '12', '18']",Houston,Detroit,116,107
+"['2021', '12', '18']",Cleveland,Milwaukee,119,90
+"['2021', '12', '18']",Oklahoma City,LA Clippers,104,103
+"['2021', '12', '18']",Toronto,Golden State,119,100
+"['2021', '12', '18']",Washington,Utah,109,103
+"['2021', '12', '19']",Chicago,LA Lakers,115,110
+"['2021', '12', '19']",Detroit,Miami,100,90
+"['2021', '12', '19']",Portland,Memphis,105,100
+"['2021', '12', '19']",Minnesota,Dallas,111,105
+"['2021', '12', '19']",Phoenix,Charlotte,137,106
+"['2021', '12', '19']",Sacramento,San Antonio,121,114
+"['2021', '12', '20']",Philadelphia,Boston,108,103
+"['2021', '12', '20']",Chicago,Houston,133,118
+"['2021', '12', '20']",Golden State,Sacramento,113,98
+"['2021', '12', '20']",San Antonio,LA Clippers,116,92
+"['2021', '12', '20']",Oklahoma City,Memphis,102,99
+"['2021', '12', '20']",Utah,Charlotte,112,102
+"['2021', '12', '21']",Dallas,Minnesota,114,102
+"['2021', '12', '21']",Phoenix,LA Lakers,108,90
+"['2021', '12', '21']",Miami,Indiana,125,96
+"['2021', '12', '21']",New Orleans,Portland,111,97
+"['2021', '12', '21']",New York,Detroit,105,91
+"['2021', '12', '22']",Orlando,Atlanta,104,98
+"['2021', '12', '22']",Boston,Cleveland,111,101
+"['2021', '12', '22']",Milwaukee,Houston,126,106
+"['2021', '12', '22']",Oklahoma City,Denver,108,94
+"['2021', '12', '22']",LA Clippers,Sacramento,105,89
+"['2021', '12', '23']",Milwaukee,Dallas,102,95
+"['2021', '12', '23']",Charlotte,Denver,115,107
+"['2021', '12', '23']",Golden State,Memphis,113,104
+"['2021', '12', '23']",Indiana,Houston,118,106
+"['2021', '12', '23']",San Antonio,LA Lakers,138,110
+"['2021', '12', '23']",Miami,Detroit,115,112
+"['2021', '12', '23']",Washington,New York,124,117
+"['2021', '12', '23']",New Orleans,Orlando,110,104
+"['2021', '12', '23']",Atlanta,Philadelphia,98,96
+"['2021', '12', '23']",Phoenix,Oklahoma City,113,101
+"['2021', '12', '23']",Utah,Minnesota,128,116
+"['2021', '12', '25']",Brooklyn,LA Lakers,122,115
+"['2021', '12', '25']",Milwaukee,Boston,117,113
+"['2021', '12', '25']",New York,Atlanta,101,87
+"['2021', '12', '25']",Golden State,Phoenix,116,107
+"['2021', '12', '25']",Utah,Dallas,120,116
+"['2021', '12', '26']",Chicago,Indiana,113,105
+"['2021', '12', '26']",Cleveland,Toronto,144,99
+"['2021', '12', '26']",Denver,LA Clippers,103,100
+"['2021', '12', '26']",Miami,Orlando,93,83
+"['2021', '12', '26']",Oklahoma City,New Orleans,117,112
+"['2021', '12', '26']",Memphis,Sacramento,127,102
+"['2021', '12', '26']",San Antonio,Detroit,144,109
+"['2021', '12', '26']",Philadelphia,Washington,117,96
+"['2021', '12', '27']",Chicago,Atlanta,130,118
+"['2021', '12', '27']",Charlotte,Houston,123,99
+"['2021', '12', '27']",Brooklyn,LA Clippers,124,108
+"['2021', '12', '27']",Minnesota,Boston,108,103
+"['2021', '12', '27']",Memphis,Phoenix,114,113
+"['2021', '12', '27']",Dallas,Portland,132,117
+"['2021', '12', '27']",Utah,San Antonio,110,104
+"['2021', '12', '28']",Denver,Golden State,89,86
+"['2021', '12', '28']",LA Lakers,Houston,132,123
+"['2021', '12', '28']",Miami,Washington,119,112
+"['2021', '12', '28']",New York,Minnesota,96,88
+"['2021', '12', '28']",New Orleans,Cleveland,108,104
+"['2021', '12', '28']",Milwaukee,Orlando,127,110
+"['2021', '12', '28']",Sacramento,Oklahoma City,117,111
+"['2021', '12', '28']",Philadelphia,Toronto,114,109
+"['2021', '12', '29']",LA Clippers,Boston,91,82
+"['2021', '12', '29']",Chicago,Atlanta,131,117
+"['2021', '12', '29']",New York,Detroit,94,85
+"['2021', '12', '29']",Charlotte,Indiana,116,108
+"['2021', '12', '29']",Memphis,LA Lakers,104,99
+"['2021', '12', '29']",Phoenix,Oklahoma City,115,97
+"['2021', '12', '29']",Utah,Portland,120,105
+"['2021', '12', '29']",Sacramento,Dallas,95,94
+"['2021', '12', '30']",Philadelphia,Brooklyn,110,102
+"['2021', '12', '30']",Milwaukee,Orlando,136,118
+"['2021', '12', '30']",Washington,Cleveland,110,93
+"['2021', '12', '31']",Boston,Phoenix,123,108
+"['2021', '12', '31']",Atlanta,Cleveland,121,118
+"['2021', '12', '31']",Miami,Houston,120,110
+"['2021', '12', '31']",Chicago,Indiana,108,106
+"['2021', '12', '31']",LA Lakers,Portland,139,106
+"['2021', '12', '31']",Memphis,San Antonio,118,105
+"['2021', '12', '31']",Oklahoma City,New York,95,80
+"['2021', '12', '31']",Dallas,Sacramento,112,96
+"['2021', '12', '31']",Toronto,LA Clippers,116,108
+"['2021', '12', '31']",Utah,Minnesota,120,108
