@@ -1,0 +1,4 @@
+game_scores contains every game's outcome in the 2022-2023 NBA season
+model_1_stats contains statistics for every team in the 2022-2023 NBA season
+nba_classification1 contains the code that creates the model
+test_classification1 allows you to input any set of 2 teams and predict the outcome
